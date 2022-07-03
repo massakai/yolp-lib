@@ -10,6 +10,10 @@ plugins {
 group 'com.github.massakai'
 version '1.0-SNAPSHOT'
 
+ext {
+    mockServerVersion = '5.13.2'
+}
+
 repositories {
     mavenCentral()
     maven {
@@ -26,6 +30,7 @@ dependencyManagement {
 dependencies {
     implementation 'org.springframework.boot:spring-boot'
     implementation 'org.springframework:spring-webflux'
+    implementation 'io.projectreactor.netty:reactor-netty-http'
     implementation 'com.fasterxml.jackson.core:jackson-databind'
     implementation 'com.fasterxml.jackson.core:jackson-core'
 
@@ -36,6 +41,7 @@ dependencies {
     testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine'
     testImplementation 'org.assertj:assertj-core'
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
+    testImplementation "org.mock-server:mockserver-junit-jupiter-no-dependencies:${mockServerVersion}"
 }
 
 test {
