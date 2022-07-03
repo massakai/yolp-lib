@@ -1,0 +1,257 @@
+{
+  "ResultInfo": {
+    "Count": 25,
+    "Total": 25,
+    "Start": 1,
+    "Status": 200,
+    "Description": "",
+    "Copyright": "",
+    "Latency": 0.008
+  },
+  "Feature": [
+    {
+      "Name": "栃木県",
+      "Geometry": {
+        "Type": "point",
+        "Coordinates": "139.88355876,36.56588896",
+        "BoundingBox": "139.3266630,36.1997110 140.2923440,37.1549630"
+      },
+      "Property": {
+        "CassetteId": "b22fee69b0dcaf2c2fe2d6a27906dafc",
+        "Country": {
+          "Code": "JP",
+          "Name": "日本"
+        },
+        "Address": "栃木県",
+        "GovernmentCode": "09",
+        "AddressDirectory": [
+          {
+            "AreaCode": "09202",
+            "Name": "足利市",
+            "Kana": "あしかがし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.44970109,36.34015341"
+            }
+          },
+          {
+            "AreaCode": "09344",
+            "Name": "市貝町（芳賀郡）",
+            "Kana": "いちかいまち（はがぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.10215663,36.54344716"
+            }
+          },
+          {
+            "AreaCode": "09201",
+            "Name": "宇都宮市",
+            "Kana": "うつのみやし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.88258721,36.55500671"
+            }
+          },
+          {
+            "AreaCode": "09210",
+            "Name": "大田原市",
+            "Kana": "おおたわらし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.01560774,36.87092566"
+            }
+          },
+          {
+            "AreaCode": "09208",
+            "Name": "小山市",
+            "Kana": "おやまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.80074692,36.31452657"
+            }
+          },
+          {
+            "AreaCode": "09205",
+            "Name": "鹿沼市",
+            "Kana": "かぬまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.74497330,36.56703212"
+            }
+          },
+          {
+            "AreaCode": "09301",
+            "Name": "上三川町（河内郡）",
+            "Kana": "かみのかわまち（かわちぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.90985617,36.43929260"
+            }
+          },
+          {
+            "AreaCode": "09214",
+            "Name": "さくら市",
+            "Kana": "さくらし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.96648815,36.68532308"
+            }
+          },
+          {
+            "AreaCode": "09204",
+            "Name": "佐野市",
+            "Kana": "さのし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.57834089,36.31435171"
+            }
+          },
+          {
+            "AreaCode": "09384",
+            "Name": "塩谷町（塩谷郡）",
+            "Kana": "しおやまち（しおやぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.85052231,36.77782648"
+            }
+          },
+          {
+            "AreaCode": "09216",
+            "Name": "下野市",
+            "Kana": "しもつけし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.85207958,36.39514363"
+            }
+          },
+          {
+            "AreaCode": "09386",
+            "Name": "高根沢町（塩谷郡）",
+            "Kana": "たかねざわまち（しおやぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.98659944,36.63138909"
+            }
+          },
+          {
+            "AreaCode": "09203",
+            "Name": "栃木市",
+            "Kana": "とちぎし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.73408015,36.38238022"
+            }
+          },
+          {
+            "AreaCode": "09411",
+            "Name": "那珂川町（那須郡）",
+            "Kana": "なかがわまち（なすぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.17237300,36.73625304"
+            }
+          },
+          {
+            "AreaCode": "09215",
+            "Name": "那須烏山市",
+            "Kana": "なすからすやまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.15145831,36.65691525"
+            }
+          },
+          {
+            "AreaCode": "09213",
+            "Name": "那須塩原市",
+            "Kana": "なすしおばらし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.04605221,36.96168921"
+            }
+          },
+          {
+            "AreaCode": "09407",
+            "Name": "那須町（那須郡）",
+            "Kana": "なすまち（なすぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.12080050,37.01974515"
+            }
+          },
+          {
+            "AreaCode": "09206",
+            "Name": "日光市",
+            "Kana": "にっこうし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.69762611,36.72000752"
+            }
+          },
+          {
+            "AreaCode": "09364",
+            "Name": "野木町（下都賀郡）",
+            "Kana": "のぎまち（しもつがぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.74072798,36.23320344"
+            }
+          },
+          {
+            "AreaCode": "09345",
+            "Name": "芳賀町（芳賀郡）",
+            "Kana": "はがまち（はがぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.05789064,36.54795640"
+            }
+          },
+          {
+            "AreaCode": "09342",
+            "Name": "益子町（芳賀郡）",
+            "Kana": "ましこまち（はがぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.09326369,36.46746672"
+            }
+          },
+          {
+            "AreaCode": "09361",
+            "Name": "壬生町（下都賀郡）",
+            "Kana": "みぶまち（しもつがぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.80405981,36.42728248"
+            }
+          },
+          {
+            "AreaCode": "09209",
+            "Name": "真岡市",
+            "Kana": "もおかし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.01244963,36.44037084"
+            }
+          },
+          {
+            "AreaCode": "09343",
+            "Name": "茂木町（芳賀郡）",
+            "Kana": "もてぎまち（はがぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.18729462,36.53200303"
+            }
+          },
+          {
+            "AreaCode": "09211",
+            "Name": "矢板市",
+            "Kana": "やいたし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.92405372,36.80668590"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

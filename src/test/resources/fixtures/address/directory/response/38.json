@@ -1,0 +1,212 @@
+{
+  "ResultInfo": {
+    "Count": 20,
+    "Total": 20,
+    "Start": 1,
+    "Status": 200,
+    "Description": "",
+    "Copyright": "",
+    "Latency": 0.008
+  },
+  "Feature": [
+    {
+      "Name": "愛媛県",
+      "Geometry": {
+        "Type": "point",
+        "Coordinates": "132.76582759,33.84183165",
+        "BoundingBox": "132.0123530,32.8849680 133.6928720,34.3015880"
+      },
+      "Property": {
+        "CassetteId": "b22fee69b0dcaf2c2fe2d6a27906dafc",
+        "Country": {
+          "Code": "JP",
+          "Name": "日本"
+        },
+        "Address": "愛媛県",
+        "GovernmentCode": "38",
+        "AddressDirectory": [
+          {
+            "AreaCode": "38506",
+            "Name": "愛南町（南宇和郡）",
+            "Kana": "あいなんちょう（みなみうわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.58345026,32.96250296"
+            }
+          },
+          {
+            "AreaCode": "38442",
+            "Name": "伊方町（西宇和郡）",
+            "Kana": "いかたちょう（にしうわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.35402308,33.48858433"
+            }
+          },
+          {
+            "AreaCode": "38202",
+            "Name": "今治市",
+            "Kana": "いまばりし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.99786048,34.06609710"
+            }
+          },
+          {
+            "AreaCode": "38210",
+            "Name": "伊予市",
+            "Kana": "いよし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.70372876,33.75743146"
+            }
+          },
+          {
+            "AreaCode": "38422",
+            "Name": "内子町（喜多郡）",
+            "Kana": "うちこちょう（きたぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.65800071,33.53289569"
+            }
+          },
+          {
+            "AreaCode": "38203",
+            "Name": "宇和島市",
+            "Kana": "うわじまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.56058177,33.22332041"
+            }
+          },
+          {
+            "AreaCode": "38207",
+            "Name": "大洲市",
+            "Kana": "おおずし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.54450587,33.50621001"
+            }
+          },
+          {
+            "AreaCode": "38356",
+            "Name": "上島町（越智郡）",
+            "Kana": "かみじまちょう（おちぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.20447907,34.25730799"
+            }
+          },
+          {
+            "AreaCode": "38488",
+            "Name": "鬼北町（北宇和郡）",
+            "Kana": "きほくちょう（きたうわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.68419756,33.25597398"
+            }
+          },
+          {
+            "AreaCode": "38386",
+            "Name": "久万高原町（上浮穴郡）",
+            "Kana": "くまこうげんちょう（かみうけなぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.90167615,33.65560223"
+            }
+          },
+          {
+            "AreaCode": "38206",
+            "Name": "西条市",
+            "Kana": "さいじょうし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.18113867,33.91949369"
+            }
+          },
+          {
+            "AreaCode": "38213",
+            "Name": "四国中央市",
+            "Kana": "しこくちゅうおうし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.55003106,33.98067402"
+            }
+          },
+          {
+            "AreaCode": "38214",
+            "Name": "西予市",
+            "Kana": "せいよし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.51097848,33.36301668"
+            }
+          },
+          {
+            "AreaCode": "38215",
+            "Name": "東温市",
+            "Kana": "とうおんし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.87204869,33.79106449"
+            }
+          },
+          {
+            "AreaCode": "38402",
+            "Name": "砥部町（伊予郡）",
+            "Kana": "とべちょう（いよぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.79223846,33.74922333"
+            }
+          },
+          {
+            "AreaCode": "38205",
+            "Name": "新居浜市",
+            "Kana": "にいはまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.28335070,33.96029173"
+            }
+          },
+          {
+            "AreaCode": "38401",
+            "Name": "松前町（伊予郡）",
+            "Kana": "まさきちょう（いよぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.71139737,33.78743431"
+            }
+          },
+          {
+            "AreaCode": "38484",
+            "Name": "松野町（北宇和郡）",
+            "Kana": "まつのちょう（きたうわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.71079867,33.22718892"
+            }
+          },
+          {
+            "AreaCode": "38201",
+            "Name": "松山市",
+            "Kana": "まつやまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.76557759,33.83915698"
+            }
+          },
+          {
+            "AreaCode": "38204",
+            "Name": "八幡浜市",
+            "Kana": "やわたはまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.42333567,33.46289747"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

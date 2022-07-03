@@ -1,0 +1,329 @@
+{
+  "ResultInfo": {
+    "Count": 33,
+    "Total": 33,
+    "Start": 1,
+    "Status": 200,
+    "Description": "",
+    "Copyright": "",
+    "Latency": 0.009
+  },
+  "Feature": [
+    {
+      "Name": "岩手県",
+      "Geometry": {
+        "Type": "point",
+        "Coordinates": "141.15258380,39.70348887",
+        "BoundingBox": "140.6531940,38.7475400 142.0724290,40.4503220"
+      },
+      "Property": {
+        "CassetteId": "b22fee69b0dcaf2c2fe2d6a27906dafc",
+        "Country": {
+          "Code": "JP",
+          "Name": "日本"
+        },
+        "Address": "岩手県",
+        "GovernmentCode": "03",
+        "AddressDirectory": [
+          {
+            "AreaCode": "03209",
+            "Name": "一関市",
+            "Kana": "いちのせきし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.12680011,38.93468177"
+            }
+          },
+          {
+            "AreaCode": "03524",
+            "Name": "一戸町（二戸郡）",
+            "Kana": "いちのへまち（にのへぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.29565220,40.21311891"
+            }
+          },
+          {
+            "AreaCode": "03483",
+            "Name": "岩泉町（下閉伊郡）",
+            "Kana": "いわいずみちょう（しもへいぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.79648042,39.84312817"
+            }
+          },
+          {
+            "AreaCode": "03303",
+            "Name": "岩手町（岩手郡）",
+            "Kana": "いわてまち（いわてぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.21252137,39.97257847"
+            }
+          },
+          {
+            "AreaCode": "03215",
+            "Name": "奥州市",
+            "Kana": "おうしゅうし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.13916299,39.14441441"
+            }
+          },
+          {
+            "AreaCode": "03461",
+            "Name": "大槌町（上閉伊郡）",
+            "Kana": "おおつちちょう（かみへいぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.89942125,39.35823354"
+            }
+          },
+          {
+            "AreaCode": "03203",
+            "Name": "大船渡市",
+            "Kana": "おおふなとし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.70852990,39.08190101"
+            }
+          },
+          {
+            "AreaCode": "03381",
+            "Name": "金ケ崎町（胆沢郡）",
+            "Kana": "かねがさきちょう（いさわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.11637679,39.19573876"
+            }
+          },
+          {
+            "AreaCode": "03211",
+            "Name": "釜石市",
+            "Kana": "かまいしし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.88567971,39.27581800"
+            }
+          },
+          {
+            "AreaCode": "03501",
+            "Name": "軽米町（九戸郡）",
+            "Kana": "かるまいまち（くのへぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.46084381,40.32703711"
+            }
+          },
+          {
+            "AreaCode": "03206",
+            "Name": "北上市",
+            "Kana": "きたかみし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.11319363,39.28676696"
+            }
+          },
+          {
+            "AreaCode": "03207",
+            "Name": "久慈市",
+            "Kana": "くじし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.77558229,40.19052384"
+            }
+          },
+          {
+            "AreaCode": "03302",
+            "Name": "葛巻町（岩手郡）",
+            "Kana": "くずまきまち（いわてぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.43646498,40.03989588"
+            }
+          },
+          {
+            "AreaCode": "03506",
+            "Name": "九戸村（九戸郡）",
+            "Kana": "くのへむら（くのへぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.41898778,40.21139123"
+            }
+          },
+          {
+            "AreaCode": "03301",
+            "Name": "雫石町（岩手郡）",
+            "Kana": "しずくいしちょう（いわてぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.97568089,39.69621744"
+            }
+          },
+          {
+            "AreaCode": "03321",
+            "Name": "紫波町（紫波郡）",
+            "Kana": "しわちょう（しわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.15565836,39.55456705"
+            }
+          },
+          {
+            "AreaCode": "03441",
+            "Name": "住田町（気仙郡）",
+            "Kana": "すみたちょう（けせんぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.57504950,39.14223211"
+            }
+          },
+          {
+            "AreaCode": "03216",
+            "Name": "滝沢市",
+            "Kana": "たきざわし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.07705836,39.73470832"
+            }
+          },
+          {
+            "AreaCode": "03484",
+            "Name": "田野畑村（下閉伊郡）",
+            "Kana": "たのはたむら（しもへいぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.88888138,39.93047225"
+            }
+          },
+          {
+            "AreaCode": "03208",
+            "Name": "遠野市",
+            "Kana": "とおのし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.53138345,39.33070343"
+            }
+          },
+          {
+            "AreaCode": "03366",
+            "Name": "西和賀町（和賀郡）",
+            "Kana": "にしわがまち（わがぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.77879040,39.31791238"
+            }
+          },
+          {
+            "AreaCode": "03213",
+            "Name": "二戸市",
+            "Kana": "にのへし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.30481634,40.27121286"
+            }
+          },
+          {
+            "AreaCode": "03503",
+            "Name": "野田村（九戸郡）",
+            "Kana": "のだむら（くのへぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.81766842,40.11026027"
+            }
+          },
+          {
+            "AreaCode": "03214",
+            "Name": "八幡平市",
+            "Kana": "はちまんたいし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.07129183,39.95647933"
+            }
+          },
+          {
+            "AreaCode": "03205",
+            "Name": "花巻市",
+            "Kana": "はなまきし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.11664533,39.38858115"
+            }
+          },
+          {
+            "AreaCode": "03402",
+            "Name": "平泉町（西磐井郡）",
+            "Kana": "ひらいずみちょう（にしいわいぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.11354688,38.98653690"
+            }
+          },
+          {
+            "AreaCode": "03507",
+            "Name": "洋野町（九戸郡）",
+            "Kana": "ひろのちょう（くのへぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.71860590,40.40831388"
+            }
+          },
+          {
+            "AreaCode": "03485",
+            "Name": "普代村（下閉伊郡）",
+            "Kana": "ふだいむら（しもへいぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.88594116,40.00521092"
+            }
+          },
+          {
+            "AreaCode": "03202",
+            "Name": "宮古市",
+            "Kana": "みやこし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.94605168,39.63955019"
+            }
+          },
+          {
+            "AreaCode": "03201",
+            "Name": "盛岡市",
+            "Kana": "もりおかし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.15451145,39.70186409"
+            }
+          },
+          {
+            "AreaCode": "03322",
+            "Name": "矢巾町（紫波郡）",
+            "Kana": "やはばちょう（しわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.14295229,39.60599119"
+            }
+          },
+          {
+            "AreaCode": "03482",
+            "Name": "山田町（下閉伊郡）",
+            "Kana": "やまだまち（しもへいぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.94894159,39.46755586"
+            }
+          },
+          {
+            "AreaCode": "03210",
+            "Name": "陸前高田市",
+            "Kana": "りくぜんたかたし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.63314713,39.02040295"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

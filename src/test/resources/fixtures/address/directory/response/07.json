@@ -1,0 +1,563 @@
+{
+  "ResultInfo": {
+    "Count": 59,
+    "Total": 59,
+    "Start": 1,
+    "Status": 200,
+    "Description": "",
+    "Copyright": "",
+    "Latency": 0.01
+  },
+  "Feature": [
+    {
+      "Name": "福島県",
+      "Geometry": {
+        "Type": "point",
+        "Coordinates": "140.46740662,37.75005657",
+        "BoundingBox": "139.1648070,36.7912730 141.0434940,37.9766860"
+      },
+      "Property": {
+        "CassetteId": "b22fee69b0dcaf2c2fe2d6a27906dafc",
+        "Country": {
+          "Code": "JP",
+          "Name": "日本"
+        },
+        "Address": "福島県",
+        "GovernmentCode": "07",
+        "AddressDirectory": [
+          {
+            "AreaCode": "07421",
+            "Name": "会津坂下町（河沼郡）",
+            "Kana": "あいづばんげまち（かわぬまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.82172850,37.56138082"
+            }
+          },
+          {
+            "AreaCode": "07447",
+            "Name": "会津美里町（大沼郡）",
+            "Kana": "あいづみさとまち（おおぬまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.83448421,37.46513046"
+            }
+          },
+          {
+            "AreaCode": "07202",
+            "Name": "会津若松市",
+            "Kana": "あいづわかまつし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.92981237,37.49476061"
+            }
+          },
+          {
+            "AreaCode": "07504",
+            "Name": "浅川町（石川郡）",
+            "Kana": "あさかわまち（いしかわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.41293965,37.08079113"
+            }
+          },
+          {
+            "AreaCode": "07564",
+            "Name": "飯舘村（相馬郡）",
+            "Kana": "いいたてむら（そうまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.73524742,37.67919004"
+            }
+          },
+          {
+            "AreaCode": "07501",
+            "Name": "石川町（石川郡）",
+            "Kana": "いしかわまち（いしかわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.44677883,37.15707713"
+            }
+          },
+          {
+            "AreaCode": "07464",
+            "Name": "泉崎村（西白河郡）",
+            "Kana": "いずみざきむら（にししらかわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.30329477,37.15377178"
+            }
+          },
+          {
+            "AreaCode": "07408",
+            "Name": "猪苗代町（耶麻郡）",
+            "Kana": "いなわしろまち（やまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.10474622,37.55778150"
+            }
+          },
+          {
+            "AreaCode": "07204",
+            "Name": "いわき市",
+            "Kana": "いわきし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.88768406,37.05042128"
+            }
+          },
+          {
+            "AreaCode": "07545",
+            "Name": "大熊町（双葉郡）",
+            "Kana": "おおくままち（ふたばぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.95835941,37.38178597"
+            }
+          },
+          {
+            "AreaCode": "07322",
+            "Name": "大玉村（安達郡）",
+            "Kana": "おおたまむら（あだちぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.37103618,37.53437523"
+            }
+          },
+          {
+            "AreaCode": "07522",
+            "Name": "小野町（田村郡）",
+            "Kana": "おのまち（たむらぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.62627963,37.28683907"
+            }
+          },
+          {
+            "AreaCode": "07342",
+            "Name": "鏡石町（岩瀬郡）",
+            "Kana": "かがみいしまち（いわせぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.34338873,37.25259094"
+            }
+          },
+          {
+            "AreaCode": "07548",
+            "Name": "葛尾村（双葉郡）",
+            "Kana": "かつらおむら（ふたばぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.76448757,37.50353671"
+            }
+          },
+          {
+            "AreaCode": "07445",
+            "Name": "金山町（大沼郡）",
+            "Kana": "かねやままち（おおぬまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.52452283,37.45358952"
+            }
+          },
+          {
+            "AreaCode": "07544",
+            "Name": "川内村（双葉郡）",
+            "Kana": "かわうちむら（ふたばぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.80924160,37.33764855"
+            }
+          },
+          {
+            "AreaCode": "07308",
+            "Name": "川俣町（伊達郡）",
+            "Kana": "かわまたまち（だてぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.59824125,37.66502974"
+            }
+          },
+          {
+            "AreaCode": "07208",
+            "Name": "喜多方市",
+            "Kana": "きたかたし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.87470838,37.65112989"
+            }
+          },
+          {
+            "AreaCode": "07402",
+            "Name": "北塩原村（耶麻郡）",
+            "Kana": "きたしおばらむら（やまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.93737716,37.65571471"
+            }
+          },
+          {
+            "AreaCode": "07303",
+            "Name": "国見町（伊達郡）",
+            "Kana": "くにみまち（だてぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.54918716,37.87682236"
+            }
+          },
+          {
+            "AreaCode": "07301",
+            "Name": "桑折町（伊達郡）",
+            "Kana": "こおりまち（だてぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.52076814,37.85466316"
+            }
+          },
+          {
+            "AreaCode": "07203",
+            "Name": "郡山市",
+            "Kana": "こおりやまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.36005504,37.40054514"
+            }
+          },
+          {
+            "AreaCode": "07484",
+            "Name": "鮫川村（東白川郡）",
+            "Kana": "さめがわむら（ひがししらかわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.51015220,37.04234357"
+            }
+          },
+          {
+            "AreaCode": "07362",
+            "Name": "下郷町（南会津郡）",
+            "Kana": "しもごうまち（みなみあいづぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.87215067,37.25561582"
+            }
+          },
+          {
+            "AreaCode": "07446",
+            "Name": "昭和村（大沼郡）",
+            "Kana": "しょうわむら（おおぬまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.61072959,37.33549403"
+            }
+          },
+          {
+            "AreaCode": "07205",
+            "Name": "白河市",
+            "Kana": "しらかわし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.21094539,37.12636447"
+            }
+          },
+          {
+            "AreaCode": "07561",
+            "Name": "新地町（相馬郡）",
+            "Kana": "しんちまち（そうまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.91944594,37.87636202"
+            }
+          },
+          {
+            "AreaCode": "07207",
+            "Name": "須賀川市",
+            "Kana": "すかがわし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.37252940,37.28695773"
+            }
+          },
+          {
+            "AreaCode": "07209",
+            "Name": "相馬市",
+            "Kana": "そうまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.91889714,37.79734296"
+            }
+          },
+          {
+            "AreaCode": "07367",
+            "Name": "只見町（南会津郡）",
+            "Kana": "ただみまち（みなみあいづぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.31610427,37.34880570"
+            }
+          },
+          {
+            "AreaCode": "07213",
+            "Name": "伊達市",
+            "Kana": "だてし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.56276323,37.81911859"
+            }
+          },
+          {
+            "AreaCode": "07481",
+            "Name": "棚倉町（東白川郡）",
+            "Kana": "たなぐらまち（ひがししらかわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.37964785,37.02990470"
+            }
+          },
+          {
+            "AreaCode": "07502",
+            "Name": "玉川村（石川郡）",
+            "Kana": "たまかわむら（いしかわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.40893259,37.21068900"
+            }
+          },
+          {
+            "AreaCode": "07211",
+            "Name": "田村市",
+            "Kana": "たむらし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.57642169,37.44055212"
+            }
+          },
+          {
+            "AreaCode": "07344",
+            "Name": "天栄村（岩瀬郡）",
+            "Kana": "てんえいむら（いわせぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.24705688,37.25558602"
+            }
+          },
+          {
+            "AreaCode": "07543",
+            "Name": "富岡町（双葉郡）",
+            "Kana": "とみおかまち（ふたばぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.00864767,37.34559435"
+            }
+          },
+          {
+            "AreaCode": "07465",
+            "Name": "中島村（西白河郡）",
+            "Kana": "なかじまむら（にししらかわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.35015365,37.14888398"
+            }
+          },
+          {
+            "AreaCode": "07547",
+            "Name": "浪江町（双葉郡）",
+            "Kana": "なみえまち（ふたばぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.00065662,37.49458805"
+            }
+          },
+          {
+            "AreaCode": "07542",
+            "Name": "楢葉町（双葉郡）",
+            "Kana": "ならはまち（ふたばぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.99336926,37.28248419"
+            }
+          },
+          {
+            "AreaCode": "07405",
+            "Name": "西会津町（耶麻郡）",
+            "Kana": "にしあいづまち（やまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.64929116,37.58742818"
+            }
+          },
+          {
+            "AreaCode": "07461",
+            "Name": "西郷村（西白河郡）",
+            "Kana": "にしごうむら（にししらかわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.15536337,37.14169520"
+            }
+          },
+          {
+            "AreaCode": "07210",
+            "Name": "二本松市",
+            "Kana": "にほんまつし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.43102625,37.58492977"
+            }
+          },
+          {
+            "AreaCode": "07483",
+            "Name": "塙町（東白川郡）",
+            "Kana": "はなわまち（ひがししらかわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.40957276,36.95743676"
+            }
+          },
+          {
+            "AreaCode": "07407",
+            "Name": "磐梯町（耶麻郡）",
+            "Kana": "ばんだいまち（やまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.98881275,37.56211795"
+            }
+          },
+          {
+            "AreaCode": "07364",
+            "Name": "檜枝岐村（南会津郡）",
+            "Kana": "ひのえまたむら（みなみあいづぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.38892461,37.02417541"
+            }
+          },
+          {
+            "AreaCode": "07503",
+            "Name": "平田村（石川郡）",
+            "Kana": "ひらたむら（いしかわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.57587839,37.22178502"
+            }
+          },
+          {
+            "AreaCode": "07541",
+            "Name": "広野町（双葉郡）",
+            "Kana": "ひろのまち（ふたばぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.99437435,37.21462785"
+            }
+          },
+          {
+            "AreaCode": "07201",
+            "Name": "福島市",
+            "Kana": "ふくしまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.47469440,37.76089735"
+            }
+          },
+          {
+            "AreaCode": "07546",
+            "Name": "双葉町（双葉郡）",
+            "Kana": "ふたばまち（ふたばぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.01213618,37.44905888"
+            }
+          },
+          {
+            "AreaCode": "07505",
+            "Name": "古殿町（石川郡）",
+            "Kana": "ふるどのまち（いしかわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.55565179,37.08909238"
+            }
+          },
+          {
+            "AreaCode": "07444",
+            "Name": "三島町（大沼郡）",
+            "Kana": "みしままち（おおぬまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.64444873,37.47037142"
+            }
+          },
+          {
+            "AreaCode": "07368",
+            "Name": "南会津町（南会津郡）",
+            "Kana": "みなみあいづまち（みなみあいづぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.77388712,37.20040274"
+            }
+          },
+          {
+            "AreaCode": "07212",
+            "Name": "南相馬市",
+            "Kana": "みなみそうまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.95733345,37.64217158"
+            }
+          },
+          {
+            "AreaCode": "07521",
+            "Name": "三春町（田村郡）",
+            "Kana": "みはるまち（たむらぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.49333470,37.44052216"
+            }
+          },
+          {
+            "AreaCode": "07214",
+            "Name": "本宮市",
+            "Kana": "もとみやし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.39387613,37.51315290"
+            }
+          },
+          {
+            "AreaCode": "07423",
+            "Name": "柳津町（河沼郡）",
+            "Kana": "やないづまち（かわぬまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.71950077,37.52606491"
+            }
+          },
+          {
+            "AreaCode": "07466",
+            "Name": "矢吹町（西白河郡）",
+            "Kana": "やぶきまち（にししらかわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.33860806,37.20127678"
+            }
+          },
+          {
+            "AreaCode": "07482",
+            "Name": "矢祭町（東白川郡）",
+            "Kana": "やまつりまち（ひがししらかわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.42480481,36.87131645"
+            }
+          },
+          {
+            "AreaCode": "07422",
+            "Name": "湯川村（河沼郡）",
+            "Kana": "ゆがわむら（かわぬまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.88678000,37.56529895"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

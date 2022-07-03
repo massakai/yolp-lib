@@ -1,0 +1,338 @@
+{
+  "ResultInfo": {
+    "Count": 34,
+    "Total": 34,
+    "Start": 1,
+    "Status": 200,
+    "Description": "",
+    "Copyright": "",
+    "Latency": 0.006
+  },
+  "Feature": [
+    {
+      "Name": "高知県",
+      "Geometry": {
+        "Type": "point",
+        "Coordinates": "133.53102881,33.55982818",
+        "BoundingBox": "132.4795990,32.7024710 134.3144110,33.8832260"
+      },
+      "Property": {
+        "CassetteId": "b22fee69b0dcaf2c2fe2d6a27906dafc",
+        "Country": {
+          "Code": "JP",
+          "Name": "日本"
+        },
+        "Address": "高知県",
+        "GovernmentCode": "39",
+        "AddressDirectory": [
+          {
+            "AreaCode": "39203",
+            "Name": "安芸市",
+            "Kana": "あきし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.90716060,33.50259586"
+            }
+          },
+          {
+            "AreaCode": "39386",
+            "Name": "いの町（吾川郡）",
+            "Kana": "いのちょう（あがわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.42795301,33.54893743"
+            }
+          },
+          {
+            "AreaCode": "39306",
+            "Name": "馬路村（安芸郡）",
+            "Kana": "うまじむら（あきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.04793018,33.55509672"
+            }
+          },
+          {
+            "AreaCode": "39364",
+            "Name": "大川村（土佐郡）",
+            "Kana": "おおかわむら（とさぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.46659682,33.78406207"
+            }
+          },
+          {
+            "AreaCode": "39424",
+            "Name": "大月町（幡多郡）",
+            "Kana": "おおつきちょう（はたぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.70702587,32.84148129"
+            }
+          },
+          {
+            "AreaCode": "39344",
+            "Name": "大豊町（長岡郡）",
+            "Kana": "おおとよちょう（ながおかぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.64297922,33.76849752"
+            }
+          },
+          {
+            "AreaCode": "39403",
+            "Name": "越知町（高岡郡）",
+            "Kana": "おちちょう（たかおかぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.25199295,33.53291912"
+            }
+          },
+          {
+            "AreaCode": "39212",
+            "Name": "香美市",
+            "Kana": "かみし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.68627262,33.60388444"
+            }
+          },
+          {
+            "AreaCode": "39305",
+            "Name": "北川村（安芸郡）",
+            "Kana": "きたがわむら（あきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.04206925,33.44769376"
+            }
+          },
+          {
+            "AreaCode": "39428",
+            "Name": "黒潮町（幡多郡）",
+            "Kana": "くろしおちょう（はたぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.00415593,33.02495197"
+            }
+          },
+          {
+            "AreaCode": "39307",
+            "Name": "芸西村（安芸郡）",
+            "Kana": "げいせいむら（あきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.80920831,33.52674732"
+            }
+          },
+          {
+            "AreaCode": "39201",
+            "Name": "高知市",
+            "Kana": "こうちし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.53102883,33.55880331"
+            }
+          },
+          {
+            "AreaCode": "39211",
+            "Name": "香南市",
+            "Kana": "こうなんし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.70046884,33.56418390"
+            }
+          },
+          {
+            "AreaCode": "39402",
+            "Name": "佐川町（高岡郡）",
+            "Kana": "さかわちょう（たかおかぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.28669060,33.50076537"
+            }
+          },
+          {
+            "AreaCode": "39210",
+            "Name": "四万十市",
+            "Kana": "しまんとし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.93372121,32.99174776"
+            }
+          },
+          {
+            "AreaCode": "39412",
+            "Name": "四万十町（高岡郡）",
+            "Kana": "しまんとちょう（たかおかぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.13702618,33.21165517"
+            }
+          },
+          {
+            "AreaCode": "39208",
+            "Name": "宿毛市",
+            "Kana": "すくもし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.72628516,32.93901045"
+            }
+          },
+          {
+            "AreaCode": "39206",
+            "Name": "須崎市",
+            "Kana": "すさきし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.28295817,33.40076426"
+            }
+          },
+          {
+            "AreaCode": "39303",
+            "Name": "田野町（安芸郡）",
+            "Kana": "たのちょう（あきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.00848150,33.42793850"
+            }
+          },
+          {
+            "AreaCode": "39411",
+            "Name": "津野町（高岡郡）",
+            "Kana": "つのちょう（たかおかぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.19940212,33.44664381"
+            }
+          },
+          {
+            "AreaCode": "39301",
+            "Name": "東洋町（安芸郡）",
+            "Kana": "とうようちょう（あきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.27992069,33.52831206"
+            }
+          },
+          {
+            "AreaCode": "39205",
+            "Name": "土佐市",
+            "Kana": "とさし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.42452780,33.49445782"
+            }
+          },
+          {
+            "AreaCode": "39209",
+            "Name": "土佐清水市",
+            "Kana": "とさしみずし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.95498860,32.78163258"
+            }
+          },
+          {
+            "AreaCode": "39363",
+            "Name": "土佐町（土佐郡）",
+            "Kana": "とさちょう（とさぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.53192187,33.73712705"
+            }
+          },
+          {
+            "AreaCode": "39401",
+            "Name": "中土佐町（高岡郡）",
+            "Kana": "なかとさちょう（たかおかぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.22480504,33.32923575"
+            }
+          },
+          {
+            "AreaCode": "39302",
+            "Name": "奈半利町（安芸郡）",
+            "Kana": "なはりちょう（あきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.02072752,33.42424446"
+            }
+          },
+          {
+            "AreaCode": "39204",
+            "Name": "南国市",
+            "Kana": "なんこくし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.64145953,33.57567024"
+            }
+          },
+          {
+            "AreaCode": "39387",
+            "Name": "仁淀川町（吾川郡）",
+            "Kana": "によどがわちょう（あがわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.17113191,33.57521166"
+            }
+          },
+          {
+            "AreaCode": "39410",
+            "Name": "日高村（高岡郡）",
+            "Kana": "ひだかむら（たかおかぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.37334408,33.53523498"
+            }
+          },
+          {
+            "AreaCode": "39427",
+            "Name": "三原村（幡多郡）",
+            "Kana": "みはらむら（はたぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.84675324,32.90608745"
+            }
+          },
+          {
+            "AreaCode": "39202",
+            "Name": "室戸市",
+            "Kana": "むろとし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.15205080,33.29000907"
+            }
+          },
+          {
+            "AreaCode": "39341",
+            "Name": "本山町（長岡郡）",
+            "Kana": "もとやまちょう（ながおかぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.59115579,33.75709805"
+            }
+          },
+          {
+            "AreaCode": "39304",
+            "Name": "安田町（安芸郡）",
+            "Kana": "やすだちょう（あきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.98117397,33.43880363"
+            }
+          },
+          {
+            "AreaCode": "39405",
+            "Name": "檮原町（高岡郡）",
+            "Kana": "ゆすはらちょう（たかおかぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.92708997,33.39213131"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

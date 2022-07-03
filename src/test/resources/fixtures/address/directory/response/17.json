@@ -1,0 +1,203 @@
+{
+  "ResultInfo": {
+    "Count": 19,
+    "Total": 19,
+    "Start": 1,
+    "Status": 200,
+    "Description": "",
+    "Copyright": "",
+    "Latency": 0.008
+  },
+  "Feature": [
+    {
+      "Name": "石川県",
+      "Geometry": {
+        "Type": "point",
+        "Coordinates": "136.62555248,36.59470864",
+        "BoundingBox": "136.2440460,36.0672740 137.3652010,37.8578500"
+      },
+      "Property": {
+        "CassetteId": "b22fee69b0dcaf2c2fe2d6a27906dafc",
+        "Country": {
+          "Code": "JP",
+          "Name": "日本"
+        },
+        "Address": "石川県",
+        "GovernmentCode": "17",
+        "AddressDirectory": [
+          {
+            "AreaCode": "17461",
+            "Name": "穴水町（鳳珠郡）",
+            "Kana": "あなみずまち（ほうすぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.91247408,37.23101938"
+            }
+          },
+          {
+            "AreaCode": "17365",
+            "Name": "内灘町（河北郡）",
+            "Kana": "うちなだまち（かほくぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.64509181,36.65342897"
+            }
+          },
+          {
+            "AreaCode": "17206",
+            "Name": "加賀市",
+            "Kana": "かがし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.31497418,36.30270737"
+            }
+          },
+          {
+            "AreaCode": "17201",
+            "Name": "金沢市",
+            "Kana": "かなざわし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.65665496,36.56140825"
+            }
+          },
+          {
+            "AreaCode": "17209",
+            "Name": "かほく市",
+            "Kana": "かほくし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.70673749,36.72001755"
+            }
+          },
+          {
+            "AreaCode": "17324",
+            "Name": "川北町（能美郡）",
+            "Kana": "かわきたまち（のみぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.54219207,36.46825134"
+            }
+          },
+          {
+            "AreaCode": "17203",
+            "Name": "小松市",
+            "Kana": "こまつし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.44556515,36.40855022"
+            }
+          },
+          {
+            "AreaCode": "17384",
+            "Name": "志賀町（羽咋郡）",
+            "Kana": "しかまち（はくいぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.77802944,37.00615032"
+            }
+          },
+          {
+            "AreaCode": "17205",
+            "Name": "珠洲市",
+            "Kana": "すずし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.26043575,37.43634681"
+            }
+          },
+          {
+            "AreaCode": "17361",
+            "Name": "津幡町（河北郡）",
+            "Kana": "つばたまち（かほくぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.72844166,36.66869326"
+            }
+          },
+          {
+            "AreaCode": "17407",
+            "Name": "中能登町（鹿島郡）",
+            "Kana": "なかのとまち（かしまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.90179039,36.98895536"
+            }
+          },
+          {
+            "AreaCode": "17202",
+            "Name": "七尾市",
+            "Kana": "ななおし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.96751742,37.04310164"
+            }
+          },
+          {
+            "AreaCode": "17463",
+            "Name": "能登町（鳳珠郡）",
+            "Kana": "のとちょう（ほうすぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.14765225,37.31042875"
+            }
+          },
+          {
+            "AreaCode": "17212",
+            "Name": "野々市市",
+            "Kana": "ののいちし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.60974295,36.51949029"
+            }
+          },
+          {
+            "AreaCode": "17211",
+            "Name": "能美市",
+            "Kana": "のみし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.55424124,36.44694080"
+            }
+          },
+          {
+            "AreaCode": "17207",
+            "Name": "羽咋市",
+            "Kana": "はくいし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.77899595,36.89359845"
+            }
+          },
+          {
+            "AreaCode": "17210",
+            "Name": "白山市",
+            "Kana": "はくさんし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.56559983,36.51443500"
+            }
+          },
+          {
+            "AreaCode": "17386",
+            "Name": "宝達志水町（羽咋郡）",
+            "Kana": "ほうだつしみずちょう（はくいぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.79752870,36.86275602"
+            }
+          },
+          {
+            "AreaCode": "17204",
+            "Name": "輪島市",
+            "Kana": "わじまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.89919497,37.39058970"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "ResultInfo": {
+    "Count": 25,
+    "Total": 25,
+    "Start": 1,
+    "Status": 200,
+    "Description": "",
+    "Copyright": "",
+    "Latency": 0.008
+  },
+  "Feature": [
+    {
+      "Name": "秋田県",
+      "Geometry": {
+        "Type": "point",
+        "Coordinates": "140.10207793,39.71830219",
+        "BoundingBox": "139.6917940,38.8730350 140.9954350,40.5109940"
+      },
+      "Property": {
+        "CassetteId": "b22fee69b0dcaf2c2fe2d6a27906dafc",
+        "Country": {
+          "Code": "JP",
+          "Name": "日本"
+        },
+        "Address": "秋田県",
+        "GovernmentCode": "05",
+        "AddressDirectory": [
+          {
+            "AreaCode": "05201",
+            "Name": "秋田市",
+            "Kana": "あきたし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.10356939,39.71992428"
+            }
+          },
+          {
+            "AreaCode": "05366",
+            "Name": "井川町（南秋田郡）",
+            "Kana": "いかわまち（みなみあきたぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.08129363,39.91416861"
+            }
+          },
+          {
+            "AreaCode": "05463",
+            "Name": "羽後町（雄勝郡）",
+            "Kana": "うごまち（おがちぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.41292557,39.19932518"
+            }
+          },
+          {
+            "AreaCode": "05368",
+            "Name": "大潟村（南秋田郡）",
+            "Kana": "おおがたむら（みなみあきたぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.96013719,40.01747562"
+            }
+          },
+          {
+            "AreaCode": "05204",
+            "Name": "大館市",
+            "Kana": "おおだてし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.56428483,40.27140448"
+            }
+          },
+          {
+            "AreaCode": "05206",
+            "Name": "男鹿市",
+            "Kana": "おがし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.84755810,39.88682032"
+            }
+          },
+          {
+            "AreaCode": "05211",
+            "Name": "潟上市",
+            "Kana": "かたがみし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.01305329,39.85728752"
+            }
+          },
+          {
+            "AreaCode": "05209",
+            "Name": "鹿角市",
+            "Kana": "かづのし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.78843533,40.21577998"
+            }
+          },
+          {
+            "AreaCode": "05327",
+            "Name": "上小阿仁村（北秋田郡）",
+            "Kana": "かみこあにむら（きたあきたぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.29520520,40.06330999"
+            }
+          },
+          {
+            "AreaCode": "05213",
+            "Name": "北秋田市",
+            "Kana": "きたあきたし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.37074130,40.22605381"
+            }
+          },
+          {
+            "AreaCode": "05303",
+            "Name": "小坂町（鹿角郡）",
+            "Kana": "こさかまち（かづのぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.73608309,40.33309097"
+            }
+          },
+          {
+            "AreaCode": "05361",
+            "Name": "五城目町（南秋田郡）",
+            "Kana": "ごじょうめまち（みなみあきたぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.11130807,39.94389397"
+            }
+          },
+          {
+            "AreaCode": "05215",
+            "Name": "仙北市",
+            "Kana": "せんぼくし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.73062426,39.70007437"
+            }
+          },
+          {
+            "AreaCode": "05212",
+            "Name": "大仙市",
+            "Kana": "だいせんし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.47544505,39.45309294"
+            }
+          },
+          {
+            "AreaCode": "05214",
+            "Name": "にかほ市",
+            "Kana": "にかほし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.90771006,39.20301440"
+            }
+          },
+          {
+            "AreaCode": "05202",
+            "Name": "能代市",
+            "Kana": "のしろし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.02662350,40.21215001"
+            }
+          },
+          {
+            "AreaCode": "05363",
+            "Name": "八郎潟町（南秋田郡）",
+            "Kana": "はちろうがたまち（みなみあきたぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.07331816,39.94938201"
+            }
+          },
+          {
+            "AreaCode": "05349",
+            "Name": "八峰町（山本郡）",
+            "Kana": "はっぽうちょう（やまもとぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.03862031,40.31908378"
+            }
+          },
+          {
+            "AreaCode": "05464",
+            "Name": "東成瀬村（雄勝郡）",
+            "Kana": "ひがしなるせむら（おがちぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.64880886,39.17897659"
+            }
+          },
+          {
+            "AreaCode": "05346",
+            "Name": "藤里町（山本郡）",
+            "Kana": "ふじさとまち（やまもとぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.26177841,40.27816218"
+            }
+          },
+          {
+            "AreaCode": "05434",
+            "Name": "美郷町（仙北郡）",
+            "Kana": "みさとちょう（せんぼくぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.58220347,39.46161057"
+            }
+          },
+          {
+            "AreaCode": "05348",
+            "Name": "三種町（山本郡）",
+            "Kana": "みたねちょう（やまもとぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.00498975,40.10160661"
+            }
+          },
+          {
+            "AreaCode": "05207",
+            "Name": "湯沢市",
+            "Kana": "ゆざわし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.49566313,39.16430383"
+            }
+          },
+          {
+            "AreaCode": "05210",
+            "Name": "由利本荘市",
+            "Kana": "ゆりほんじょうし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.04885987,39.38587730"
+            }
+          },
+          {
+            "AreaCode": "05203",
+            "Name": "横手市",
+            "Kana": "よこてし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.56664789,39.31378409"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

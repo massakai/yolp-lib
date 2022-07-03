@@ -1,0 +1,347 @@
+{
+  "ResultInfo": {
+    "Count": 35,
+    "Total": 35,
+    "Start": 1,
+    "Status": 200,
+    "Description": "",
+    "Copyright": "",
+    "Latency": 0.009
+  },
+  "Feature": [
+    {
+      "Name": "山形県",
+      "Geometry": {
+        "Type": "point",
+        "Coordinates": "140.36322756,38.24043802",
+        "BoundingBox": "139.5200670,37.7337890 140.6465790,39.2155440"
+      },
+      "Property": {
+        "CassetteId": "b22fee69b0dcaf2c2fe2d6a27906dafc",
+        "Country": {
+          "Code": "JP",
+          "Name": "日本"
+        },
+        "Address": "山形県",
+        "GovernmentCode": "06",
+        "AddressDirectory": [
+          {
+            "AreaCode": "06323",
+            "Name": "朝日町（西村山郡）",
+            "Kana": "あさひまち（にしむらやまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.14572512,38.29927803"
+            }
+          },
+          {
+            "AreaCode": "06403",
+            "Name": "飯豊町（西置賜郡）",
+            "Kana": "いいでまち（にしおきたまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.98752859,38.04582885"
+            }
+          },
+          {
+            "AreaCode": "06341",
+            "Name": "大石田町（北村山郡）",
+            "Kana": "おおいしだまち（きたむらやまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.37285714,38.59365500"
+            }
+          },
+          {
+            "AreaCode": "06324",
+            "Name": "大江町（西村山郡）",
+            "Kana": "おおえまち（にしむらやまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.20701226,38.38064769"
+            }
+          },
+          {
+            "AreaCode": "06365",
+            "Name": "大蔵村（最上郡）",
+            "Kana": "おおくらむら（もがみぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.23037366,38.70418155"
+            }
+          },
+          {
+            "AreaCode": "06401",
+            "Name": "小国町（西置賜郡）",
+            "Kana": "おぐにまち（にしおきたまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.74336656,38.06162935"
+            }
+          },
+          {
+            "AreaCode": "06212",
+            "Name": "尾花沢市",
+            "Kana": "おばなざわし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.40677905,38.60108802"
+            }
+          },
+          {
+            "AreaCode": "06361",
+            "Name": "金山町（最上郡）",
+            "Kana": "かねやままち（もがみぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.33945604,38.88335900"
+            }
+          },
+          {
+            "AreaCode": "06321",
+            "Name": "河北町（西村山郡）",
+            "Kana": "かほくちょう（にしむらやまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.31428397,38.42627044"
+            }
+          },
+          {
+            "AreaCode": "06207",
+            "Name": "上山市",
+            "Kana": "かみのやまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.26782631,38.14956140"
+            }
+          },
+          {
+            "AreaCode": "06382",
+            "Name": "川西町（東置賜郡）",
+            "Kana": "かわにしまち（ひがしおきたまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.05316891,38.00514568"
+            }
+          },
+          {
+            "AreaCode": "06206",
+            "Name": "寒河江市",
+            "Kana": "さがえし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.27596641,38.38096301"
+            }
+          },
+          {
+            "AreaCode": "06204",
+            "Name": "酒田市",
+            "Kana": "さかたし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.83650952,38.91442717"
+            }
+          },
+          {
+            "AreaCode": "06366",
+            "Name": "鮭川村（最上郡）",
+            "Kana": "さけがわむら（もがみぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.22203570,38.79644563"
+            }
+          },
+          {
+            "AreaCode": "06428",
+            "Name": "庄内町（東田川郡）",
+            "Kana": "しょうないまち（ひがしたがわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.90399741,38.84954474"
+            }
+          },
+          {
+            "AreaCode": "06402",
+            "Name": "白鷹町（西置賜郡）",
+            "Kana": "しらたかまち（にしおきたまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.09829273,38.18338071"
+            }
+          },
+          {
+            "AreaCode": "06205",
+            "Name": "新庄市",
+            "Kana": "しんじょうし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.30161098,38.76501821"
+            }
+          },
+          {
+            "AreaCode": "06381",
+            "Name": "高畠町（東置賜郡）",
+            "Kana": "たかはたまち（ひがしおきたまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.18890973,38.00249688"
+            }
+          },
+          {
+            "AreaCode": "06203",
+            "Name": "鶴岡市",
+            "Kana": "つるおかし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.82673041,38.72719940"
+            }
+          },
+          {
+            "AreaCode": "06210",
+            "Name": "天童市",
+            "Kana": "てんどうし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.37788511,38.36226422"
+            }
+          },
+          {
+            "AreaCode": "06367",
+            "Name": "戸沢村（最上郡）",
+            "Kana": "とざわむら（もがみぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.14336449,38.73748660"
+            }
+          },
+          {
+            "AreaCode": "06209",
+            "Name": "長井市",
+            "Kana": "ながいし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.03390469,38.10632671"
+            }
+          },
+          {
+            "AreaCode": "06302",
+            "Name": "中山町（東村山郡）",
+            "Kana": "なかやままち（ひがしむらやまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.28275309,38.33314375"
+            }
+          },
+          {
+            "AreaCode": "06213",
+            "Name": "南陽市",
+            "Kana": "なんようし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.14837465,38.05514081"
+            }
+          },
+          {
+            "AreaCode": "06322",
+            "Name": "西川町（西村山郡）",
+            "Kana": "にしかわまち（にしむらやまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.14691382,38.42674871"
+            }
+          },
+          {
+            "AreaCode": "06211",
+            "Name": "東根市",
+            "Kana": "ひがしねし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.39109010,38.43135429"
+            }
+          },
+          {
+            "AreaCode": "06363",
+            "Name": "舟形町（最上郡）",
+            "Kana": "ふながたまち（もがみぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.31977585,38.69144376"
+            }
+          },
+          {
+            "AreaCode": "06364",
+            "Name": "真室川町（最上郡）",
+            "Kana": "まむろがわまち（もがみぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.25152008,38.85691153"
+            }
+          },
+          {
+            "AreaCode": "06426",
+            "Name": "三川町（東田川郡）",
+            "Kana": "みかわまち（ひがしたがわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.84957058,38.79427219"
+            }
+          },
+          {
+            "AreaCode": "06208",
+            "Name": "村山市",
+            "Kana": "むらやまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.38029916,38.48359095"
+            }
+          },
+          {
+            "AreaCode": "06362",
+            "Name": "最上町（最上郡）",
+            "Kana": "もがみまち（もがみぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.51935364,38.75838619"
+            }
+          },
+          {
+            "AreaCode": "06201",
+            "Name": "山形市",
+            "Kana": "やまがたし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.33957924,38.25528847"
+            }
+          },
+          {
+            "AreaCode": "06301",
+            "Name": "山辺町（東村山郡）",
+            "Kana": "やまのべまち（ひがしむらやまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.26218572,38.28910866"
+            }
+          },
+          {
+            "AreaCode": "06461",
+            "Name": "遊佐町（飽海郡）",
+            "Kana": "ゆざまち（あくみぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.90866568,39.01484608"
+            }
+          },
+          {
+            "AreaCode": "06202",
+            "Name": "米沢市",
+            "Kana": "よねざわし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.11613936,37.92187845"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

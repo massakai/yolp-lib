@@ -1,0 +1,203 @@
+{
+  "ResultInfo": {
+    "Count": 19,
+    "Total": 19,
+    "Start": 1,
+    "Status": 200,
+    "Description": "",
+    "Copyright": "",
+    "Latency": 0.007
+  },
+  "Feature": [
+    {
+      "Name": "島根県",
+      "Geometry": {
+        "Type": "point",
+        "Coordinates": "133.05060744,35.47235325",
+        "BoundingBox": "131.6680180,34.3024560 133.3906020,37.2478150"
+      },
+      "Property": {
+        "CassetteId": "b22fee69b0dcaf2c2fe2d6a27906dafc",
+        "Country": {
+          "Code": "JP",
+          "Name": "日本"
+        },
+        "Address": "島根県",
+        "GovernmentCode": "32",
+        "AddressDirectory": [
+          {
+            "AreaCode": "32525",
+            "Name": "海士町（隠岐郡）",
+            "Kana": "あまちょう（おきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.09684440,36.09690704"
+            }
+          },
+          {
+            "AreaCode": "32386",
+            "Name": "飯南町（飯石郡）",
+            "Kana": "いいなんちょう（いいしぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.71328234,34.99862334"
+            }
+          },
+          {
+            "AreaCode": "32203",
+            "Name": "出雲市",
+            "Kana": "いずもし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.75468365,35.36702334"
+            }
+          },
+          {
+            "AreaCode": "32209",
+            "Name": "雲南市",
+            "Kana": "うんなんし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.90030183,35.30772507"
+            }
+          },
+          {
+            "AreaCode": "32205",
+            "Name": "大田市",
+            "Kana": "おおだし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.49929231,35.19210603"
+            }
+          },
+          {
+            "AreaCode": "32449",
+            "Name": "邑南町（邑智郡）",
+            "Kana": "おおなんちょう（おおちぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.43837523,34.89395444"
+            }
+          },
+          {
+            "AreaCode": "32528",
+            "Name": "隠岐の島町（隠岐郡）",
+            "Kana": "おきのしまちょう（おきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.31170068,36.21339870"
+            }
+          },
+          {
+            "AreaCode": "32343",
+            "Name": "奥出雲町（仁多郡）",
+            "Kana": "おくいずもちょう（にたぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.00244248,35.19750994"
+            }
+          },
+          {
+            "AreaCode": "32441",
+            "Name": "川本町（邑智郡）",
+            "Kana": "かわもとまち（おおちぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.49593192,34.99530494"
+            }
+          },
+          {
+            "AreaCode": "32207",
+            "Name": "江津市",
+            "Kana": "ごうつし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.21780835,35.01161695"
+            }
+          },
+          {
+            "AreaCode": "32527",
+            "Name": "知夫村（隠岐郡）",
+            "Kana": "ちぶむら（おきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.03960217,36.01420599"
+            }
+          },
+          {
+            "AreaCode": "32501",
+            "Name": "津和野町（鹿足郡）",
+            "Kana": "つわのちょう（かのあしぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.83509981,34.54197572"
+            }
+          },
+          {
+            "AreaCode": "32526",
+            "Name": "西ノ島町（隠岐郡）",
+            "Kana": "にしのしまちょう（おきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.99442472,36.09302914"
+            }
+          },
+          {
+            "AreaCode": "32202",
+            "Name": "浜田市",
+            "Kana": "はまだし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.07968323,34.89909087"
+            }
+          },
+          {
+            "AreaCode": "32204",
+            "Name": "益田市",
+            "Kana": "ますだし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.84257823,34.67489988"
+            }
+          },
+          {
+            "AreaCode": "32201",
+            "Name": "松江市",
+            "Kana": "まつえし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.04852176,35.46809250"
+            }
+          },
+          {
+            "AreaCode": "32448",
+            "Name": "美郷町（邑智郡）",
+            "Kana": "みさとちょう（おおちぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.59057002,35.07678736"
+            }
+          },
+          {
+            "AreaCode": "32206",
+            "Name": "安来市",
+            "Kana": "やすぎし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.25108412,35.43092260"
+            }
+          },
+          {
+            "AreaCode": "32505",
+            "Name": "吉賀町（鹿足郡）",
+            "Kana": "よしかちょう（かのあしぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.93516879,34.35352391"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

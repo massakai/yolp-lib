@@ -1,0 +1,356 @@
+{
+  "ResultInfo": {
+    "Count": 36,
+    "Total": 36,
+    "Start": 1,
+    "Status": 200,
+    "Description": "",
+    "Copyright": "",
+    "Latency": 0.01
+  },
+  "Feature": [
+    {
+      "Name": "京都府",
+      "Geometry": {
+        "Type": "point",
+        "Coordinates": "135.75535216,35.02090730",
+        "BoundingBox": "134.8537540,34.7057800 136.0555410,35.7793490"
+      },
+      "Property": {
+        "CassetteId": "b22fee69b0dcaf2c2fe2d6a27906dafc",
+        "Country": {
+          "Code": "JP",
+          "Name": "日本"
+        },
+        "Address": "京都府",
+        "GovernmentCode": "26",
+        "AddressDirectory": [
+          {
+            "AreaCode": "26203",
+            "Name": "綾部市",
+            "Kana": "あやべし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.25881191,35.29891557"
+            }
+          },
+          {
+            "AreaCode": "26343",
+            "Name": "井手町（綴喜郡）",
+            "Kana": "いでちょう（つづきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.80330554,34.79840785"
+            }
+          },
+          {
+            "AreaCode": "26463",
+            "Name": "伊根町（与謝郡）",
+            "Kana": "いねちょう（よざぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.27263031,35.67515678"
+            }
+          },
+          {
+            "AreaCode": "26204",
+            "Name": "宇治市",
+            "Kana": "うじし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.79983455,34.88450182"
+            }
+          },
+          {
+            "AreaCode": "26344",
+            "Name": "宇治田原町（綴喜郡）",
+            "Kana": "うじたわらちょう（つづきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.86800966,34.84486490"
+            }
+          },
+          {
+            "AreaCode": "26303",
+            "Name": "大山崎町（乙訓郡）",
+            "Kana": "おおやまざきちょう（おとくにぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.68847454,34.90280913"
+            }
+          },
+          {
+            "AreaCode": "26364",
+            "Name": "笠置町（相楽郡）",
+            "Kana": "かさぎちょう（そうらくぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.93936596,34.76045219"
+            }
+          },
+          {
+            "AreaCode": "26206",
+            "Name": "亀岡市",
+            "Kana": "かめおかし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.57360873,35.01341090"
+            }
+          },
+          {
+            "AreaCode": "26214",
+            "Name": "木津川市",
+            "Kana": "きづがわし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.82011643,34.73716428"
+            }
+          },
+          {
+            "AreaCode": "26211",
+            "Name": "京田辺市",
+            "Kana": "きょうたなべし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.76769737,34.81445862"
+            }
+          },
+          {
+            "AreaCode": "26212",
+            "Name": "京丹後市",
+            "Kana": "きょうたんごし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.06099992,35.62416455"
+            }
+          },
+          {
+            "AreaCode": "26407",
+            "Name": "京丹波町（船井郡）",
+            "Kana": "きょうたんばちょう（ふないぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.41944639,35.17004673"
+            }
+          },
+          {
+            "AreaCode": "26108",
+            "Name": "京都市右京区",
+            "Kana": "きょうとしうきょうく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.71615602,35.01011606"
+            }
+          },
+          {
+            "AreaCode": "26102",
+            "Name": "京都市上京区",
+            "Kana": "きょうとしかみぎょうく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.75662707,35.02962029"
+            }
+          },
+          {
+            "AreaCode": "26101",
+            "Name": "京都市北区",
+            "Kana": "きょうとしきたく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.75414401,35.04119122"
+            }
+          },
+          {
+            "AreaCode": "26103",
+            "Name": "京都市左京区",
+            "Kana": "きょうとしさきょうく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.77854751,35.04857084"
+            }
+          },
+          {
+            "AreaCode": "26106",
+            "Name": "京都市下京区",
+            "Kana": "きょうとししもぎょうく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.75572258,34.98757945"
+            }
+          },
+          {
+            "AreaCode": "26104",
+            "Name": "京都市中京区",
+            "Kana": "きょうとしなかぎょうく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.75146392,35.01011650"
+            }
+          },
+          {
+            "AreaCode": "26111",
+            "Name": "京都市西京区",
+            "Kana": "きょうとしにしきょうく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.69334430,34.98501548"
+            }
+          },
+          {
+            "AreaCode": "26105",
+            "Name": "京都市東山区",
+            "Kana": "きょうとしひがしやまく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.77616183,34.99705665"
+            }
+          },
+          {
+            "AreaCode": "26109",
+            "Name": "京都市伏見区",
+            "Kana": "きょうとしふしみく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.76142365,34.93606792"
+            }
+          },
+          {
+            "AreaCode": "26107",
+            "Name": "京都市南区",
+            "Kana": "きょうとしみなみく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.74660955,34.97650805"
+            }
+          },
+          {
+            "AreaCode": "26110",
+            "Name": "京都市山科区",
+            "Kana": "きょうとしやましなく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.81369651,34.97233548"
+            }
+          },
+          {
+            "AreaCode": "26322",
+            "Name": "久御山町（久世郡）",
+            "Kana": "くみやまちょう（くせぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.73267077,34.88179092"
+            }
+          },
+          {
+            "AreaCode": "26207",
+            "Name": "城陽市",
+            "Kana": "じょうようし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.77997624,34.85301064"
+            }
+          },
+          {
+            "AreaCode": "26366",
+            "Name": "精華町（相楽郡）",
+            "Kana": "せいかちょう（そうらくぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.78583262,34.76085552"
+            }
+          },
+          {
+            "AreaCode": "26209",
+            "Name": "長岡京市",
+            "Kana": "ながおかきょうし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.69544577,34.92667918"
+            }
+          },
+          {
+            "AreaCode": "26213",
+            "Name": "南丹市",
+            "Kana": "なんたんし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.47025869,35.10738472"
+            }
+          },
+          {
+            "AreaCode": "26201",
+            "Name": "福知山市",
+            "Kana": "ふくちやまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.12656294,35.29669974"
+            }
+          },
+          {
+            "AreaCode": "26202",
+            "Name": "舞鶴市",
+            "Kana": "まいづるし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.38599404,35.47479673"
+            }
+          },
+          {
+            "AreaCode": "26367",
+            "Name": "南山城村（相楽郡）",
+            "Kana": "みなみやましろむら（そうらくぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.99356146,34.77276372"
+            }
+          },
+          {
+            "AreaCode": "26205",
+            "Name": "宮津市",
+            "Kana": "みやづし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.19558027,35.53565952"
+            }
+          },
+          {
+            "AreaCode": "26208",
+            "Name": "向日市",
+            "Kana": "むこうし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.69828757,34.94873532"
+            }
+          },
+          {
+            "AreaCode": "26210",
+            "Name": "八幡市",
+            "Kana": "やわたし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.70762353,34.87555758"
+            }
+          },
+          {
+            "AreaCode": "26465",
+            "Name": "与謝野町（与謝郡）",
+            "Kana": "よさのちょう（よざぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.15288582,35.56535275"
+            }
+          },
+          {
+            "AreaCode": "26365",
+            "Name": "和束町（相楽郡）",
+            "Kana": "わづかちょう（そうらくぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.90488272,34.79567896"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

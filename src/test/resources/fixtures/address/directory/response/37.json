@@ -1,0 +1,185 @@
+{
+  "ResultInfo": {
+    "Count": 17,
+    "Total": 17,
+    "Start": 1,
+    "Status": 200,
+    "Description": "",
+    "Copyright": "",
+    "Latency": 0.008
+  },
+  "Feature": [
+    {
+      "Name": "香川県",
+      "Geometry": {
+        "Type": "point",
+        "Coordinates": "134.04347374,34.34010985",
+        "BoundingBox": "133.4465180,34.0121710 134.4474550,34.5645980"
+      },
+      "Property": {
+        "CassetteId": "b22fee69b0dcaf2c2fe2d6a27906dafc",
+        "Country": {
+          "Code": "JP",
+          "Name": "日本"
+        },
+        "Address": "香川県",
+        "GovernmentCode": "37",
+        "AddressDirectory": [
+          {
+            "AreaCode": "37387",
+            "Name": "綾川町（綾歌郡）",
+            "Kana": "あやがわちょう（あやうたぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.92309060,34.24966010"
+            }
+          },
+          {
+            "AreaCode": "37386",
+            "Name": "宇多津町（綾歌郡）",
+            "Kana": "うたづちょう（あやうたぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.82553448,34.31035320"
+            }
+          },
+          {
+            "AreaCode": "37205",
+            "Name": "観音寺市",
+            "Kana": "かんおんじし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.66281375,34.12846589"
+            }
+          },
+          {
+            "AreaCode": "37403",
+            "Name": "琴平町（仲多度郡）",
+            "Kana": "ことひらちょう（なかたどぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.82350822,34.19121674"
+            }
+          },
+          {
+            "AreaCode": "37203",
+            "Name": "坂出市",
+            "Kana": "さかいでし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.86050986,34.31631878"
+            }
+          },
+          {
+            "AreaCode": "37206",
+            "Name": "さぬき市",
+            "Kana": "さぬきし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.17213021,34.32522013"
+            }
+          },
+          {
+            "AreaCode": "37324",
+            "Name": "小豆島町（小豆郡）",
+            "Kana": "しょうどしまちょう（しょうずぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.30893279,34.47969002"
+            }
+          },
+          {
+            "AreaCode": "37204",
+            "Name": "善通寺市",
+            "Kana": "ぜんつうじし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.78718517,34.22717946"
+            }
+          },
+          {
+            "AreaCode": "37201",
+            "Name": "高松市",
+            "Kana": "たかまつし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.04681235,34.34273460"
+            }
+          },
+          {
+            "AreaCode": "37404",
+            "Name": "多度津町（仲多度郡）",
+            "Kana": "たどつちょう（なかたどぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.75375713,34.27260717"
+            }
+          },
+          {
+            "AreaCode": "37322",
+            "Name": "土庄町（小豆郡）",
+            "Kana": "とのしょうちょう（しょうずぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.18862841,34.48664659"
+            }
+          },
+          {
+            "AreaCode": "37364",
+            "Name": "直島町（香川郡）",
+            "Kana": "なおしまちょう（かがわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.99569463,34.45982789"
+            }
+          },
+          {
+            "AreaCode": "37207",
+            "Name": "東かがわ市",
+            "Kana": "ひがしかがわし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.35882273,34.24379964"
+            }
+          },
+          {
+            "AreaCode": "37202",
+            "Name": "丸亀市",
+            "Kana": "まるがめし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.79873546,34.28991957"
+            }
+          },
+          {
+            "AreaCode": "37406",
+            "Name": "まんのう町（仲多度郡）",
+            "Kana": "まんのうちょう（なかたどぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.84139017,34.19230857"
+            }
+          },
+          {
+            "AreaCode": "37341",
+            "Name": "三木町（木田郡）",
+            "Kana": "みきちょう（きたぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.13429308,34.26828628"
+            }
+          },
+          {
+            "AreaCode": "37208",
+            "Name": "三豊市",
+            "Kana": "みとよし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.71525824,34.18249892"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

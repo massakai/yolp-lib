@@ -1,0 +1,653 @@
+{
+  "ResultInfo": {
+    "Count": 69,
+    "Total": 69,
+    "Start": 1,
+    "Status": 200,
+    "Description": "",
+    "Copyright": "",
+    "Latency": 0.015
+  },
+  "Feature": [
+    {
+      "Name": "愛知県",
+      "Geometry": {
+        "Type": "point",
+        "Coordinates": "136.90654761,35.17995127",
+        "BoundingBox": "136.6710080,34.5735240 137.8380190,35.4249200"
+      },
+      "Property": {
+        "CassetteId": "b22fee69b0dcaf2c2fe2d6a27906dafc",
+        "Country": {
+          "Code": "JP",
+          "Name": "日本"
+        },
+        "Address": "愛知県",
+        "GovernmentCode": "23",
+        "AddressDirectory": [
+          {
+            "AreaCode": "23232",
+            "Name": "愛西市",
+            "Kana": "あいさいし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.72827145,35.15279329"
+            }
+          },
+          {
+            "AreaCode": "23441",
+            "Name": "阿久比町（知多郡）",
+            "Kana": "あぐいちょう（ちたぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.91555382,34.93261319"
+            }
+          },
+          {
+            "AreaCode": "23237",
+            "Name": "あま市",
+            "Kana": "あまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.78327277,35.20053478"
+            }
+          },
+          {
+            "AreaCode": "23212",
+            "Name": "安城市",
+            "Kana": "あんじょうし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.08033849,34.95863803"
+            }
+          },
+          {
+            "AreaCode": "23203",
+            "Name": "一宮市",
+            "Kana": "いちのみやし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.80245986,35.30398687"
+            }
+          },
+          {
+            "AreaCode": "23220",
+            "Name": "稲沢市",
+            "Kana": "いなざわし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.78021248,35.24812076"
+            }
+          },
+          {
+            "AreaCode": "23215",
+            "Name": "犬山市",
+            "Kana": "いぬやまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.94416080,35.37881784"
+            }
+          },
+          {
+            "AreaCode": "23228",
+            "Name": "岩倉市",
+            "Kana": "いわくらし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.87140515,35.27993022"
+            }
+          },
+          {
+            "AreaCode": "23361",
+            "Name": "大口町（丹羽郡）",
+            "Kana": "おおぐちちょう（にわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.90774145,35.33247313"
+            }
+          },
+          {
+            "AreaCode": "23424",
+            "Name": "大治町（海部郡）",
+            "Kana": "おおはるちょう（あまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.82009736,35.17508067"
+            }
+          },
+          {
+            "AreaCode": "23223",
+            "Name": "大府市",
+            "Kana": "おおぶし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.96353983,35.01179741"
+            }
+          },
+          {
+            "AreaCode": "23202",
+            "Name": "岡崎市",
+            "Kana": "おかざきし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.17433173,34.95437056"
+            }
+          },
+          {
+            "AreaCode": "23226",
+            "Name": "尾張旭市",
+            "Kana": "おわりあさひし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.03539558,35.21651191"
+            }
+          },
+          {
+            "AreaCode": "23206",
+            "Name": "春日井市",
+            "Kana": "かすがいし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.97224518,35.24766783"
+            }
+          },
+          {
+            "AreaCode": "23425",
+            "Name": "蟹江町（海部郡）",
+            "Kana": "かにえちょう（あまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.78674498,35.13233302"
+            }
+          },
+          {
+            "AreaCode": "23214",
+            "Name": "蒲郡市",
+            "Kana": "がまごおりし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.21975717,34.82646396"
+            }
+          },
+          {
+            "AreaCode": "23210",
+            "Name": "刈谷市",
+            "Kana": "かりやし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.00224278,34.98921581"
+            }
+          },
+          {
+            "AreaCode": "23234",
+            "Name": "北名古屋市",
+            "Kana": "きたなごやし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.86601324,35.24565918"
+            }
+          },
+          {
+            "AreaCode": "23233",
+            "Name": "清須市",
+            "Kana": "きよすし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.85290262,35.19986925"
+            }
+          },
+          {
+            "AreaCode": "23501",
+            "Name": "幸田町（額田郡）",
+            "Kana": "こうたちょう（ぬかたぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.16561914,34.86444381"
+            }
+          },
+          {
+            "AreaCode": "23217",
+            "Name": "江南市",
+            "Kana": "こうなんし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.87061685,35.33201101"
+            }
+          },
+          {
+            "AreaCode": "23219",
+            "Name": "小牧市",
+            "Kana": "こまきし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.91095118,35.29031289"
+            }
+          },
+          {
+            "AreaCode": "23561",
+            "Name": "設楽町（北設楽郡）",
+            "Kana": "したらちょう（きたしたらぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.57144685,35.09721837"
+            }
+          },
+          {
+            "AreaCode": "23221",
+            "Name": "新城市",
+            "Kana": "しんしろし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.49787286,34.89891234"
+            }
+          },
+          {
+            "AreaCode": "23204",
+            "Name": "瀬戸市",
+            "Kana": "せとし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.08403159,35.22395733"
+            }
+          },
+          {
+            "AreaCode": "23227",
+            "Name": "高浜市",
+            "Kana": "たかはまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.98767657,34.92764346"
+            }
+          },
+          {
+            "AreaCode": "23447",
+            "Name": "武豊町（知多郡）",
+            "Kana": "たけとよちょう（ちたぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.91480375,34.85113297"
+            }
+          },
+          {
+            "AreaCode": "23231",
+            "Name": "田原市",
+            "Kana": "たはらし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.26420297,34.66880505"
+            }
+          },
+          {
+            "AreaCode": "23224",
+            "Name": "知多市",
+            "Kana": "ちたし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.86461313,34.99660219"
+            }
+          },
+          {
+            "AreaCode": "23225",
+            "Name": "知立市",
+            "Kana": "ちりゅうし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.05074921,35.00127102"
+            }
+          },
+          {
+            "AreaCode": "23208",
+            "Name": "津島市",
+            "Kana": "つしまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.74121648,35.17703111"
+            }
+          },
+          {
+            "AreaCode": "23562",
+            "Name": "東栄町（北設楽郡）",
+            "Kana": "とうえいちょう（きたしたらぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.69811122,35.07696922"
+            }
+          },
+          {
+            "AreaCode": "23222",
+            "Name": "東海市",
+            "Kana": "とうかいし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.90245984,35.02296444"
+            }
+          },
+          {
+            "AreaCode": "23302",
+            "Name": "東郷町（愛知郡）",
+            "Kana": "とうごうちょう（あいちぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.05255244,35.09675019"
+            }
+          },
+          {
+            "AreaCode": "23216",
+            "Name": "常滑市",
+            "Kana": "とこなめし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.85451720,34.89610360"
+            }
+          },
+          {
+            "AreaCode": "23427",
+            "Name": "飛島村（海部郡）",
+            "Kana": "とびしまむら（あまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.79122246,35.07876114"
+            }
+          },
+          {
+            "AreaCode": "23229",
+            "Name": "豊明市",
+            "Kana": "とよあけし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.01294721,35.05369926"
+            }
+          },
+          {
+            "AreaCode": "23207",
+            "Name": "豊川市",
+            "Kana": "とよかわし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.37554167,34.82685314"
+            }
+          },
+          {
+            "AreaCode": "23211",
+            "Name": "豊田市",
+            "Kana": "とよたし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.15621257,35.08238612"
+            }
+          },
+          {
+            "AreaCode": "23563",
+            "Name": "豊根村（北設楽郡）",
+            "Kana": "とよねむら（きたしたらぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.71981331,35.14632071"
+            }
+          },
+          {
+            "AreaCode": "23201",
+            "Name": "豊橋市",
+            "Kana": "とよはしし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.39138788,34.76919070"
+            }
+          },
+          {
+            "AreaCode": "23342",
+            "Name": "豊山町（西春日井郡）",
+            "Kana": "とよやまちょう（にしかすがいぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.91200837,35.25047646"
+            }
+          },
+          {
+            "AreaCode": "23238",
+            "Name": "長久手市",
+            "Kana": "ながくてし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.04876155,35.18412226"
+            }
+          },
+          {
+            "AreaCode": "23109",
+            "Name": "名古屋市熱田区",
+            "Kana": "なごやしあつたく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.91027984,35.12854461"
+            }
+          },
+          {
+            "AreaCode": "23103",
+            "Name": "名古屋市北区",
+            "Kana": "なごやしきたく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.91151883,35.19420518"
+            }
+          },
+          {
+            "AreaCode": "23107",
+            "Name": "名古屋市昭和区",
+            "Kana": "なごやししょうわく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.93412439,35.15019896"
+            }
+          },
+          {
+            "AreaCode": "23101",
+            "Name": "名古屋市千種区",
+            "Kana": "なごやしちくさく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.94643373,35.16648595"
+            }
+          },
+          {
+            "AreaCode": "23116",
+            "Name": "名古屋市天白区",
+            "Kana": "なごやしてんぱくく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.97510431,35.12265374"
+            }
+          },
+          {
+            "AreaCode": "23110",
+            "Name": "名古屋市中川区",
+            "Kana": "なごやしなかがわく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.85502878,35.14143531"
+            }
+          },
+          {
+            "AreaCode": "23106",
+            "Name": "名古屋市中区",
+            "Kana": "なごやしなかく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.91018386,35.16860042"
+            }
+          },
+          {
+            "AreaCode": "23105",
+            "Name": "名古屋市中村区",
+            "Kana": "なごやしなかむらく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.87301502,35.16874907"
+            }
+          },
+          {
+            "AreaCode": "23104",
+            "Name": "名古屋市西区",
+            "Kana": "なごやしにしく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.89003523,35.18911886"
+            }
+          },
+          {
+            "AreaCode": "23102",
+            "Name": "名古屋市東区",
+            "Kana": "なごやしひがしく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.92586793,35.17912740"
+            }
+          },
+          {
+            "AreaCode": "23108",
+            "Name": "名古屋市瑞穂区",
+            "Kana": "なごやしみずほく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.93496373,35.13144282"
+            }
+          },
+          {
+            "AreaCode": "23114",
+            "Name": "名古屋市緑区",
+            "Kana": "なごやしみどりく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.95225929,35.07091847"
+            }
+          },
+          {
+            "AreaCode": "23111",
+            "Name": "名古屋市港区",
+            "Kana": "なごやしみなとく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.88556643,35.10777421"
+            }
+          },
+          {
+            "AreaCode": "23112",
+            "Name": "名古屋市南区",
+            "Kana": "なごやしみなみく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.93120660,35.09509911"
+            }
+          },
+          {
+            "AreaCode": "23115",
+            "Name": "名古屋市名東区",
+            "Kana": "なごやしめいとうく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.00994387,35.17590552"
+            }
+          },
+          {
+            "AreaCode": "23113",
+            "Name": "名古屋市守山区",
+            "Kana": "なごやしもりやまく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.97631326,35.20332064"
+            }
+          },
+          {
+            "AreaCode": "23213",
+            "Name": "西尾市",
+            "Kana": "にしおし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.06184936,34.86193876"
+            }
+          },
+          {
+            "AreaCode": "23230",
+            "Name": "日進市",
+            "Kana": "にっしんし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.03956977,35.13202585"
+            }
+          },
+          {
+            "AreaCode": "23205",
+            "Name": "半田市",
+            "Kana": "はんだし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.93796329,34.89172078"
+            }
+          },
+          {
+            "AreaCode": "23442",
+            "Name": "東浦町（知多郡）",
+            "Kana": "ひがしうらちょう（ちたぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.96562349,34.97709354"
+            }
+          },
+          {
+            "AreaCode": "23362",
+            "Name": "扶桑町（丹羽郡）",
+            "Kana": "ふそうちょう（にわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.91298991,35.35914606"
+            }
+          },
+          {
+            "AreaCode": "23209",
+            "Name": "碧南市",
+            "Kana": "へきなんし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.99337775,34.88480381"
+            }
+          },
+          {
+            "AreaCode": "23445",
+            "Name": "南知多町（知多郡）",
+            "Kana": "みなみちたちょう（ちたぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.92996959,34.71516946"
+            }
+          },
+          {
+            "AreaCode": "23446",
+            "Name": "美浜町（知多郡）",
+            "Kana": "みはまちょう（ちたぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.90823939,34.77881448"
+            }
+          },
+          {
+            "AreaCode": "23236",
+            "Name": "みよし市",
+            "Kana": "みよしし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.07476702,35.08970717"
+            }
+          },
+          {
+            "AreaCode": "23235",
+            "Name": "弥富市",
+            "Kana": "やとみし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.72474487,35.11005681"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "ResultInfo": {
+    "Count": 24,
+    "Total": 24,
+    "Start": 1,
+    "Status": 200,
+    "Description": "",
+    "Copyright": "",
+    "Latency": 0.007
+  },
+  "Feature": [
+    {
+      "Name": "徳島県",
+      "Geometry": {
+        "Type": "point",
+        "Coordinates": "134.55935949,34.06572001",
+        "BoundingBox": "133.6607120,33.5385760 134.8223010,34.2520360"
+      },
+      "Property": {
+        "CassetteId": "b22fee69b0dcaf2c2fe2d6a27906dafc",
+        "Country": {
+          "Code": "JP",
+          "Name": "日本"
+        },
+        "Address": "徳島県",
+        "GovernmentCode": "36",
+        "AddressDirectory": [
+          {
+            "AreaCode": "36403",
+            "Name": "藍住町（板野郡）",
+            "Kana": "あいずみちょう（いたのぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.49507025,34.12623742"
+            }
+          },
+          {
+            "AreaCode": "36204",
+            "Name": "阿南市",
+            "Kana": "あなんし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.65956497,33.92175543"
+            }
+          },
+          {
+            "AreaCode": "36206",
+            "Name": "阿波市",
+            "Kana": "あわし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.29743860,34.10214713"
+            }
+          },
+          {
+            "AreaCode": "36341",
+            "Name": "石井町（名西郡）",
+            "Kana": "いしいちょう（みょうざいぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.44069018,34.07417245"
+            }
+          },
+          {
+            "AreaCode": "36404",
+            "Name": "板野町（板野郡）",
+            "Kana": "いたのちょう（いたのぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.46266485,34.14460125"
+            }
+          },
+          {
+            "AreaCode": "36388",
+            "Name": "海陽町（海部郡）",
+            "Kana": "かいようちょう（かいふぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.35188504,33.60203971"
+            }
+          },
+          {
+            "AreaCode": "36301",
+            "Name": "勝浦町（勝浦郡）",
+            "Kana": "かつうらちょう（かつうらぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.51118975,33.93168566"
+            }
+          },
+          {
+            "AreaCode": "36405",
+            "Name": "上板町（板野郡）",
+            "Kana": "かみいたちょう（いたのぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.40512380,34.12134754"
+            }
+          },
+          {
+            "AreaCode": "36302",
+            "Name": "上勝町（勝浦郡）",
+            "Kana": "かみかつちょう（かつうらぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.40205112,33.88916179"
+            }
+          },
+          {
+            "AreaCode": "36342",
+            "Name": "神山町（名西郡）",
+            "Kana": "かみやまちょう（みょうざいぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.35034654,33.96692918"
+            }
+          },
+          {
+            "AreaCode": "36402",
+            "Name": "北島町（板野郡）",
+            "Kana": "きたじまちょう（いたのぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.54675072,34.12560712"
+            }
+          },
+          {
+            "AreaCode": "36203",
+            "Name": "小松島市",
+            "Kana": "こまつしまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.59067337,34.00471313"
+            }
+          },
+          {
+            "AreaCode": "36321",
+            "Name": "佐那河内村（名東郡）",
+            "Kana": "さなごうちそん（みょうどうぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.45327717,33.99309950"
+            }
+          },
+          {
+            "AreaCode": "36468",
+            "Name": "つるぎ町（美馬郡）",
+            "Kana": "つるぎちょう（みまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.06395971,34.03705977"
+            }
+          },
+          {
+            "AreaCode": "36201",
+            "Name": "徳島市",
+            "Kana": "とくしまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.55486254,34.07027498"
+            }
+          },
+          {
+            "AreaCode": "36368",
+            "Name": "那賀町（那賀郡）",
+            "Kana": "なかちょう（なかぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.49663526,33.85711238"
+            }
+          },
+          {
+            "AreaCode": "36202",
+            "Name": "鳴門市",
+            "Kana": "なるとし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.60873593,34.17258678"
+            }
+          },
+          {
+            "AreaCode": "36489",
+            "Name": "東みよし町（三好郡）",
+            "Kana": "ひがしみよしちょう（みよしぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.93690937,34.03680728"
+            }
+          },
+          {
+            "AreaCode": "36401",
+            "Name": "松茂町（板野郡）",
+            "Kana": "まつしげちょう（いたのぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.58035613,34.13395408"
+            }
+          },
+          {
+            "AreaCode": "36387",
+            "Name": "美波町（海部郡）",
+            "Kana": "みなみちょう（かいふぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.53550445,33.73454416"
+            }
+          },
+          {
+            "AreaCode": "36207",
+            "Name": "美馬市",
+            "Kana": "みまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.16974346,34.05341675"
+            }
+          },
+          {
+            "AreaCode": "36208",
+            "Name": "三好市",
+            "Kana": "みよしし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.80718260,34.02602664"
+            }
+          },
+          {
+            "AreaCode": "36383",
+            "Name": "牟岐町（海部郡）",
+            "Kana": "むぎちょう（かいふぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.42055847,33.66840871"
+            }
+          },
+          {
+            "AreaCode": "36205",
+            "Name": "吉野川市",
+            "Kana": "よしのがわし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.35866727,34.06623200"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "ResultInfo": {
+    "Count": 19,
+    "Total": 19,
+    "Start": 1,
+    "Status": 200,
+    "Description": "",
+    "Copyright": "",
+    "Latency": 0.008
+  },
+  "Feature": [
+    {
+      "Name": "鳥取県",
+      "Geometry": {
+        "Type": "point",
+        "Coordinates": "134.23794668,35.50363159",
+        "BoundingBox": "133.1360500,35.0577580 134.5154070,35.6145930"
+      },
+      "Property": {
+        "CassetteId": "b22fee69b0dcaf2c2fe2d6a27906dafc",
+        "Country": {
+          "Code": "JP",
+          "Name": "日本"
+        },
+        "Address": "鳥取県",
+        "GovernmentCode": "31",
+        "AddressDirectory": [
+          {
+            "AreaCode": "31302",
+            "Name": "岩美町（岩美郡）",
+            "Kana": "いわみちょう（いわみぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.33213649,35.57597556"
+            }
+          },
+          {
+            "AreaCode": "31203",
+            "Name": "倉吉市",
+            "Kana": "くらよしし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.82556086,35.43017886"
+            }
+          },
+          {
+            "AreaCode": "31403",
+            "Name": "江府町（日野郡）",
+            "Kana": "こうふちょう（ひのぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.47902611,35.27579538"
+            }
+          },
+          {
+            "AreaCode": "31371",
+            "Name": "琴浦町（東伯郡）",
+            "Kana": "ことうらちょう（とうはくぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.69333380,35.49536677"
+            }
+          },
+          {
+            "AreaCode": "31204",
+            "Name": "境港市",
+            "Kana": "さかいみなとし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.23162735,35.53963295"
+            }
+          },
+          {
+            "AreaCode": "31386",
+            "Name": "大山町（西伯郡）",
+            "Kana": "だいせんちょう（さいはくぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.49571714,35.51068644"
+            }
+          },
+          {
+            "AreaCode": "31328",
+            "Name": "智頭町（八頭郡）",
+            "Kana": "ちづちょう（やずぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.22677340,35.26488918"
+            }
+          },
+          {
+            "AreaCode": "31201",
+            "Name": "鳥取市",
+            "Kana": "とっとりし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.22208174,35.49439638"
+            }
+          },
+          {
+            "AreaCode": "31389",
+            "Name": "南部町（西伯郡）",
+            "Kana": "なんぶちょう（さいはくぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.32685421,35.34032965"
+            }
+          },
+          {
+            "AreaCode": "31401",
+            "Name": "日南町（日野郡）",
+            "Kana": "にちなんちょう（ひのぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.30622195,35.16328543"
+            }
+          },
+          {
+            "AreaCode": "31384",
+            "Name": "日吉津村（西伯郡）",
+            "Kana": "ひえづそん（さいはくぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.38080470,35.44013179"
+            }
+          },
+          {
+            "AreaCode": "31402",
+            "Name": "日野町（日野郡）",
+            "Kana": "ひのちょう（ひのぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.44277433,35.24081014"
+            }
+          },
+          {
+            "AreaCode": "31390",
+            "Name": "伯耆町（西伯郡）",
+            "Kana": "ほうきちょう（さいはくぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.40737528,35.38524642"
+            }
+          },
+          {
+            "AreaCode": "31372",
+            "Name": "北栄町（東伯郡）",
+            "Kana": "ほくえいちょう（とうはくぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.75836590,35.49001798"
+            }
+          },
+          {
+            "AreaCode": "31364",
+            "Name": "三朝町（東伯郡）",
+            "Kana": "みささちょう（とうはくぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.86230285,35.40850992"
+            }
+          },
+          {
+            "AreaCode": "31329",
+            "Name": "八頭町（八頭郡）",
+            "Kana": "やずちょう（やずぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.25048715,35.40900934"
+            }
+          },
+          {
+            "AreaCode": "31370",
+            "Name": "湯梨浜町（東伯郡）",
+            "Kana": "ゆりはまちょう（とうはくぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.86460889,35.49004196"
+            }
+          },
+          {
+            "AreaCode": "31202",
+            "Name": "米子市",
+            "Kana": "よなごし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.33094741,35.42807409"
+            }
+          },
+          {
+            "AreaCode": "31325",
+            "Name": "若桜町（八頭郡）",
+            "Kana": "わかさちょう（やずぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.40083841,35.34001426"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "ResultInfo": {
+    "Count": 21,
+    "Total": 21,
+    "Start": 1,
+    "Status": 200,
+    "Description": "",
+    "Copyright": "",
+    "Latency": 0.006
+  },
+  "Feature": [
+    {
+      "Name": "長崎県",
+      "Geometry": {
+        "Type": "point",
+        "Coordinates": "129.86759801,32.74984060",
+        "BoundingBox": "128.1045060,31.9844760 130.3902800,34.7275590"
+      },
+      "Property": {
+        "CassetteId": "b22fee69b0dcaf2c2fe2d6a27906dafc",
+        "Country": {
+          "Code": "JP",
+          "Name": "日本"
+        },
+        "Address": "長崎県",
+        "GovernmentCode": "42",
+        "AddressDirectory": [
+          {
+            "AreaCode": "42210",
+            "Name": "壱岐市",
+            "Kana": "いきし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "129.69135393,33.74995222"
+            }
+          },
+          {
+            "AreaCode": "42204",
+            "Name": "諫早市",
+            "Kana": "いさはやし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.05308099,32.84342665"
+            }
+          },
+          {
+            "AreaCode": "42213",
+            "Name": "雲仙市",
+            "Kana": "うんぜんし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.18750748,32.83520247"
+            }
+          },
+          {
+            "AreaCode": "42205",
+            "Name": "大村市",
+            "Kana": "おおむらし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "129.95817145,32.89997006"
+            }
+          },
+          {
+            "AreaCode": "42383",
+            "Name": "小値賀町（北松浦郡）",
+            "Kana": "おぢかちょう（きたまつうらぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "129.05875158,33.19108043"
+            }
+          },
+          {
+            "AreaCode": "42322",
+            "Name": "川棚町（東彼杵郡）",
+            "Kana": "かわたなちょう（ひがしそのぎぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "129.86158906,33.07223133"
+            }
+          },
+          {
+            "AreaCode": "42211",
+            "Name": "五島市",
+            "Kana": "ごとうし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "128.84074562,32.69557863"
+            }
+          },
+          {
+            "AreaCode": "42212",
+            "Name": "西海市",
+            "Kana": "さいかいし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "129.64298196,32.93308029"
+            }
+          },
+          {
+            "AreaCode": "42391",
+            "Name": "佐々町（北松浦郡）",
+            "Kana": "さざちょう（きたまつうらぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "129.65034451,33.23834128"
+            }
+          },
+          {
+            "AreaCode": "42202",
+            "Name": "佐世保市",
+            "Kana": "させぼし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "129.71510995,33.17991506"
+            }
+          },
+          {
+            "AreaCode": "42203",
+            "Name": "島原市",
+            "Kana": "しまばらし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.37022177,32.78796902"
+            }
+          },
+          {
+            "AreaCode": "42411",
+            "Name": "新上五島町（南松浦郡）",
+            "Kana": "しんかみごとうちょう（みなみまつうらぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "129.07339328,32.98464178"
+            }
+          },
+          {
+            "AreaCode": "42209",
+            "Name": "対馬市",
+            "Kana": "つしまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "129.28748996,34.20265902"
+            }
+          },
+          {
+            "AreaCode": "42308",
+            "Name": "時津町（西彼杵郡）",
+            "Kana": "とぎつちょう（にしそのぎぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "129.84857451,32.82887394"
+            }
+          },
+          {
+            "AreaCode": "42201",
+            "Name": "長崎市",
+            "Kana": "ながさきし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "129.87772491,32.75029079"
+            }
+          },
+          {
+            "AreaCode": "42307",
+            "Name": "長与町（西彼杵郡）",
+            "Kana": "ながよちょう（にしそのぎぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "129.87508104,32.82515809"
+            }
+          },
+          {
+            "AreaCode": "42323",
+            "Name": "波佐見町（東彼杵郡）",
+            "Kana": "はさみちょう（ひがしそのぎぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "129.89556130,33.13795356"
+            }
+          },
+          {
+            "AreaCode": "42321",
+            "Name": "東彼杵町（東彼杵郡）",
+            "Kana": "ひがしそのぎちょう（ひがしそのぎぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "129.91691351,33.03720571"
+            }
+          },
+          {
+            "AreaCode": "42207",
+            "Name": "平戸市",
+            "Kana": "ひらどし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "129.55367051,33.36806133"
+            }
+          },
+          {
+            "AreaCode": "42208",
+            "Name": "松浦市",
+            "Kana": "まつうらし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "129.70904450,33.34102054"
+            }
+          },
+          {
+            "AreaCode": "42214",
+            "Name": "南島原市",
+            "Kana": "みなみしまばらし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.29783841,32.65977688"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

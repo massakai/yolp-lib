@@ -1,0 +1,194 @@
+{
+  "ResultInfo": {
+    "Count": 18,
+    "Total": 18,
+    "Start": 1,
+    "Status": 200,
+    "Description": "",
+    "Copyright": "",
+    "Latency": 0.007
+  },
+  "Feature": [
+    {
+      "Name": "大分県",
+      "Geometry": {
+        "Type": "point",
+        "Coordinates": "131.61242720,33.23857197",
+        "BoundingBox": "130.8248630,32.7144470 132.1774570,33.7402620"
+      },
+      "Property": {
+        "CassetteId": "b22fee69b0dcaf2c2fe2d6a27906dafc",
+        "Country": {
+          "Code": "JP",
+          "Name": "日本"
+        },
+        "Address": "大分県",
+        "GovernmentCode": "44",
+        "AddressDirectory": [
+          {
+            "AreaCode": "44211",
+            "Name": "宇佐市",
+            "Kana": "うさし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.35011104,33.53234649"
+            }
+          },
+          {
+            "AreaCode": "44206",
+            "Name": "臼杵市",
+            "Kana": "うすきし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.80512674,33.12600289"
+            }
+          },
+          {
+            "AreaCode": "44201",
+            "Name": "大分市",
+            "Kana": "おおいたし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.60910805,33.23992455"
+            }
+          },
+          {
+            "AreaCode": "44210",
+            "Name": "杵築市",
+            "Kana": "きつきし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.61617791,33.41705316"
+            }
+          },
+          {
+            "AreaCode": "44462",
+            "Name": "玖珠町（玖珠郡）",
+            "Kana": "くすまち（くすぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.15130204,33.28323466"
+            }
+          },
+          {
+            "AreaCode": "44214",
+            "Name": "国東市",
+            "Kana": "くにさきし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.73230102,33.56332716"
+            }
+          },
+          {
+            "AreaCode": "44461",
+            "Name": "九重町（玖珠郡）",
+            "Kana": "ここのえまち（くすぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.18883009,33.22852389"
+            }
+          },
+          {
+            "AreaCode": "44205",
+            "Name": "佐伯市",
+            "Kana": "さいきし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.90005982,32.95980548"
+            }
+          },
+          {
+            "AreaCode": "44208",
+            "Name": "竹田市",
+            "Kana": "たけたし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.39785781,32.97363055"
+            }
+          },
+          {
+            "AreaCode": "44207",
+            "Name": "津久見市",
+            "Kana": "つくみし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.86109599,33.07237461"
+            }
+          },
+          {
+            "AreaCode": "44203",
+            "Name": "中津市",
+            "Kana": "なかつし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.18832436,33.59826841"
+            }
+          },
+          {
+            "AreaCode": "44341",
+            "Name": "日出町（速見郡）",
+            "Kana": "ひじまち（はやみぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.53238683,33.36944272"
+            }
+          },
+          {
+            "AreaCode": "44204",
+            "Name": "日田市",
+            "Kana": "ひたし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.94100200,33.32132727"
+            }
+          },
+          {
+            "AreaCode": "44322",
+            "Name": "姫島村（東国東郡）",
+            "Kana": "ひめしまむら（ひがしくにさきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.64539462,33.72449224"
+            }
+          },
+          {
+            "AreaCode": "44212",
+            "Name": "豊後大野市",
+            "Kana": "ぶんごおおのし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.58409978,32.97765797"
+            }
+          },
+          {
+            "AreaCode": "44209",
+            "Name": "豊後高田市",
+            "Kana": "ぶんごたかだし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.44709006,33.55615985"
+            }
+          },
+          {
+            "AreaCode": "44202",
+            "Name": "別府市",
+            "Kana": "べっぷし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.49117798,33.28429384"
+            }
+          },
+          {
+            "AreaCode": "44213",
+            "Name": "由布市",
+            "Kana": "ゆふし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.42679174,33.18001306"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

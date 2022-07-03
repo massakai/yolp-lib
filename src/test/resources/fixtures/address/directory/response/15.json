@@ -1,0 +1,365 @@
+{
+  "ResultInfo": {
+    "Count": 37,
+    "Total": 37,
+    "Start": 1,
+    "Status": 200,
+    "Description": "",
+    "Copyright": "",
+    "Latency": 0.009
+  },
+  "Feature": [
+    {
+      "Name": "新潟県",
+      "Geometry": {
+        "Type": "point",
+        "Coordinates": "139.02348086,37.90229624",
+        "BoundingBox": "137.6350510,36.7365410 139.8998280,38.5536760"
+      },
+      "Property": {
+        "CassetteId": "b22fee69b0dcaf2c2fe2d6a27906dafc",
+        "Country": {
+          "Code": "JP",
+          "Name": "日本"
+        },
+        "Address": "新潟県",
+        "GovernmentCode": "15",
+        "AddressDirectory": [
+          {
+            "AreaCode": "15223",
+            "Name": "阿賀野市",
+            "Kana": "あがのし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.22601320,37.83448351"
+            }
+          },
+          {
+            "AreaCode": "15385",
+            "Name": "阿賀町（東蒲原郡）",
+            "Kana": "あがまち（ひがしかんばらぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.45858491,37.67563491"
+            }
+          },
+          {
+            "AreaCode": "15586",
+            "Name": "粟島浦村（岩船郡）",
+            "Kana": "あわしまうらむら（いわふねぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.25431692,38.46796682"
+            }
+          },
+          {
+            "AreaCode": "15405",
+            "Name": "出雲崎町（三島郡）",
+            "Kana": "いずもざきまち（さんとうぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.70930209,37.53070915"
+            }
+          },
+          {
+            "AreaCode": "15216",
+            "Name": "糸魚川市",
+            "Kana": "いといがわし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.86265197,37.03902743"
+            }
+          },
+          {
+            "AreaCode": "15225",
+            "Name": "魚沼市",
+            "Kana": "うおぬまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.96377181,37.23643009"
+            }
+          },
+          {
+            "AreaCode": "15208",
+            "Name": "小千谷市",
+            "Kana": "おぢやし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.79510185,37.31433834"
+            }
+          },
+          {
+            "AreaCode": "15205",
+            "Name": "柏崎市",
+            "Kana": "かしわざきし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.55799423,37.36495296"
+            }
+          },
+          {
+            "AreaCode": "15209",
+            "Name": "加茂市",
+            "Kana": "かもし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.04020082,37.66627416"
+            }
+          },
+          {
+            "AreaCode": "15504",
+            "Name": "刈羽村（刈羽郡）",
+            "Kana": "かりわむら（かりわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.62255820,37.42231640"
+            }
+          },
+          {
+            "AreaCode": "15218",
+            "Name": "五泉市",
+            "Kana": "ごせんし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.18208104,37.74444129"
+            }
+          },
+          {
+            "AreaCode": "15224",
+            "Name": "佐渡市",
+            "Kana": "さどし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.36808144,38.01835254"
+            }
+          },
+          {
+            "AreaCode": "15204",
+            "Name": "三条市",
+            "Kana": "さんじょうし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.96170228,37.63674551"
+            }
+          },
+          {
+            "AreaCode": "15206",
+            "Name": "新発田市",
+            "Kana": "しばたし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.32729247,37.94807393"
+            }
+          },
+          {
+            "AreaCode": "15222",
+            "Name": "上越市",
+            "Kana": "じょうえつし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.23608270,37.14784709"
+            }
+          },
+          {
+            "AreaCode": "15307",
+            "Name": "聖籠町（北蒲原郡）",
+            "Kana": "せいろうまち（きたかんばらぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.27448809,37.97444119"
+            }
+          },
+          {
+            "AreaCode": "15581",
+            "Name": "関川村（岩船郡）",
+            "Kana": "せきかわむら（いわふねぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.56491980,38.08937790"
+            }
+          },
+          {
+            "AreaCode": "15227",
+            "Name": "胎内市",
+            "Kana": "たいないし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.41032756,38.05971872"
+            }
+          },
+          {
+            "AreaCode": "15361",
+            "Name": "田上町（南蒲原郡）",
+            "Kana": "たがみまち（みなみかんばらぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.05799261,37.69881504"
+            }
+          },
+          {
+            "AreaCode": "15482",
+            "Name": "津南町（中魚沼郡）",
+            "Kana": "つなんまち（なかうおぬまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.65255244,37.01435433"
+            }
+          },
+          {
+            "AreaCode": "15213",
+            "Name": "燕市",
+            "Kana": "つばめし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.88222652,37.67316007"
+            }
+          },
+          {
+            "AreaCode": "15210",
+            "Name": "十日町市",
+            "Kana": "とおかまちし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.75570705,37.12758143"
+            }
+          },
+          {
+            "AreaCode": "15202",
+            "Name": "長岡市",
+            "Kana": "ながおかし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.85127949,37.44626719"
+            }
+          },
+          {
+            "AreaCode": "15105",
+            "Name": "新潟市秋葉区",
+            "Kana": "にいがたしあきはく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.11464023,37.78852536"
+            }
+          },
+          {
+            "AreaCode": "15101",
+            "Name": "新潟市北区",
+            "Kana": "にいがたしきたく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.22158799,37.91354607"
+            }
+          },
+          {
+            "AreaCode": "15104",
+            "Name": "新潟市江南区",
+            "Kana": "にいがたしこうなんく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.09399080,37.86766544"
+            }
+          },
+          {
+            "AreaCode": "15103",
+            "Name": "新潟市中央区",
+            "Kana": "にいがたしちゅうおうく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.04323672,37.92248072"
+            }
+          },
+          {
+            "AreaCode": "15108",
+            "Name": "新潟市西蒲区",
+            "Kana": "にいがたしにしかんく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.88927792,37.76045815"
+            }
+          },
+          {
+            "AreaCode": "15107",
+            "Name": "新潟市西区",
+            "Kana": "にいがたしにしく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.97168657,37.87406662"
+            }
+          },
+          {
+            "AreaCode": "15102",
+            "Name": "新潟市東区",
+            "Kana": "にいがたしひがしく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.09258803,37.92489056"
+            }
+          },
+          {
+            "AreaCode": "15106",
+            "Name": "新潟市南区",
+            "Kana": "にいがたしみなみく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.01913771,37.76580040"
+            }
+          },
+          {
+            "AreaCode": "15211",
+            "Name": "見附市",
+            "Kana": "みつけし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.91282480,37.53159267"
+            }
+          },
+          {
+            "AreaCode": "15226",
+            "Name": "南魚沼市",
+            "Kana": "みなみうおぬまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.87606722,37.06554086"
+            }
+          },
+          {
+            "AreaCode": "15217",
+            "Name": "妙高市",
+            "Kana": "みょうこうし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.25348053,37.02543444"
+            }
+          },
+          {
+            "AreaCode": "15212",
+            "Name": "村上市",
+            "Kana": "むらかみし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.48002288,38.22398149"
+            }
+          },
+          {
+            "AreaCode": "15342",
+            "Name": "弥彦村（西蒲原郡）",
+            "Kana": "やひこむら（にしかんばらぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.85524840,37.69106505"
+            }
+          },
+          {
+            "AreaCode": "15461",
+            "Name": "湯沢町（南魚沼郡）",
+            "Kana": "ゆざわまち（みなみうおぬまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.81766197,36.93405464"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

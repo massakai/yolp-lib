@@ -1,0 +1,473 @@
+{
+  "ResultInfo": {
+    "Count": 49,
+    "Total": 49,
+    "Start": 1,
+    "Status": 200,
+    "Description": "",
+    "Copyright": "",
+    "Latency": 0.009
+  },
+  "Feature": [
+    {
+      "Name": "熊本県",
+      "Geometry": {
+        "Type": "point",
+        "Coordinates": "130.74125862,32.78962371",
+        "BoundingBox": "129.9387550,32.0948380 131.3295920,33.1951550"
+      },
+      "Property": {
+        "CassetteId": "b22fee69b0dcaf2c2fe2d6a27906dafc",
+        "Country": {
+          "Code": "JP",
+          "Name": "日本"
+        },
+        "Address": "熊本県",
+        "GovernmentCode": "43",
+        "AddressDirectory": [
+          {
+            "AreaCode": "43514",
+            "Name": "あさぎり町（球磨郡）",
+            "Kana": "あさぎりちょう（くまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.89779294,32.24040992"
+            }
+          },
+          {
+            "AreaCode": "43482",
+            "Name": "芦北町（葦北郡）",
+            "Kana": "あしきたまち（あしきたぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.49298018,32.29894135"
+            }
+          },
+          {
+            "AreaCode": "43214",
+            "Name": "阿蘇市",
+            "Kana": "あそし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.12098037,32.95194504"
+            }
+          },
+          {
+            "AreaCode": "43215",
+            "Name": "天草市",
+            "Kana": "あまくさし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.19342081,32.45891230"
+            }
+          },
+          {
+            "AreaCode": "43204",
+            "Name": "荒尾市",
+            "Kana": "あらおし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.43295855,32.98683505"
+            }
+          },
+          {
+            "AreaCode": "43511",
+            "Name": "五木村（球磨郡）",
+            "Kana": "いつきむら（くまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.82781647,32.39727612"
+            }
+          },
+          {
+            "AreaCode": "43213",
+            "Name": "宇城市",
+            "Kana": "うきし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.68437870,32.64783546"
+            }
+          },
+          {
+            "AreaCode": "43211",
+            "Name": "宇土市",
+            "Kana": "うとし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.65972068,32.68800091"
+            }
+          },
+          {
+            "AreaCode": "43425",
+            "Name": "産山村（阿蘇郡）",
+            "Kana": "うぶやまむら（あそぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.21678121,32.99576166"
+            }
+          },
+          {
+            "AreaCode": "43403",
+            "Name": "大津町（菊池郡）",
+            "Kana": "おおづまち（きくちぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.86854802,32.87796758"
+            }
+          },
+          {
+            "AreaCode": "43424",
+            "Name": "小国町（阿蘇郡）",
+            "Kana": "おぐにまち（あそぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.06813797,33.12157299"
+            }
+          },
+          {
+            "AreaCode": "43442",
+            "Name": "嘉島町（上益城郡）",
+            "Kana": "かしままち（かみましきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.75729535,32.74007569"
+            }
+          },
+          {
+            "AreaCode": "43212",
+            "Name": "上天草市",
+            "Kana": "かみあまくさし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.43052927,32.58741882"
+            }
+          },
+          {
+            "AreaCode": "43210",
+            "Name": "菊池市",
+            "Kana": "きくちし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.81333268,32.97948549"
+            }
+          },
+          {
+            "AreaCode": "43404",
+            "Name": "菊陽町（菊池郡）",
+            "Kana": "きくようまち（きくちぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.82860408,32.86231783"
+            }
+          },
+          {
+            "AreaCode": "43364",
+            "Name": "玉東町（玉名郡）",
+            "Kana": "ぎょくとうまち（たまなぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.62829010,32.91888270"
+            }
+          },
+          {
+            "AreaCode": "43513",
+            "Name": "球磨村（球磨郡）",
+            "Kana": "くまむら（くまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.65097052,32.25254446"
+            }
+          },
+          {
+            "AreaCode": "43105",
+            "Name": "熊本市北区",
+            "Kana": "くまもとしきたく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.69441318,32.90354652"
+            }
+          },
+          {
+            "AreaCode": "43101",
+            "Name": "熊本市中央区",
+            "Kana": "くまもとしちゅうおうく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.70819106,32.80322478"
+            }
+          },
+          {
+            "AreaCode": "43103",
+            "Name": "熊本市西区",
+            "Kana": "くまもとしにしく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.64754120,32.77635738"
+            }
+          },
+          {
+            "AreaCode": "43102",
+            "Name": "熊本市東区",
+            "Kana": "くまもとしひがしく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.76806823,32.78052239"
+            }
+          },
+          {
+            "AreaCode": "43104",
+            "Name": "熊本市南区",
+            "Kana": "くまもとしみなみく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.67887679,32.71533223"
+            }
+          },
+          {
+            "AreaCode": "43444",
+            "Name": "甲佐町（上益城郡）",
+            "Kana": "こうさまち（かみましきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.81121015,32.65173788"
+            }
+          },
+          {
+            "AreaCode": "43216",
+            "Name": "合志市",
+            "Kana": "こうしし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.78969807,32.88601792"
+            }
+          },
+          {
+            "AreaCode": "43510",
+            "Name": "相良村（球磨郡）",
+            "Kana": "さがらむら（くまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.79810292,32.23525262"
+            }
+          },
+          {
+            "AreaCode": "43428",
+            "Name": "高森町（阿蘇郡）",
+            "Kana": "たかもりまち（あそぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.12211913,32.82735905"
+            }
+          },
+          {
+            "AreaCode": "43206",
+            "Name": "玉名市",
+            "Kana": "たまなし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.56284267,32.93522286"
+            }
+          },
+          {
+            "AreaCode": "43505",
+            "Name": "多良木町（球磨郡）",
+            "Kana": "たらぎまち（くまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.93578625,32.26402774"
+            }
+          },
+          {
+            "AreaCode": "43484",
+            "Name": "津奈木町（葦北郡）",
+            "Kana": "つなぎまち（あしきたぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.43958266,32.23384675"
+            }
+          },
+          {
+            "AreaCode": "43368",
+            "Name": "長洲町（玉名郡）",
+            "Kana": "ながすまち（たまなぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.45281036,32.92967809"
+            }
+          },
+          {
+            "AreaCode": "43369",
+            "Name": "和水町（玉名郡）",
+            "Kana": "なごみまち（たまなぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.60580956,32.97811924"
+            }
+          },
+          {
+            "AreaCode": "43367",
+            "Name": "南関町（玉名郡）",
+            "Kana": "なんかんまち（たまなぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.54368402,33.05960372"
+            }
+          },
+          {
+            "AreaCode": "43501",
+            "Name": "錦町（球磨郡）",
+            "Kana": "にしきまち（くまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.84085324,32.20134885"
+            }
+          },
+          {
+            "AreaCode": "43432",
+            "Name": "西原村（阿蘇郡）",
+            "Kana": "にしはらむら（あそぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.90306252,32.83466384"
+            }
+          },
+          {
+            "AreaCode": "43468",
+            "Name": "氷川町（八代郡）",
+            "Kana": "ひかわちょう（やつしろぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.67376387,32.58243054"
+            }
+          },
+          {
+            "AreaCode": "43203",
+            "Name": "人吉市",
+            "Kana": "ひとよしし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.74006143,32.21661945"
+            }
+          },
+          {
+            "AreaCode": "43443",
+            "Name": "益城町（上益城郡）",
+            "Kana": "ましきまち（かみましきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.81743410,32.80014017"
+            }
+          },
+          {
+            "AreaCode": "43348",
+            "Name": "美里町（下益城郡）",
+            "Kana": "みさとまち（しもましきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.78894526,32.63930510"
+            }
+          },
+          {
+            "AreaCode": "43507",
+            "Name": "水上村（球磨郡）",
+            "Kana": "みずかみむら（くまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.00937041,32.31398664"
+            }
+          },
+          {
+            "AreaCode": "43205",
+            "Name": "水俣市",
+            "Kana": "みなまたし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.40861718,32.21179043"
+            }
+          },
+          {
+            "AreaCode": "43433",
+            "Name": "南阿蘇村（阿蘇郡）",
+            "Kana": "みなみあそむら（あそぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.01762990,32.84500691"
+            }
+          },
+          {
+            "AreaCode": "43423",
+            "Name": "南小国町（阿蘇郡）",
+            "Kana": "みなみおぐにまち（あそぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.07037258,33.09866049"
+            }
+          },
+          {
+            "AreaCode": "43441",
+            "Name": "御船町（上益城郡）",
+            "Kana": "みふねまち（かみましきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.80204141,32.71444835"
+            }
+          },
+          {
+            "AreaCode": "43202",
+            "Name": "八代市",
+            "Kana": "やつしろし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.60209836,32.50838651"
+            }
+          },
+          {
+            "AreaCode": "43512",
+            "Name": "山江村（球磨郡）",
+            "Kana": "やまえむら（くまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.76651627,32.24674742"
+            }
+          },
+          {
+            "AreaCode": "43208",
+            "Name": "山鹿市",
+            "Kana": "やまがし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.69136414,33.01758034"
+            }
+          },
+          {
+            "AreaCode": "43447",
+            "Name": "山都町（上益城郡）",
+            "Kana": "やまとちょう（かみましきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.99045706,32.68545232"
+            }
+          },
+          {
+            "AreaCode": "43506",
+            "Name": "湯前町（球磨郡）",
+            "Kana": "ゆのまえまち（くまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.98090148,32.27628406"
+            }
+          },
+          {
+            "AreaCode": "43531",
+            "Name": "苓北町（天草郡）",
+            "Kana": "れいほくまち（あまくさぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.05471169,32.51341690"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

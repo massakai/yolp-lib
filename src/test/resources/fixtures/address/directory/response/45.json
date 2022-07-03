@@ -1,0 +1,266 @@
+{
+  "ResultInfo": {
+    "Count": 26,
+    "Total": 26,
+    "Start": 1,
+    "Status": 200,
+    "Description": "",
+    "Copyright": "",
+    "Latency": 0.01
+  },
+  "Feature": [
+    {
+      "Name": "宮崎県",
+      "Geometry": {
+        "Type": "point",
+        "Coordinates": "131.42380201,31.91124172",
+        "BoundingBox": "130.7034640,31.3563730 131.8856990,32.8389390"
+      },
+      "Property": {
+        "CassetteId": "b22fee69b0dcaf2c2fe2d6a27906dafc",
+        "Country": {
+          "Code": "JP",
+          "Name": "日本"
+        },
+        "Address": "宮崎県",
+        "GovernmentCode": "45",
+        "AddressDirectory": [
+          {
+            "AreaCode": "45383",
+            "Name": "綾町（東諸県郡）",
+            "Kana": "あやちょう（ひがしもろかたぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.25318658,31.99913240"
+            }
+          },
+          {
+            "AreaCode": "45209",
+            "Name": "えびの市",
+            "Kana": "えびのし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.81079630,32.04534406"
+            }
+          },
+          {
+            "AreaCode": "45421",
+            "Name": "門川町（東臼杵郡）",
+            "Kana": "かどがわちょう（ひがしうすきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.64650816,32.47099777"
+            }
+          },
+          {
+            "AreaCode": "45405",
+            "Name": "川南町（児湯郡）",
+            "Kana": "かわみなみちょう（こゆぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.52587101,32.19206979"
+            }
+          },
+          {
+            "AreaCode": "45404",
+            "Name": "木城町（児湯郡）",
+            "Kana": "きじょうちょう（こゆぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.47361634,32.16417724"
+            }
+          },
+          {
+            "AreaCode": "45207",
+            "Name": "串間市",
+            "Kana": "くしまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.22830262,31.46453872"
+            }
+          },
+          {
+            "AreaCode": "45382",
+            "Name": "国富町（東諸県郡）",
+            "Kana": "くにとみちょう（ひがしもろかたぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.32348287,31.99052920"
+            }
+          },
+          {
+            "AreaCode": "45443",
+            "Name": "五ヶ瀬町（西臼杵郡）",
+            "Kana": "ごかせちょう（にしうすきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.19688642,32.68340892"
+            }
+          },
+          {
+            "AreaCode": "45205",
+            "Name": "小林市",
+            "Kana": "こばやしし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.97258721,31.99673092"
+            }
+          },
+          {
+            "AreaCode": "45208",
+            "Name": "西都市",
+            "Kana": "さいとし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.40095535,32.10786747"
+            }
+          },
+          {
+            "AreaCode": "45430",
+            "Name": "椎葉村（東臼杵郡）",
+            "Kana": "しいばそん（ひがしうすきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.15815081,32.46737256"
+            }
+          },
+          {
+            "AreaCode": "45402",
+            "Name": "新富町（児湯郡）",
+            "Kana": "しんとみちょう（こゆぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.48801621,32.06887049"
+            }
+          },
+          {
+            "AreaCode": "45441",
+            "Name": "高千穂町（西臼杵郡）",
+            "Kana": "たかちほちょう（にしうすきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.30802778,32.71165636"
+            }
+          },
+          {
+            "AreaCode": "45401",
+            "Name": "高鍋町（児湯郡）",
+            "Kana": "たかなべちょう（こゆぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.50301497,32.12807317"
+            }
+          },
+          {
+            "AreaCode": "45361",
+            "Name": "高原町（西諸県郡）",
+            "Kana": "たかはるちょう（にしもろかたぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.00802572,31.92812682"
+            }
+          },
+          {
+            "AreaCode": "45406",
+            "Name": "都農町（児湯郡）",
+            "Kana": "つのちょう（こゆぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.55956992,32.25629507"
+            }
+          },
+          {
+            "AreaCode": "45403",
+            "Name": "西米良村（児湯郡）",
+            "Kana": "にしめらそん（こゆぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.15447875,32.22633469"
+            }
+          },
+          {
+            "AreaCode": "45204",
+            "Name": "日南市",
+            "Kana": "にちなんし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.37833840,31.60139858"
+            }
+          },
+          {
+            "AreaCode": "45203",
+            "Name": "延岡市",
+            "Kana": "のべおかし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.66485057,32.58231958"
+            }
+          },
+          {
+            "AreaCode": "45442",
+            "Name": "日之影町（西臼杵郡）",
+            "Kana": "ひのかげちょう（にしうすきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.38097666,32.65947933"
+            }
+          },
+          {
+            "AreaCode": "45206",
+            "Name": "日向市",
+            "Kana": "ひゅうがし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.62398139,32.42264663"
+            }
+          },
+          {
+            "AreaCode": "45431",
+            "Name": "美郷町（東臼杵郡）",
+            "Kana": "みさとちょう（ひがしうすきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.42317045,32.44027476"
+            }
+          },
+          {
+            "AreaCode": "45341",
+            "Name": "三股町（北諸県郡）",
+            "Kana": "みまたちょう（きたもろかたぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.12481150,31.73068794"
+            }
+          },
+          {
+            "AreaCode": "45202",
+            "Name": "都城市",
+            "Kana": "みやこのじょうし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.06162399,31.71959006"
+            }
+          },
+          {
+            "AreaCode": "45201",
+            "Name": "宮崎市",
+            "Kana": "みやざきし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.42033021,31.90778919"
+            }
+          },
+          {
+            "AreaCode": "45429",
+            "Name": "諸塚村（東臼杵郡）",
+            "Kana": "もろつかそん（ひがしうすきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.33032106,32.51216969"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

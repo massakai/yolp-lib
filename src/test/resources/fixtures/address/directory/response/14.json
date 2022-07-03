@@ -1,0 +1,554 @@
+{
+  "ResultInfo": {
+    "Count": 58,
+    "Total": 58,
+    "Start": 1,
+    "Status": 200,
+    "Description": "",
+    "Copyright": "",
+    "Latency": 0.012
+  },
+  "Feature": [
+    {
+      "Name": "神奈川県",
+      "Geometry": {
+        "Type": "point",
+        "Coordinates": "139.64251384,35.44760139",
+        "BoundingBox": "138.9158390,35.1284840 139.8358320,35.6728800"
+      },
+      "Property": {
+        "CassetteId": "b22fee69b0dcaf2c2fe2d6a27906dafc",
+        "Country": {
+          "Code": "JP",
+          "Name": "日本"
+        },
+        "Address": "神奈川県",
+        "GovernmentCode": "14",
+        "AddressDirectory": [
+          {
+            "AreaCode": "14401",
+            "Name": "愛川町（愛甲郡）",
+            "Kana": "あいかわまち（あいこうぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.32171660,35.52879827"
+            }
+          },
+          {
+            "AreaCode": "14212",
+            "Name": "厚木市",
+            "Kana": "あつぎし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.36246948,35.44287603"
+            }
+          },
+          {
+            "AreaCode": "14218",
+            "Name": "綾瀬市",
+            "Kana": "あやせし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.42618937,35.43714432"
+            }
+          },
+          {
+            "AreaCode": "14214",
+            "Name": "伊勢原市",
+            "Kana": "いせはらし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.31503976,35.40293174"
+            }
+          },
+          {
+            "AreaCode": "14215",
+            "Name": "海老名市",
+            "Kana": "えびなし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.39060626,35.44643136"
+            }
+          },
+          {
+            "AreaCode": "14341",
+            "Name": "大磯町（中郡）",
+            "Kana": "おおいそまち（なかぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.31133577,35.30683901"
+            }
+          },
+          {
+            "AreaCode": "14362",
+            "Name": "大井町（足柄上郡）",
+            "Kana": "おおいまち（あしがらかみぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.15656006,35.32670413"
+            }
+          },
+          {
+            "AreaCode": "14206",
+            "Name": "小田原市",
+            "Kana": "おだわらし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.15215578,35.26456329"
+            }
+          },
+          {
+            "AreaCode": "14366",
+            "Name": "開成町（足柄上郡）",
+            "Kana": "かいせいまち（あしがらかみぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.12316310,35.33642096"
+            }
+          },
+          {
+            "AreaCode": "14204",
+            "Name": "鎌倉市",
+            "Kana": "かまくらし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.54672033,35.31923593"
+            }
+          },
+          {
+            "AreaCode": "14137",
+            "Name": "川崎市麻生区",
+            "Kana": "かわさきしあさおく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.50586355,35.60381885"
+            }
+          },
+          {
+            "AreaCode": "14131",
+            "Name": "川崎市川崎区",
+            "Kana": "かわさきしかわさきく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.70385075,35.52966648"
+            }
+          },
+          {
+            "AreaCode": "14132",
+            "Name": "川崎市幸区",
+            "Kana": "かわさきしさいわいく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.68677156,35.54429256"
+            }
+          },
+          {
+            "AreaCode": "14134",
+            "Name": "川崎市高津区",
+            "Kana": "かわさきしたかつく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.60786556,35.59937274"
+            }
+          },
+          {
+            "AreaCode": "14135",
+            "Name": "川崎市多摩区",
+            "Kana": "かわさきしたまく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.56215207,35.61953879"
+            }
+          },
+          {
+            "AreaCode": "14133",
+            "Name": "川崎市中原区",
+            "Kana": "かわさきしなかはらく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.65569786,35.57630416"
+            }
+          },
+          {
+            "AreaCode": "14136",
+            "Name": "川崎市宮前区",
+            "Kana": "かわさきしみやまえく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.57879080,35.58926829"
+            }
+          },
+          {
+            "AreaCode": "14402",
+            "Name": "清川村（愛甲郡）",
+            "Kana": "きよかわむら（あいこうぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.27638126,35.48238310"
+            }
+          },
+          {
+            "AreaCode": "14152",
+            "Name": "相模原市中央区",
+            "Kana": "さがみはらしちゅうおうく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.37323431,35.57137363"
+            }
+          },
+          {
+            "AreaCode": "14151",
+            "Name": "相模原市緑区",
+            "Kana": "さがみはらしみどりく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.33770909,35.59565248"
+            }
+          },
+          {
+            "AreaCode": "14153",
+            "Name": "相模原市南区",
+            "Kana": "さがみはらしみなみく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.43022521,35.53030438"
+            }
+          },
+          {
+            "AreaCode": "14216",
+            "Name": "座間市",
+            "Kana": "ざまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.40765647,35.48862146"
+            }
+          },
+          {
+            "AreaCode": "14321",
+            "Name": "寒川町（高座郡）",
+            "Kana": "さむかわまち（こうざぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.38386114,35.37295825"
+            }
+          },
+          {
+            "AreaCode": "14208",
+            "Name": "逗子市",
+            "Kana": "ずしし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.58040575,35.29561084"
+            }
+          },
+          {
+            "AreaCode": "14207",
+            "Name": "茅ヶ崎市",
+            "Kana": "ちがさきし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.40363757,35.33384225"
+            }
+          },
+          {
+            "AreaCode": "14361",
+            "Name": "中井町（足柄上郡）",
+            "Kana": "なかいまち（あしがらかみぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.21881000,35.33074130"
+            }
+          },
+          {
+            "AreaCode": "14342",
+            "Name": "二宮町（中郡）",
+            "Kana": "にのみやまち（なかぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.25554111,35.29949135"
+            }
+          },
+          {
+            "AreaCode": "14382",
+            "Name": "箱根町（足柄下郡）",
+            "Kana": "はこねまち（あしがらしもぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.10691494,35.23236635"
+            }
+          },
+          {
+            "AreaCode": "14211",
+            "Name": "秦野市",
+            "Kana": "はだのし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.21994282,35.37473853"
+            }
+          },
+          {
+            "AreaCode": "14301",
+            "Name": "葉山町（三浦郡）",
+            "Kana": "はやままち（みうらぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.58621023,35.27208819"
+            }
+          },
+          {
+            "AreaCode": "14203",
+            "Name": "平塚市",
+            "Kana": "ひらつかし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.34947880,35.33510965"
+            }
+          },
+          {
+            "AreaCode": "14205",
+            "Name": "藤沢市",
+            "Kana": "ふじさわし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.49112434,35.33885858"
+            }
+          },
+          {
+            "AreaCode": "14363",
+            "Name": "松田町（足柄上郡）",
+            "Kana": "まつだまち（あしがらかみぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.13935271,35.34847006"
+            }
+          },
+          {
+            "AreaCode": "14383",
+            "Name": "真鶴町（足柄下郡）",
+            "Kana": "まなづるまち（あしがらしもぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.13711641,35.15844019"
+            }
+          },
+          {
+            "AreaCode": "14210",
+            "Name": "三浦市",
+            "Kana": "みうらし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.62045910,35.14422856"
+            }
+          },
+          {
+            "AreaCode": "14217",
+            "Name": "南足柄市",
+            "Kana": "みなみあしがらし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.09970776,35.32061094"
+            }
+          },
+          {
+            "AreaCode": "14364",
+            "Name": "山北町（足柄上郡）",
+            "Kana": "やまきたまち（あしがらかみぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.08409440,35.36068515"
+            }
+          },
+          {
+            "AreaCode": "14213",
+            "Name": "大和市",
+            "Kana": "やまとし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.45789137,35.48748123"
+            }
+          },
+          {
+            "AreaCode": "14384",
+            "Name": "湯河原町（足柄下郡）",
+            "Kana": "ゆがわらまち（あしがらしもぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.10840049,35.14781613"
+            }
+          },
+          {
+            "AreaCode": "14201",
+            "Name": "横須賀市",
+            "Kana": "よこすかし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.67220007,35.28134294"
+            }
+          },
+          {
+            "AreaCode": "14117",
+            "Name": "横浜市青葉区",
+            "Kana": "よこはましあおばく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.53701885,35.55282346"
+            }
+          },
+          {
+            "AreaCode": "14112",
+            "Name": "横浜市旭区",
+            "Kana": "よこはましあさひく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.54476623,35.47466374"
+            }
+          },
+          {
+            "AreaCode": "14116",
+            "Name": "横浜市泉区",
+            "Kana": "よこはましいずみく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.48868590,35.41759281"
+            }
+          },
+          {
+            "AreaCode": "14107",
+            "Name": "横浜市磯子区",
+            "Kana": "よこはましいそごく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.61848013,35.40231655"
+            }
+          },
+          {
+            "AreaCode": "14102",
+            "Name": "横浜市神奈川区",
+            "Kana": "よこはましかながわく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.62937220,35.47701119"
+            }
+          },
+          {
+            "AreaCode": "14108",
+            "Name": "横浜市金沢区",
+            "Kana": "よこはましかなざわく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.62448305,35.33808015"
+            }
+          },
+          {
+            "AreaCode": "14111",
+            "Name": "横浜市港南区",
+            "Kana": "よこはましこうなんく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.59252417,35.40090187"
+            }
+          },
+          {
+            "AreaCode": "14109",
+            "Name": "横浜市港北区",
+            "Kana": "よこはましこうほくく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.63280756,35.51895463"
+            }
+          },
+          {
+            "AreaCode": "14115",
+            "Name": "横浜市栄区",
+            "Kana": "よこはましさかえく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.55427251,35.36426142"
+            }
+          },
+          {
+            "AreaCode": "14114",
+            "Name": "横浜市瀬谷区",
+            "Kana": "よこはましせやく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.49894016,35.46607016"
+            }
+          },
+          {
+            "AreaCode": "14118",
+            "Name": "横浜市都筑区",
+            "Kana": "よこはましつづきく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.57053275,35.54485291"
+            }
+          },
+          {
+            "AreaCode": "14101",
+            "Name": "横浜市鶴見区",
+            "Kana": "よこはましつるみく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.68234207,35.50844223"
+            }
+          },
+          {
+            "AreaCode": "14110",
+            "Name": "横浜市戸塚区",
+            "Kana": "よこはましとつかく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.53348209,35.40001193"
+            }
+          },
+          {
+            "AreaCode": "14104",
+            "Name": "横浜市中区",
+            "Kana": "よこはましなかく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.64215289,35.44466845"
+            }
+          },
+          {
+            "AreaCode": "14103",
+            "Name": "横浜市西区",
+            "Kana": "よこはましにしく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.61696041,35.45362570"
+            }
+          },
+          {
+            "AreaCode": "14106",
+            "Name": "横浜市保土ケ谷区",
+            "Kana": "よこはましほどがやく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.59583771,35.45993030"
+            }
+          },
+          {
+            "AreaCode": "14113",
+            "Name": "横浜市緑区",
+            "Kana": "よこはましみどりく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.53799994,35.51233164"
+            }
+          },
+          {
+            "AreaCode": "14105",
+            "Name": "横浜市南区",
+            "Kana": "よこはましみなみく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.62750164,35.43440886"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

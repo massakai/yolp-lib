@@ -1,0 +1,167 @@
+{
+  "ResultInfo": {
+    "Count": 15,
+    "Total": 15,
+    "Start": 1,
+    "Status": 200,
+    "Description": "",
+    "Copyright": "",
+    "Latency": 0.007
+  },
+  "Feature": [
+    {
+      "Name": "富山県",
+      "Geometry": {
+        "Type": "point",
+        "Coordinates": "137.21107132,36.69512622",
+        "BoundingBox": "136.7685100,36.2743940 137.7633810,36.9826350"
+      },
+      "Property": {
+        "CassetteId": "b22fee69b0dcaf2c2fe2d6a27906dafc",
+        "Country": {
+          "Code": "JP",
+          "Name": "日本"
+        },
+        "Address": "富山県",
+        "GovernmentCode": "16",
+        "AddressDirectory": [
+          {
+            "AreaCode": "16343",
+            "Name": "朝日町（下新川郡）",
+            "Kana": "あさひまち（しもにいかわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.55994427,36.94618932"
+            }
+          },
+          {
+            "AreaCode": "16211",
+            "Name": "射水市",
+            "Kana": "いみずし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.07539077,36.73046313"
+            }
+          },
+          {
+            "AreaCode": "16204",
+            "Name": "魚津市",
+            "Kana": "うおづし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.40921729,36.82736718"
+            }
+          },
+          {
+            "AreaCode": "16209",
+            "Name": "小矢部市",
+            "Kana": "おやべし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.86862181,36.67557452"
+            }
+          },
+          {
+            "AreaCode": "16322",
+            "Name": "上市町（中新川郡）",
+            "Kana": "かみいちまち（なかにいかわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.36237986,36.69841368"
+            }
+          },
+          {
+            "AreaCode": "16207",
+            "Name": "黒部市",
+            "Kana": "くろべし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.44803241,36.87150781"
+            }
+          },
+          {
+            "AreaCode": "16202",
+            "Name": "高岡市",
+            "Kana": "たかおかし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.02574422,36.75408751"
+            }
+          },
+          {
+            "AreaCode": "16323",
+            "Name": "立山町（中新川郡）",
+            "Kana": "たてやままち（なかにいかわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.31352993,36.66336592"
+            }
+          },
+          {
+            "AreaCode": "16208",
+            "Name": "砺波市",
+            "Kana": "となみし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.96201093,36.64753578"
+            }
+          },
+          {
+            "AreaCode": "16201",
+            "Name": "富山市",
+            "Kana": "とやまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.21368217,36.69601506"
+            }
+          },
+          {
+            "AreaCode": "16206",
+            "Name": "滑川市",
+            "Kana": "なめりかわし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.34119053,36.76437736"
+            }
+          },
+          {
+            "AreaCode": "16210",
+            "Name": "南砺市",
+            "Kana": "なんとし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.87532132,36.55731797"
+            }
+          },
+          {
+            "AreaCode": "16342",
+            "Name": "入善町（下新川郡）",
+            "Kana": "にゅうぜんまち（しもにいかわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.50222693,36.93346016"
+            }
+          },
+          {
+            "AreaCode": "16205",
+            "Name": "氷見市",
+            "Kana": "ひみし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.97284841,36.85598355"
+            }
+          },
+          {
+            "AreaCode": "16321",
+            "Name": "舟橋村（中新川郡）",
+            "Kana": "ふなはしむら（なかにいかわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.30757338,36.70338932"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

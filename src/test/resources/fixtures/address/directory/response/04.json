@@ -1,0 +1,383 @@
+{
+  "ResultInfo": {
+    "Count": 39,
+    "Total": 39,
+    "Start": 1,
+    "Status": 200,
+    "Description": "",
+    "Copyright": "",
+    "Latency": 0.009
+  },
+  "Feature": [
+    {
+      "Name": "宮城県",
+      "Geometry": {
+        "Type": "point",
+        "Coordinates": "140.87229363,38.26881450",
+        "BoundingBox": "140.2746800,37.7732430 141.6773340,39.0027360"
+      },
+      "Property": {
+        "CassetteId": "b22fee69b0dcaf2c2fe2d6a27906dafc",
+        "Country": {
+          "Code": "JP",
+          "Name": "日本"
+        },
+        "Address": "宮城県",
+        "GovernmentCode": "04",
+        "AddressDirectory": [
+          {
+            "AreaCode": "04202",
+            "Name": "石巻市",
+            "Kana": "いしのまきし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.30288917,38.43448511"
+            }
+          },
+          {
+            "AreaCode": "04211",
+            "Name": "岩沼市",
+            "Kana": "いわぬまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.86996798,38.10439748"
+            }
+          },
+          {
+            "AreaCode": "04321",
+            "Name": "大河原町（柴田郡）",
+            "Kana": "おおがわらまち（しばたぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.73084004,38.04942285"
+            }
+          },
+          {
+            "AreaCode": "04215",
+            "Name": "大崎市",
+            "Kana": "おおさきし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.95547149,38.57712310"
+            }
+          },
+          {
+            "AreaCode": "04422",
+            "Name": "大郷町（黒川郡）",
+            "Kana": "おおさとちょう（くろかわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.00444196,38.42426725"
+            }
+          },
+          {
+            "AreaCode": "04424",
+            "Name": "大衡村（黒川郡）",
+            "Kana": "おおひらむら（くろかわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.88008600,38.46722534"
+            }
+          },
+          {
+            "AreaCode": "04581",
+            "Name": "女川町（牡鹿郡）",
+            "Kana": "おながわちょう（おしかぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.44302127,38.44544715"
+            }
+          },
+          {
+            "AreaCode": "04208",
+            "Name": "角田市",
+            "Kana": "かくだし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.78198945,37.97706250"
+            }
+          },
+          {
+            "AreaCode": "04445",
+            "Name": "加美町（加美郡）",
+            "Kana": "かみまち（かみぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.85474784,38.57176170"
+            }
+          },
+          {
+            "AreaCode": "04324",
+            "Name": "川崎町（柴田郡）",
+            "Kana": "かわさきまち（しばたぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.64327155,38.17795306"
+            }
+          },
+          {
+            "AreaCode": "04213",
+            "Name": "栗原市",
+            "Kana": "くりはらし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.02133878,38.73013047"
+            }
+          },
+          {
+            "AreaCode": "04205",
+            "Name": "気仙沼市",
+            "Kana": "けせんぬまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.56999436,38.90808066"
+            }
+          },
+          {
+            "AreaCode": "04301",
+            "Name": "蔵王町（刈田郡）",
+            "Kana": "ざおうまち（かったぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.65843491,38.09806090"
+            }
+          },
+          {
+            "AreaCode": "04203",
+            "Name": "塩竈市",
+            "Kana": "しおがまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.02202704,38.31435351"
+            }
+          },
+          {
+            "AreaCode": "04444",
+            "Name": "色麻町（加美郡）",
+            "Kana": "しかまちょう（かみぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.84993830,38.54883078"
+            }
+          },
+          {
+            "AreaCode": "04302",
+            "Name": "七ヶ宿町（刈田郡）",
+            "Kana": "しちかしゅくまち（かったぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.44198420,37.99291299"
+            }
+          },
+          {
+            "AreaCode": "04404",
+            "Name": "七ヶ浜町（宮城郡）",
+            "Kana": "しちがはままち（みやぎぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.05951560,38.30467040"
+            }
+          },
+          {
+            "AreaCode": "04323",
+            "Name": "柴田町（柴田郡）",
+            "Kana": "しばたまち（しばたぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.76579239,38.05656264"
+            }
+          },
+          {
+            "AreaCode": "04206",
+            "Name": "白石市",
+            "Kana": "しろいしし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.61985986,38.00247672"
+            }
+          },
+          {
+            "AreaCode": "04101",
+            "Name": "仙台市青葉区",
+            "Kana": "せんだいしあおばく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.87017166,38.26907550"
+            }
+          },
+          {
+            "AreaCode": "04105",
+            "Name": "仙台市泉区",
+            "Kana": "せんだいしいずみく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.88163935,38.32627991"
+            }
+          },
+          {
+            "AreaCode": "04104",
+            "Name": "仙台市太白区",
+            "Kana": "せんだいしたいはくく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.87720056,38.22446934"
+            }
+          },
+          {
+            "AreaCode": "04102",
+            "Name": "仙台市宮城野区",
+            "Kana": "せんだいしみやぎのく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.90982612,38.26611095"
+            }
+          },
+          {
+            "AreaCode": "04103",
+            "Name": "仙台市若林区",
+            "Kana": "せんだいしわかばやしく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.90053960,38.24436252"
+            }
+          },
+          {
+            "AreaCode": "04421",
+            "Name": "大和町（黒川郡）",
+            "Kana": "たいわちょう（くろかわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.88630878,38.43732804"
+            }
+          },
+          {
+            "AreaCode": "04209",
+            "Name": "多賀城市",
+            "Kana": "たがじょうし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.00426925,38.29385281"
+            }
+          },
+          {
+            "AreaCode": "04216",
+            "Name": "富谷市",
+            "Kana": "とみやし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.89540999,38.39981425"
+            }
+          },
+          {
+            "AreaCode": "04212",
+            "Name": "登米市",
+            "Kana": "とめし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.18758107,38.69193312"
+            }
+          },
+          {
+            "AreaCode": "04207",
+            "Name": "名取市",
+            "Kana": "なとりし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.89191303,38.17152003"
+            }
+          },
+          {
+            "AreaCode": "04214",
+            "Name": "東松島市",
+            "Kana": "ひがしまつしまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.21024402,38.42616715"
+            }
+          },
+          {
+            "AreaCode": "04401",
+            "Name": "松島町（宮城郡）",
+            "Kana": "まつしままち（みやぎぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.06724346,38.38013083"
+            }
+          },
+          {
+            "AreaCode": "04341",
+            "Name": "丸森町（伊具郡）",
+            "Kana": "まるもりまち（いぐぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.76552790,37.91143165"
+            }
+          },
+          {
+            "AreaCode": "04505",
+            "Name": "美里町（遠田郡）",
+            "Kana": "みさとまち（とおだぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.05669944,38.54440475"
+            }
+          },
+          {
+            "AreaCode": "04606",
+            "Name": "南三陸町（本吉郡）",
+            "Kana": "みなみさんりくちょう（もとよしぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.46247461,38.68062641"
+            }
+          },
+          {
+            "AreaCode": "04322",
+            "Name": "村田町（柴田郡）",
+            "Kana": "むらたまち（しばたぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.72239261,38.11854755"
+            }
+          },
+          {
+            "AreaCode": "04362",
+            "Name": "山元町（亘理郡）",
+            "Kana": "やまもとちょう（わたりぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.87797909,37.96270633"
+            }
+          },
+          {
+            "AreaCode": "04406",
+            "Name": "利府町（宮城郡）",
+            "Kana": "りふちょう（みやぎぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.97573308,38.33025606"
+            }
+          },
+          {
+            "AreaCode": "04501",
+            "Name": "涌谷町（遠田郡）",
+            "Kana": "わくやちょう（とおだぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.12807511,38.53964841"
+            }
+          },
+          {
+            "AreaCode": "04361",
+            "Name": "亘理町（亘理郡）",
+            "Kana": "わたりちょう（わたりぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.86745482,38.04420300"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

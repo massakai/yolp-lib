@@ -1,0 +1,383 @@
+{
+  "ResultInfo": {
+    "Count": 39,
+    "Total": 39,
+    "Start": 1,
+    "Status": 200,
+    "Description": "",
+    "Copyright": "",
+    "Latency": 0.01
+  },
+  "Feature": [
+    {
+      "Name": "奈良県",
+      "Geometry": {
+        "Type": "point",
+        "Coordinates": "135.83280579,34.68533427",
+        "BoundingBox": "135.5397190,33.8588440 136.2298900,34.7813320"
+      },
+      "Property": {
+        "CassetteId": "b22fee69b0dcaf2c2fe2d6a27906dafc",
+        "Country": {
+          "Code": "JP",
+          "Name": "日本"
+        },
+        "Address": "奈良県",
+        "GovernmentCode": "29",
+        "AddressDirectory": [
+          {
+            "AreaCode": "29402",
+            "Name": "明日香村（高市郡）",
+            "Kana": "あすかむら（たかいちぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.82050206,34.47109168"
+            }
+          },
+          {
+            "AreaCode": "29345",
+            "Name": "安堵町（生駒郡）",
+            "Kana": "あんどちょう（いこまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.75676091,34.60648524"
+            }
+          },
+          {
+            "AreaCode": "29344",
+            "Name": "斑鳩町（生駒郡）",
+            "Kana": "いかるがちょう（いこまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.73052635,34.60885346"
+            }
+          },
+          {
+            "AreaCode": "29209",
+            "Name": "生駒市",
+            "Kana": "いこまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.70053614,34.69196254"
+            }
+          },
+          {
+            "AreaCode": "29212",
+            "Name": "宇陀市",
+            "Kana": "うだし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.95227496,34.52802069"
+            }
+          },
+          {
+            "AreaCode": "29425",
+            "Name": "王寺町（北葛城郡）",
+            "Kana": "おうじちょう（きたかつらぎぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.70655363,34.59472411"
+            }
+          },
+          {
+            "AreaCode": "29442",
+            "Name": "大淀町（吉野郡）",
+            "Kana": "おおよどちょう（よしのぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.78963165,34.39078930"
+            }
+          },
+          {
+            "AreaCode": "29210",
+            "Name": "香芝市",
+            "Kana": "かしばし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.69893907,34.54125550"
+            }
+          },
+          {
+            "AreaCode": "29205",
+            "Name": "橿原市",
+            "Kana": "かしはらし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.79262549,34.50945014"
+            }
+          },
+          {
+            "AreaCode": "29211",
+            "Name": "葛城市",
+            "Kana": "かつらぎし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.72648515,34.48920995"
+            }
+          },
+          {
+            "AreaCode": "29451",
+            "Name": "上北山村（吉野郡）",
+            "Kana": "かみきたやまむら（よしのぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.99985198,34.13410111"
+            }
+          },
+          {
+            "AreaCode": "29427",
+            "Name": "河合町（北葛城郡）",
+            "Kana": "かわいちょう（きたかつらぎぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.73667115,34.57847113"
+            }
+          },
+          {
+            "AreaCode": "29452",
+            "Name": "川上村（吉野郡）",
+            "Kana": "かわかみむら（よしのぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.95432756,34.33808468"
+            }
+          },
+          {
+            "AreaCode": "29361",
+            "Name": "川西町（磯城郡）",
+            "Kana": "かわにしちょう（しきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.77410717,34.58420500"
+            }
+          },
+          {
+            "AreaCode": "29424",
+            "Name": "上牧町（北葛城郡）",
+            "Kana": "かんまきちょう（きたかつらぎぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.71663163,34.56275040"
+            }
+          },
+          {
+            "AreaCode": "29444",
+            "Name": "黒滝村（吉野郡）",
+            "Kana": "くろたきむら（よしのぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.85214465,34.30930647"
+            }
+          },
+          {
+            "AreaCode": "29426",
+            "Name": "広陵町（北葛城郡）",
+            "Kana": "こうりょうちょう（きたかつらぎぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.75083519,34.54278420"
+            }
+          },
+          {
+            "AreaCode": "29207",
+            "Name": "五條市",
+            "Kana": "ごじょうし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.69557071,34.35632108"
+            }
+          },
+          {
+            "AreaCode": "29208",
+            "Name": "御所市",
+            "Kana": "ごせし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.74023992,34.46333251"
+            }
+          },
+          {
+            "AreaCode": "29206",
+            "Name": "桜井市",
+            "Kana": "さくらいし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.84319890,34.51872480"
+            }
+          },
+          {
+            "AreaCode": "29343",
+            "Name": "三郷町（生駒郡）",
+            "Kana": "さんごうちょう（いこまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.69546003,34.59988180"
+            }
+          },
+          {
+            "AreaCode": "29443",
+            "Name": "下市町（吉野郡）",
+            "Kana": "しもいちちょう（よしのぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.79185725,34.36098396"
+            }
+          },
+          {
+            "AreaCode": "29450",
+            "Name": "下北山村（吉野郡）",
+            "Kana": "しもきたやまむら（よしのぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.95516649,34.00503719"
+            }
+          },
+          {
+            "AreaCode": "29385",
+            "Name": "曽爾村（宇陀郡）",
+            "Kana": "そにむら（うだぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.12473304,34.51061880"
+            }
+          },
+          {
+            "AreaCode": "29401",
+            "Name": "高取町（高市郡）",
+            "Kana": "たかとりちょう（たかいちぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.79350474,34.44947702"
+            }
+          },
+          {
+            "AreaCode": "29363",
+            "Name": "田原本町（磯城郡）",
+            "Kana": "たわらもとちょう（しきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.79487530,34.55650578"
+            }
+          },
+          {
+            "AreaCode": "29446",
+            "Name": "天川村（吉野郡）",
+            "Kana": "てんかわむら（よしのぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.85523567,34.24201446"
+            }
+          },
+          {
+            "AreaCode": "29204",
+            "Name": "天理市",
+            "Kana": "てんりし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.83733143,34.59664680"
+            }
+          },
+          {
+            "AreaCode": "29449",
+            "Name": "十津川村（吉野郡）",
+            "Kana": "とつかわむら（よしのぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.79241750,33.98849461"
+            }
+          },
+          {
+            "AreaCode": "29201",
+            "Name": "奈良市",
+            "Kana": "ならし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.80500813,34.68510599"
+            }
+          },
+          {
+            "AreaCode": "29447",
+            "Name": "野迫川村（吉野郡）",
+            "Kana": "のせがわむら（よしのぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.63305455,34.16625930"
+            }
+          },
+          {
+            "AreaCode": "29453",
+            "Name": "東吉野村（吉野郡）",
+            "Kana": "ひがしよしのむら（よしのぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.96833703,34.40381254"
+            }
+          },
+          {
+            "AreaCode": "29342",
+            "Name": "平群町（生駒郡）",
+            "Kana": "へぐりちょう（いこまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.70073695,34.62890936"
+            }
+          },
+          {
+            "AreaCode": "29386",
+            "Name": "御杖村（宇陀郡）",
+            "Kana": "みつえむら（うだぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.16585942,34.48804214"
+            }
+          },
+          {
+            "AreaCode": "29362",
+            "Name": "三宅町（磯城郡）",
+            "Kana": "みやけちょう（しきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.77364081,34.57361718"
+            }
+          },
+          {
+            "AreaCode": "29322",
+            "Name": "山添村（山辺郡）",
+            "Kana": "やまぞえむら（やまべぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.04334665,34.68084946"
+            }
+          },
+          {
+            "AreaCode": "29203",
+            "Name": "大和郡山市",
+            "Kana": "やまとこおりやまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.78275796,34.64937318"
+            }
+          },
+          {
+            "AreaCode": "29202",
+            "Name": "大和高田市",
+            "Kana": "やまとたかだし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.73740282,34.51575128"
+            }
+          },
+          {
+            "AreaCode": "29441",
+            "Name": "吉野町（吉野郡）",
+            "Kana": "よしのちょう（よしのぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.85774562,34.39611743"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

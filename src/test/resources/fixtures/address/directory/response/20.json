@@ -1,0 +1,725 @@
+{
+  "ResultInfo": {
+    "Count": 77,
+    "Total": 77,
+    "Start": 1,
+    "Status": 200,
+    "Description": "",
+    "Copyright": "",
+    "Latency": 0.011
+  },
+  "Feature": [
+    {
+      "Name": "長野県",
+      "Geometry": {
+        "Type": "point",
+        "Coordinates": "138.18086067,36.65118239",
+        "BoundingBox": "137.3247990,35.1984410 138.7391670,37.0303750"
+      },
+      "Property": {
+        "CassetteId": "b22fee69b0dcaf2c2fe2d6a27906dafc",
+        "Country": {
+          "Code": "JP",
+          "Name": "日本"
+        },
+        "Address": "長野県",
+        "GovernmentCode": "20",
+        "AddressDirectory": [
+          {
+            "AreaCode": "20349",
+            "Name": "青木村（小県郡）",
+            "Kana": "あおきむら（ちいさがたぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.12893631,36.37003760"
+            }
+          },
+          {
+            "AreaCode": "20422",
+            "Name": "上松町（木曽郡）",
+            "Kana": "あげまつまち（きそぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.69325989,35.78225106"
+            }
+          },
+          {
+            "AreaCode": "20451",
+            "Name": "朝日村（東筑摩郡）",
+            "Kana": "あさひむら（ひがしちくまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.86686047,36.12905470"
+            }
+          },
+          {
+            "AreaCode": "20407",
+            "Name": "阿智村（下伊那郡）",
+            "Kana": "あちむら（しもいなぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.74787089,35.44387346"
+            }
+          },
+          {
+            "AreaCode": "20220",
+            "Name": "安曇野市",
+            "Kana": "あづみのし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.90580349,36.30395060"
+            }
+          },
+          {
+            "AreaCode": "20404",
+            "Name": "阿南町（下伊那郡）",
+            "Kana": "あなんちょう（しもいなぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.81632484,35.32331482"
+            }
+          },
+          {
+            "AreaCode": "20384",
+            "Name": "飯島町（上伊那郡）",
+            "Kana": "いいじままち（かみいなぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.91956303,35.67669778"
+            }
+          },
+          {
+            "AreaCode": "20205",
+            "Name": "飯田市",
+            "Kana": "いいだし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.82182129,35.51470002"
+            }
+          },
+          {
+            "AreaCode": "20590",
+            "Name": "飯綱町（上水内郡）",
+            "Kana": "いいづなまち（かみみのちぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.23554175,36.75463768"
+            }
+          },
+          {
+            "AreaCode": "20213",
+            "Name": "飯山市",
+            "Kana": "いいやまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.36559731,36.85147479"
+            }
+          },
+          {
+            "AreaCode": "20448",
+            "Name": "生坂村（東筑摩郡）",
+            "Kana": "いくさかむら（ひがしちくまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.92757701,36.42534139"
+            }
+          },
+          {
+            "AreaCode": "20481",
+            "Name": "池田町（北安曇郡）",
+            "Kana": "いけだまち（きたあづみぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.87476869,36.42133733"
+            }
+          },
+          {
+            "AreaCode": "20209",
+            "Name": "伊那市",
+            "Kana": "いなし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.95407969,35.82748044"
+            }
+          },
+          {
+            "AreaCode": "20203",
+            "Name": "上田市",
+            "Kana": "うえだし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.24888813,36.40191392"
+            }
+          },
+          {
+            "AreaCode": "20412",
+            "Name": "売木村（下伊那郡）",
+            "Kana": "うるぎむら（しもいなぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.71112139,35.27108764"
+            }
+          },
+          {
+            "AreaCode": "20429",
+            "Name": "王滝村（木曽郡）",
+            "Kana": "おうたきむら（きそぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.55053013,35.80936381"
+            }
+          },
+          {
+            "AreaCode": "20430",
+            "Name": "大桑村（木曽郡）",
+            "Kana": "おおくわむら（きそぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.66485365,35.68273560"
+            }
+          },
+          {
+            "AreaCode": "20417",
+            "Name": "大鹿村（下伊那郡）",
+            "Kana": "おおしかむら（しもいなぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.03424971,35.57838297"
+            }
+          },
+          {
+            "AreaCode": "20212",
+            "Name": "大町市",
+            "Kana": "おおまちし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.85109425,36.50301692"
+            }
+          },
+          {
+            "AreaCode": "20204",
+            "Name": "岡谷市",
+            "Kana": "おかやし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.04941157,36.06709999"
+            }
+          },
+          {
+            "AreaCode": "20588",
+            "Name": "小川村（上水内郡）",
+            "Kana": "おがわむら（かみみのちぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.97479081,36.61712327"
+            }
+          },
+          {
+            "AreaCode": "20486",
+            "Name": "小谷村（北安曇郡）",
+            "Kana": "おたりむら（きたあづみぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.90840504,36.77906691"
+            }
+          },
+          {
+            "AreaCode": "20541",
+            "Name": "小布施町（上高井郡）",
+            "Kana": "おぶせまち（かみたかいぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.31164592,36.69717230"
+            }
+          },
+          {
+            "AreaCode": "20446",
+            "Name": "麻績村（東筑摩郡）",
+            "Kana": "おみむら（ひがしちくまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.04528897,36.45609122"
+            }
+          },
+          {
+            "AreaCode": "20321",
+            "Name": "軽井沢町（北佐久郡）",
+            "Kana": "かるいざわまち（きたさくぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.59695453,36.34828987"
+            }
+          },
+          {
+            "AreaCode": "20304",
+            "Name": "川上村（南佐久郡）",
+            "Kana": "かわかみむら（みなみさくぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.57864865,35.97549821"
+            }
+          },
+          {
+            "AreaCode": "20562",
+            "Name": "木島平村（下高井郡）",
+            "Kana": "きじまだいらむら（しもたかいぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.40699861,36.85788907"
+            }
+          },
+          {
+            "AreaCode": "20432",
+            "Name": "木曽町（木曽郡）",
+            "Kana": "きそまち（きそぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.69125775,35.84182215"
+            }
+          },
+          {
+            "AreaCode": "20425",
+            "Name": "木祖村（木曽郡）",
+            "Kana": "きそむら（きそぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.78330110,35.93643966"
+            }
+          },
+          {
+            "AreaCode": "20307",
+            "Name": "北相木村（南佐久郡）",
+            "Kana": "きたあいきむら（みなみさくぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.55112211,36.05897702"
+            }
+          },
+          {
+            "AreaCode": "20303",
+            "Name": "小海町（南佐久郡）",
+            "Kana": "こうみまち（みなみさくぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.48356822,36.09546266"
+            }
+          },
+          {
+            "AreaCode": "20210",
+            "Name": "駒ヶ根市",
+            "Kana": "こまがねし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.93378476,35.72881365"
+            }
+          },
+          {
+            "AreaCode": "20208",
+            "Name": "小諸市",
+            "Kana": "こもろし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.42588315,36.32741899"
+            }
+          },
+          {
+            "AreaCode": "20602",
+            "Name": "栄村（下水内郡）",
+            "Kana": "さかえむら（しもみのちぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.57742429,36.98759725"
+            }
+          },
+          {
+            "AreaCode": "20521",
+            "Name": "坂城町（埴科郡）",
+            "Kana": "さかきまち（はにしなぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.18010598,36.46205879"
+            }
+          },
+          {
+            "AreaCode": "20217",
+            "Name": "佐久市",
+            "Kana": "さくし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.47683320,36.24886789"
+            }
+          },
+          {
+            "AreaCode": "20309",
+            "Name": "佐久穂町（南佐久郡）",
+            "Kana": "さくほまち（みなみさくぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.48351778,36.16031985"
+            }
+          },
+          {
+            "AreaCode": "20215",
+            "Name": "塩尻市",
+            "Kana": "しおじりし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.95344574,36.11498029"
+            }
+          },
+          {
+            "AreaCode": "20583",
+            "Name": "信濃町（上水内郡）",
+            "Kana": "しなのまち（かみみのちぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.20680733,36.80668117"
+            }
+          },
+          {
+            "AreaCode": "20411",
+            "Name": "下條村（下伊那郡）",
+            "Kana": "しもじょうむら（しもいなぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.78589780,35.39736051"
+            }
+          },
+          {
+            "AreaCode": "20361",
+            "Name": "下諏訪町（諏訪郡）",
+            "Kana": "しもすわまち（すわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.08013639,36.06948644"
+            }
+          },
+          {
+            "AreaCode": "20207",
+            "Name": "須坂市",
+            "Kana": "すざかし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.30719118,36.65109711"
+            }
+          },
+          {
+            "AreaCode": "20206",
+            "Name": "諏訪市",
+            "Kana": "すわし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.11406750,36.03899668"
+            }
+          },
+          {
+            "AreaCode": "20415",
+            "Name": "喬木村（下伊那郡）",
+            "Kana": "たかぎむら（しもいなぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.87369935,35.51368470"
+            }
+          },
+          {
+            "AreaCode": "20403",
+            "Name": "高森町（下伊那郡）",
+            "Kana": "たかもりまち（しもいなぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.87848958,35.55156599"
+            }
+          },
+          {
+            "AreaCode": "20543",
+            "Name": "高山村（上高井郡）",
+            "Kana": "たかやまむら（かみたかいぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.36323004,36.67956989"
+            }
+          },
+          {
+            "AreaCode": "20382",
+            "Name": "辰野町（上伊那郡）",
+            "Kana": "たつのまち（かみいなぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.98771623,35.98267345"
+            }
+          },
+          {
+            "AreaCode": "20324",
+            "Name": "立科町（北佐久郡）",
+            "Kana": "たてしなまち（きたさくぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.31588011,36.27180303"
+            }
+          },
+          {
+            "AreaCode": "20452",
+            "Name": "筑北村（東筑摩郡）",
+            "Kana": "ちくほくむら（ひがしちくまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.01194050,36.40255538"
+            }
+          },
+          {
+            "AreaCode": "20218",
+            "Name": "千曲市",
+            "Kana": "ちくまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.11470862,36.53077650"
+            }
+          },
+          {
+            "AreaCode": "20214",
+            "Name": "茅野市",
+            "Kana": "ちのし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.15889293,35.99557024"
+            }
+          },
+          {
+            "AreaCode": "20413",
+            "Name": "天龍村（下伊那郡）",
+            "Kana": "てんりゅうむら（しもいなぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.85391723,35.27643785"
+            }
+          },
+          {
+            "AreaCode": "20219",
+            "Name": "東御市",
+            "Kana": "とうみし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.33024990,36.35947370"
+            }
+          },
+          {
+            "AreaCode": "20416",
+            "Name": "豊丘村（下伊那郡）",
+            "Kana": "とよおかむら（しもいなぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.89557687,35.55172458"
+            }
+          },
+          {
+            "AreaCode": "20386",
+            "Name": "中川村（上伊那郡）",
+            "Kana": "なかがわむら（かみいなぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.94614080,35.63439762"
+            }
+          },
+          {
+            "AreaCode": "20201",
+            "Name": "長野市",
+            "Kana": "ながのし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.19477314,36.64858583"
+            }
+          },
+          {
+            "AreaCode": "20211",
+            "Name": "中野市",
+            "Kana": "なかのし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.36921382,36.74155771"
+            }
+          },
+          {
+            "AreaCode": "20350",
+            "Name": "長和町（小県郡）",
+            "Kana": "ながわまち（ちいさがたぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.25822935,36.26991013"
+            }
+          },
+          {
+            "AreaCode": "20423",
+            "Name": "南木曽町（木曽郡）",
+            "Kana": "なぎそまち（きそぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.60901601,35.60375559"
+            }
+          },
+          {
+            "AreaCode": "20410",
+            "Name": "根羽村（下伊那郡）",
+            "Kana": "ねばむら（しもいなぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.58185436,35.25507161"
+            }
+          },
+          {
+            "AreaCode": "20563",
+            "Name": "野沢温泉村（下高井郡）",
+            "Kana": "のざわおんせんむら（しもたかいぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.44064314,36.92290398"
+            }
+          },
+          {
+            "AreaCode": "20485",
+            "Name": "白馬村（北安曇郡）",
+            "Kana": "はくばむら（きたあづみぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.86198590,36.69842998"
+            }
+          },
+          {
+            "AreaCode": "20363",
+            "Name": "原村（諏訪郡）",
+            "Kana": "はらむら（すわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.21771931,35.96445843"
+            }
+          },
+          {
+            "AreaCode": "20409",
+            "Name": "平谷村（下伊那郡）",
+            "Kana": "ひらやむら（しもいなぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.62997957,35.32319631"
+            }
+          },
+          {
+            "AreaCode": "20362",
+            "Name": "富士見町（諏訪郡）",
+            "Kana": "ふじみまち（すわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.24095972,35.91452961"
+            }
+          },
+          {
+            "AreaCode": "20402",
+            "Name": "松川町（下伊那郡）",
+            "Kana": "まつかわまち（しもいなぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.90956927,35.59729412"
+            }
+          },
+          {
+            "AreaCode": "20482",
+            "Name": "松川村（北安曇郡）",
+            "Kana": "まつかわむら（きたあづみぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.85449784,36.42407798"
+            }
+          },
+          {
+            "AreaCode": "20202",
+            "Name": "松本市",
+            "Kana": "まつもとし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.97201398,36.23805991"
+            }
+          },
+          {
+            "AreaCode": "20306",
+            "Name": "南相木村（南佐久郡）",
+            "Kana": "みなみあいきむら（みなみさくぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.54669239,36.03607929"
+            }
+          },
+          {
+            "AreaCode": "20305",
+            "Name": "南牧村（南佐久郡）",
+            "Kana": "みなみまきむら（みなみさくぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.49230610,36.02098566"
+            }
+          },
+          {
+            "AreaCode": "20385",
+            "Name": "南箕輪村（上伊那郡）",
+            "Kana": "みなみみのわむら（かみいなぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.97504021,35.87277206"
+            }
+          },
+          {
+            "AreaCode": "20383",
+            "Name": "箕輪町（上伊那郡）",
+            "Kana": "みのわまち（かみいなぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.98194408,35.91513400"
+            }
+          },
+          {
+            "AreaCode": "20388",
+            "Name": "宮田村（上伊那郡）",
+            "Kana": "みやだむら（かみいなぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.94417355,35.76879294"
+            }
+          },
+          {
+            "AreaCode": "20323",
+            "Name": "御代田町（北佐久郡）",
+            "Kana": "みよたまち（きたさくぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.50653682,36.32279918"
+            }
+          },
+          {
+            "AreaCode": "20414",
+            "Name": "泰阜村（下伊那郡）",
+            "Kana": "やすおかむら（しもいなぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.84622583,35.37743091"
+            }
+          },
+          {
+            "AreaCode": "20450",
+            "Name": "山形村（東筑摩郡）",
+            "Kana": "やまがたむら（ひがしちくまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.87915522,36.16802742"
+            }
+          },
+          {
+            "AreaCode": "20561",
+            "Name": "山ノ内町（下高井郡）",
+            "Kana": "やまのうちまち（しもたかいぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.41286798,36.74474996"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
