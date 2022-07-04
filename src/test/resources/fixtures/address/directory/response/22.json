@@ -1,0 +1,419 @@
+{
+  "ResultInfo": {
+    "Count": 43,
+    "Total": 43,
+    "Start": 1,
+    "Status": 200,
+    "Description": "",
+    "Copyright": "",
+    "Latency": 0.012
+  },
+  "Feature": [
+    {
+      "Name": "静岡県",
+      "Geometry": {
+        "Type": "point",
+        "Coordinates": "138.38314254,34.97675901",
+        "BoundingBox": "137.4741600,34.5720990 139.1765390,35.6459490"
+      },
+      "Property": {
+        "CassetteId": "b22fee69b0dcaf2c2fe2d6a27906dafc",
+        "Country": {
+          "Code": "JP",
+          "Name": "日本"
+        },
+        "Address": "静岡県",
+        "GovernmentCode": "22",
+        "AddressDirectory": [
+          {
+            "AreaCode": "22205",
+            "Name": "熱海市",
+            "Kana": "あたみし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.07153161,35.09599813"
+            }
+          },
+          {
+            "AreaCode": "22222",
+            "Name": "伊豆市",
+            "Kana": "いずし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.94670601,34.97658003"
+            }
+          },
+          {
+            "AreaCode": "22225",
+            "Name": "伊豆の国市",
+            "Kana": "いずのくにし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.92892652,35.02773497"
+            }
+          },
+          {
+            "AreaCode": "22208",
+            "Name": "伊東市",
+            "Kana": "いとうし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.10193586,34.96567039"
+            }
+          },
+          {
+            "AreaCode": "22211",
+            "Name": "磐田市",
+            "Kana": "いわたし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.85151314,34.71790281"
+            }
+          },
+          {
+            "AreaCode": "22223",
+            "Name": "御前崎市",
+            "Kana": "おまえざきし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.12812678,34.63798601"
+            }
+          },
+          {
+            "AreaCode": "22344",
+            "Name": "小山町（駿東郡）",
+            "Kana": "おやまちょう（すんとうぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.98723369,35.36008728"
+            }
+          },
+          {
+            "AreaCode": "22213",
+            "Name": "掛川市",
+            "Kana": "かけがわし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.99816747,34.76876628"
+            }
+          },
+          {
+            "AreaCode": "22302",
+            "Name": "河津町（賀茂郡）",
+            "Kana": "かわづちょう（かもぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.98739308,34.75722655"
+            }
+          },
+          {
+            "AreaCode": "22429",
+            "Name": "川根本町（榛原郡）",
+            "Kana": "かわねほんちょう（はいばらぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.08158007,35.04692723"
+            }
+          },
+          {
+            "AreaCode": "22325",
+            "Name": "函南町（田方郡）",
+            "Kana": "かんなみちょう（たがたぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.95332666,35.08895787"
+            }
+          },
+          {
+            "AreaCode": "22224",
+            "Name": "菊川市",
+            "Kana": "きくがわし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.08460899,34.75774844"
+            }
+          },
+          {
+            "AreaCode": "22221",
+            "Name": "湖西市",
+            "Kana": "こさいし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.53162541,34.71846752"
+            }
+          },
+          {
+            "AreaCode": "22215",
+            "Name": "御殿場市",
+            "Kana": "ごてんばし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.93461982,35.30869492"
+            }
+          },
+          {
+            "AreaCode": "22101",
+            "Name": "静岡市葵区",
+            "Kana": "しずおかしあおいく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.38329256,34.97518421"
+            }
+          },
+          {
+            "AreaCode": "22103",
+            "Name": "静岡市清水区",
+            "Kana": "しずおかししみずく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.48952695,35.01588159"
+            }
+          },
+          {
+            "AreaCode": "22102",
+            "Name": "静岡市駿河区",
+            "Kana": "しずおかしするがく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.40404654,34.96074178"
+            }
+          },
+          {
+            "AreaCode": "22209",
+            "Name": "島田市",
+            "Kana": "しまだし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.17602155,34.83636321"
+            }
+          },
+          {
+            "AreaCode": "22341",
+            "Name": "清水町（駿東郡）",
+            "Kana": "しみずちょう（すんとうぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.90300029,35.09898160"
+            }
+          },
+          {
+            "AreaCode": "22219",
+            "Name": "下田市",
+            "Kana": "しもだし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.94531551,34.67953322"
+            }
+          },
+          {
+            "AreaCode": "22220",
+            "Name": "裾野市",
+            "Kana": "すそのし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.90672906,35.17388439"
+            }
+          },
+          {
+            "AreaCode": "22342",
+            "Name": "長泉町（駿東郡）",
+            "Kana": "ながいずみちょう（すんとうぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.89715515,35.13774997"
+            }
+          },
+          {
+            "AreaCode": "22306",
+            "Name": "西伊豆町（賀茂郡）",
+            "Kana": "にしいずちょう（かもぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.77535019,34.77167606"
+            }
+          },
+          {
+            "AreaCode": "22203",
+            "Name": "沼津市",
+            "Kana": "ぬまづし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.86349219,35.09558669"
+            }
+          },
+          {
+            "AreaCode": "22135",
+            "Name": "浜松市北区",
+            "Kana": "はままつしきたく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.65110653,34.80616427"
+            }
+          },
+          {
+            "AreaCode": "22137",
+            "Name": "浜松市天竜区",
+            "Kana": "はままつしてんりゅうく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.81594243,34.87266478"
+            }
+          },
+          {
+            "AreaCode": "22131",
+            "Name": "浜松市中区",
+            "Kana": "はままつしなかく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.72610371,34.71078692"
+            }
+          },
+          {
+            "AreaCode": "22133",
+            "Name": "浜松市西区",
+            "Kana": "はままつしにしく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.64528065,34.69267902"
+            }
+          },
+          {
+            "AreaCode": "22136",
+            "Name": "浜松市浜北区",
+            "Kana": "はままつしはまきたく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.78328031,34.79161386"
+            }
+          },
+          {
+            "AreaCode": "22132",
+            "Name": "浜松市東区",
+            "Kana": "はままつしひがしく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.79169711,34.74131948"
+            }
+          },
+          {
+            "AreaCode": "22134",
+            "Name": "浜松市南区",
+            "Kana": "はままつしみなみく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.75231098,34.66731295"
+            }
+          },
+          {
+            "AreaCode": "22301",
+            "Name": "東伊豆町（賀茂郡）",
+            "Kana": "ひがしいずちょう（かもぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.04131116,34.77283586"
+            }
+          },
+          {
+            "AreaCode": "22216",
+            "Name": "袋井市",
+            "Kana": "ふくろいし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.92467916,34.75017348"
+            }
+          },
+          {
+            "AreaCode": "22214",
+            "Name": "藤枝市",
+            "Kana": "ふじえだし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.25745827,34.86736677"
+            }
+          },
+          {
+            "AreaCode": "22210",
+            "Name": "富士市",
+            "Kana": "ふじし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.67630537,35.16139813"
+            }
+          },
+          {
+            "AreaCode": "22207",
+            "Name": "富士宮市",
+            "Kana": "ふじのみやし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.62164582,35.22197020"
+            }
+          },
+          {
+            "AreaCode": "22226",
+            "Name": "牧之原市",
+            "Kana": "まきのはらし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.22464356,34.74002819"
+            }
+          },
+          {
+            "AreaCode": "22305",
+            "Name": "松崎町（賀茂郡）",
+            "Kana": "まつざきちょう（かもぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.77868398,34.75271062"
+            }
+          },
+          {
+            "AreaCode": "22206",
+            "Name": "三島市",
+            "Kana": "みしまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.91851154,35.11840275"
+            }
+          },
+          {
+            "AreaCode": "22304",
+            "Name": "南伊豆町（賀茂郡）",
+            "Kana": "みなみいずちょう（かもぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.85852936,34.65109188"
+            }
+          },
+          {
+            "AreaCode": "22461",
+            "Name": "森町（周智郡）",
+            "Kana": "もりまち（しゅうちぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.92701889,34.83562642"
+            }
+          },
+          {
+            "AreaCode": "22212",
+            "Name": "焼津市",
+            "Kana": "やいづし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.32318866,34.86692252"
+            }
+          },
+          {
+            "AreaCode": "22424",
+            "Name": "吉田町（榛原郡）",
+            "Kana": "よしだちょう（はいばらぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.25198464,34.77086076"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

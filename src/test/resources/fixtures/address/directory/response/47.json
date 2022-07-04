@@ -1,0 +1,401 @@
+{
+  "ResultInfo": {
+    "Count": 41,
+    "Total": 41,
+    "Start": 1,
+    "Status": 200,
+    "Description": "",
+    "Copyright": "",
+    "Latency": 0.007
+  },
+  "Feature": [
+    {
+      "Name": "沖縄県",
+      "Geometry": {
+        "Type": "point",
+        "Coordinates": "127.68108646,26.21243174",
+        "BoundingBox": "122.9316890,24.0456760 128.3356290,27.0952740"
+      },
+      "Property": {
+        "CassetteId": "b22fee69b0dcaf2c2fe2d6a27906dafc",
+        "Country": {
+          "Code": "JP",
+          "Name": "日本"
+        },
+        "Address": "沖縄県",
+        "GovernmentCode": "47",
+        "AddressDirectory": [
+          {
+            "AreaCode": "47355",
+            "Name": "粟国村（島尻郡）",
+            "Kana": "あぐにそん（しまじりぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "127.22695613,26.58243888"
+            }
+          },
+          {
+            "AreaCode": "47315",
+            "Name": "伊江村（国頭郡）",
+            "Kana": "いえそん（くにがみぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "127.80706979,26.71340446"
+            }
+          },
+          {
+            "AreaCode": "47207",
+            "Name": "石垣市",
+            "Kana": "いしがきし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "124.18524596,24.34449405"
+            }
+          },
+          {
+            "AreaCode": "47360",
+            "Name": "伊是名村（島尻郡）",
+            "Kana": "いぜなそん（しまじりぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "127.94123116,26.92836561"
+            }
+          },
+          {
+            "AreaCode": "47210",
+            "Name": "糸満市",
+            "Kana": "いとまんし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "127.66581140,26.12350358"
+            }
+          },
+          {
+            "AreaCode": "47359",
+            "Name": "伊平屋村（島尻郡）",
+            "Kana": "いへやそん（しまじりぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "127.96868532,27.03908227"
+            }
+          },
+          {
+            "AreaCode": "47208",
+            "Name": "浦添市",
+            "Kana": "うらそえし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "127.72180952,26.24578235"
+            }
+          },
+          {
+            "AreaCode": "47213",
+            "Name": "うるま市",
+            "Kana": "うるまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "127.85747737,26.37914814"
+            }
+          },
+          {
+            "AreaCode": "47302",
+            "Name": "大宜味村（国頭郡）",
+            "Kana": "おおぎみそん（くにがみぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "128.12016364,26.70170673"
+            }
+          },
+          {
+            "AreaCode": "47211",
+            "Name": "沖縄市",
+            "Kana": "おきなわし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "127.80564391,26.33434052"
+            }
+          },
+          {
+            "AreaCode": "47311",
+            "Name": "恩納村（国頭郡）",
+            "Kana": "おんなそん（くにがみぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "127.85362923,26.49744879"
+            }
+          },
+          {
+            "AreaCode": "47325",
+            "Name": "嘉手納町（中頭郡）",
+            "Kana": "かでなちょう（なかがみぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "127.75533565,26.36146998"
+            }
+          },
+          {
+            "AreaCode": "47358",
+            "Name": "北大東村（島尻郡）",
+            "Kana": "きただいとうそん（しまじりぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.29863565,25.94576101"
+            }
+          },
+          {
+            "AreaCode": "47327",
+            "Name": "北中城村（中頭郡）",
+            "Kana": "きたなかぐすくそん（なかがみぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "127.79314862,26.30111005"
+            }
+          },
+          {
+            "AreaCode": "47313",
+            "Name": "宜野座村（国頭郡）",
+            "Kana": "ぎのざそん（くにがみぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "127.97536930,26.48151407"
+            }
+          },
+          {
+            "AreaCode": "47205",
+            "Name": "宜野湾市",
+            "Kana": "ぎのわんし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "127.77839240,26.28154734"
+            }
+          },
+          {
+            "AreaCode": "47314",
+            "Name": "金武町（国頭郡）",
+            "Kana": "きんちょう（くにがみぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "127.92593899,26.45612632"
+            }
+          },
+          {
+            "AreaCode": "47301",
+            "Name": "国頭村（国頭郡）",
+            "Kana": "くにがみそん（くにがみぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "128.17790685,26.74563475"
+            }
+          },
+          {
+            "AreaCode": "47361",
+            "Name": "久米島町（島尻郡）",
+            "Kana": "くめじまちょう（しまじりぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "126.80505442,26.34079302"
+            }
+          },
+          {
+            "AreaCode": "47354",
+            "Name": "座間味村（島尻郡）",
+            "Kana": "ざまみそん（しまじりぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "127.30313124,26.22901337"
+            }
+          },
+          {
+            "AreaCode": "47381",
+            "Name": "竹富町（八重山郡）",
+            "Kana": "たけとみちょう（やえやまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "124.15435575,24.33964363"
+            }
+          },
+          {
+            "AreaCode": "47375",
+            "Name": "多良間村（宮古郡）",
+            "Kana": "たらまそん（みやこぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "124.70162157,24.66951019"
+            }
+          },
+          {
+            "AreaCode": "47326",
+            "Name": "北谷町（中頭郡）",
+            "Kana": "ちゃたんちょう（なかがみぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "127.76394454,26.32006582"
+            }
+          },
+          {
+            "AreaCode": "47353",
+            "Name": "渡嘉敷村（島尻郡）",
+            "Kana": "とかしきそん（しまじりぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "127.36425762,26.19714878"
+            }
+          },
+          {
+            "AreaCode": "47356",
+            "Name": "渡名喜村（島尻郡）",
+            "Kana": "となきそん（しまじりぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "127.14140803,26.37215523"
+            }
+          },
+          {
+            "AreaCode": "47212",
+            "Name": "豊見城市",
+            "Kana": "とみぐすくし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "127.68121783,26.17702528"
+            }
+          },
+          {
+            "AreaCode": "47328",
+            "Name": "中城村（中頭郡）",
+            "Kana": "なかぐすくそん（なかがみぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "127.78960622,26.26202716"
+            }
+          },
+          {
+            "AreaCode": "47306",
+            "Name": "今帰仁村（国頭郡）",
+            "Kana": "なきじんそん（くにがみぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "127.97262982,26.68257961"
+            }
+          },
+          {
+            "AreaCode": "47209",
+            "Name": "名護市",
+            "Kana": "なごし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "127.97737142,26.59153494"
+            }
+          },
+          {
+            "AreaCode": "47201",
+            "Name": "那覇市",
+            "Kana": "なはし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "127.67915885,26.21231226"
+            }
+          },
+          {
+            "AreaCode": "47215",
+            "Name": "南城市",
+            "Kana": "なんじょうし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "127.77065129,26.16319986"
+            }
+          },
+          {
+            "AreaCode": "47329",
+            "Name": "西原町（中頭郡）",
+            "Kana": "にしはらちょう（なかがみぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "127.75881312,26.22284669"
+            }
+          },
+          {
+            "AreaCode": "47350",
+            "Name": "南風原町（島尻郡）",
+            "Kana": "はえばるちょう（しまじりぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "127.72855086,26.19114371"
+            }
+          },
+          {
+            "AreaCode": "47303",
+            "Name": "東村（国頭郡）",
+            "Kana": "ひがしそん（くにがみぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "128.15691395,26.63331481"
+            }
+          },
+          {
+            "AreaCode": "47357",
+            "Name": "南大東村（島尻郡）",
+            "Kana": "みなみだいとうそん（しまじりぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.23187396,25.82889136"
+            }
+          },
+          {
+            "AreaCode": "47214",
+            "Name": "宮古島市",
+            "Kana": "みやこじまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "125.29484699,24.79004091"
+            }
+          },
+          {
+            "AreaCode": "47308",
+            "Name": "本部町（国頭郡）",
+            "Kana": "もとぶちょう（くにがみぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "127.89783073,26.65757627"
+            }
+          },
+          {
+            "AreaCode": "47362",
+            "Name": "八重瀬町（島尻郡）",
+            "Kana": "やえせちょう（しまじりぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "127.71868978,26.15818002"
+            }
+          },
+          {
+            "AreaCode": "47382",
+            "Name": "与那国町（八重山郡）",
+            "Kana": "よなぐにちょう（やえやまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "123.00451570,24.46821869"
+            }
+          },
+          {
+            "AreaCode": "47348",
+            "Name": "与那原町（島尻郡）",
+            "Kana": "よなばるちょう（しまじりぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "127.75447299,26.19958778"
+            }
+          },
+          {
+            "AreaCode": "47324",
+            "Name": "読谷村（中頭郡）",
+            "Kana": "よみたんそん（なかがみぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "127.74384383,26.39613299"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

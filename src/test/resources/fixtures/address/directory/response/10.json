@@ -1,0 +1,347 @@
+{
+  "ResultInfo": {
+    "Count": 35,
+    "Total": 35,
+    "Start": 1,
+    "Status": 200,
+    "Description": "",
+    "Copyright": "",
+    "Latency": 0.009
+  },
+  "Feature": [
+    {
+      "Name": "群馬県",
+      "Geometry": {
+        "Type": "point",
+        "Coordinates": "139.06040566,36.39067259",
+        "BoundingBox": "138.3970870,35.9852900 139.6699840,37.0586100"
+      },
+      "Property": {
+        "CassetteId": "b22fee69b0dcaf2c2fe2d6a27906dafc",
+        "Country": {
+          "Code": "JP",
+          "Name": "日本"
+        },
+        "Address": "群馬県",
+        "GovernmentCode": "10",
+        "AddressDirectory": [
+          {
+            "AreaCode": "10211",
+            "Name": "安中市",
+            "Kana": "あんなかし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.88732568,36.32637042"
+            }
+          },
+          {
+            "AreaCode": "10204",
+            "Name": "伊勢崎市",
+            "Kana": "いせさきし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.19677218,36.31136547"
+            }
+          },
+          {
+            "AreaCode": "10521",
+            "Name": "板倉町（邑楽郡）",
+            "Kana": "いたくらまち（おうらぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.60189668,36.22593451"
+            }
+          },
+          {
+            "AreaCode": "10366",
+            "Name": "上野村（多野郡）",
+            "Kana": "うえのむら（たのぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.77754192,36.08302611"
+            }
+          },
+          {
+            "AreaCode": "10525",
+            "Name": "邑楽町（邑楽郡）",
+            "Kana": "おうらまち（おうらぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.46227481,36.25239707"
+            }
+          },
+          {
+            "AreaCode": "10524",
+            "Name": "大泉町（邑楽郡）",
+            "Kana": "おおいずみまち（おうらぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.40490010,36.24786252"
+            }
+          },
+          {
+            "AreaCode": "10205",
+            "Name": "太田市",
+            "Kana": "おおたし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.37547024,36.29112169"
+            }
+          },
+          {
+            "AreaCode": "10443",
+            "Name": "片品村（利根郡）",
+            "Kana": "かたしなむら（とねぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.22518701,36.77267109"
+            }
+          },
+          {
+            "AreaCode": "10444",
+            "Name": "川場村（利根郡）",
+            "Kana": "かわばむら（とねぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.10606728,36.69475765"
+            }
+          },
+          {
+            "AreaCode": "10367",
+            "Name": "神流町（多野郡）",
+            "Kana": "かんなまち（たのぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.91694953,36.11607727"
+            }
+          },
+          {
+            "AreaCode": "10384",
+            "Name": "甘楽町（甘楽郡）",
+            "Kana": "かんらまち（かんらぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.92171549,36.24301989"
+            }
+          },
+          {
+            "AreaCode": "10203",
+            "Name": "桐生市",
+            "Kana": "きりゅうし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.33068747,36.40549291"
+            }
+          },
+          {
+            "AreaCode": "10426",
+            "Name": "草津町（吾妻郡）",
+            "Kana": "くさつまち（あがつまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.59613867,36.62069480"
+            }
+          },
+          {
+            "AreaCode": "10208",
+            "Name": "渋川市",
+            "Kana": "しぶかわし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.00044464,36.48947576"
+            }
+          },
+          {
+            "AreaCode": "10382",
+            "Name": "下仁田町（甘楽郡）",
+            "Kana": "しもにたまち（かんらぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.78909381,36.21239198"
+            }
+          },
+          {
+            "AreaCode": "10448",
+            "Name": "昭和村（利根郡）",
+            "Kana": "しょうわむら（とねぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.06561175,36.63979406"
+            }
+          },
+          {
+            "AreaCode": "10344",
+            "Name": "榛東村（北群馬郡）",
+            "Kana": "しんとうむら（きたぐんまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.96711724,36.43864434"
+            }
+          },
+          {
+            "AreaCode": "10202",
+            "Name": "高崎市",
+            "Kana": "たかさきし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.00332599,36.32188438"
+            }
+          },
+          {
+            "AreaCode": "10428",
+            "Name": "高山村（吾妻郡）",
+            "Kana": "たかやまむら（あがつまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.94344865,36.62088604"
+            }
+          },
+          {
+            "AreaCode": "10207",
+            "Name": "館林市",
+            "Kana": "たてばやしし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.54196763,36.24484828"
+            }
+          },
+          {
+            "AreaCode": "10464",
+            "Name": "玉村町（佐波郡）",
+            "Kana": "たまむらまち（さわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.11473793,36.30449870"
+            }
+          },
+          {
+            "AreaCode": "10523",
+            "Name": "千代田町（邑楽郡）",
+            "Kana": "ちよだまち（おうらぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.44252864,36.21777515"
+            }
+          },
+          {
+            "AreaCode": "10425",
+            "Name": "嬬恋村（吾妻郡）",
+            "Kana": "つまごいむら（あがつまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.53017593,36.51664881"
+            }
+          },
+          {
+            "AreaCode": "10210",
+            "Name": "富岡市",
+            "Kana": "とみおかし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.88993454,36.25989852"
+            }
+          },
+          {
+            "AreaCode": "10421",
+            "Name": "中之条町（吾妻郡）",
+            "Kana": "なかのじょうまち（あがつまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.84111669,36.58994462"
+            }
+          },
+          {
+            "AreaCode": "10424",
+            "Name": "長野原町（吾妻郡）",
+            "Kana": "ながのはらまち（あがつまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.64988686,36.54422691"
+            }
+          },
+          {
+            "AreaCode": "10383",
+            "Name": "南牧村（甘楽郡）",
+            "Kana": "なんもくむら（かんらぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.71139770,36.15845861"
+            }
+          },
+          {
+            "AreaCode": "10206",
+            "Name": "沼田市",
+            "Kana": "ぬまたし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.04282223,36.64396527"
+            }
+          },
+          {
+            "AreaCode": "10429",
+            "Name": "東吾妻町（吾妻郡）",
+            "Kana": "ひがしあがつままち（あがつまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.82030559,36.57143489"
+            }
+          },
+          {
+            "AreaCode": "10209",
+            "Name": "藤岡市",
+            "Kana": "ふじおかし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.07456058,36.25861196"
+            }
+          },
+          {
+            "AreaCode": "10201",
+            "Name": "前橋市",
+            "Kana": "まえばしし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.06342762,36.38948394"
+            }
+          },
+          {
+            "AreaCode": "10212",
+            "Name": "みどり市",
+            "Kana": "みどりし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.28112327,36.39482123"
+            }
+          },
+          {
+            "AreaCode": "10449",
+            "Name": "みなかみ町（利根郡）",
+            "Kana": "みなかみまち（とねぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.99905229,36.67868548"
+            }
+          },
+          {
+            "AreaCode": "10522",
+            "Name": "明和町（邑楽郡）",
+            "Kana": "めいわまち（おうらぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.53424406,36.21129914"
+            }
+          },
+          {
+            "AreaCode": "10345",
+            "Name": "吉岡町（北群馬郡）",
+            "Kana": "よしおかまち（きたぐんまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.00975173,36.44727763"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

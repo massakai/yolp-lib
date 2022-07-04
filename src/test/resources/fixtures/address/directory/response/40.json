@@ -1,0 +1,680 @@
+{
+  "ResultInfo": {
+    "Count": 72,
+    "Total": 72,
+    "Start": 1,
+    "Status": 200,
+    "Description": "",
+    "Copyright": "",
+    "Latency": 0.013
+  },
+  "Feature": [
+    {
+      "Name": "福岡県",
+      "Geometry": {
+        "Type": "point",
+        "Coordinates": "130.41811381,33.60616970",
+        "BoundingBox": "129.9813990,32.9999590 131.1906680,34.2499820"
+      },
+      "Property": {
+        "CassetteId": "b22fee69b0dcaf2c2fe2d6a27906dafc",
+        "Country": {
+          "Code": "JP",
+          "Name": "日本"
+        },
+        "Address": "福岡県",
+        "GovernmentCode": "40",
+        "AddressDirectory": [
+          {
+            "AreaCode": "40609",
+            "Name": "赤村（田川郡）",
+            "Kana": "あかむら（たがわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.87103762,33.61659144"
+            }
+          },
+          {
+            "AreaCode": "40228",
+            "Name": "朝倉市",
+            "Kana": "あさくらし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.66558400,33.42340652"
+            }
+          },
+          {
+            "AreaCode": "40381",
+            "Name": "芦屋町（遠賀郡）",
+            "Kana": "あしやまち（おんがぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.66389853,33.89379988"
+            }
+          },
+          {
+            "AreaCode": "40205",
+            "Name": "飯塚市",
+            "Kana": "いいづかし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.69115214,33.64656696"
+            }
+          },
+          {
+            "AreaCode": "40230",
+            "Name": "糸島市",
+            "Kana": "いとしまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.19555502,33.55730579"
+            }
+          },
+          {
+            "AreaCode": "40604",
+            "Name": "糸田町（田川郡）",
+            "Kana": "いとだまち（たがわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.77909070,33.65278843"
+            }
+          },
+          {
+            "AreaCode": "40225",
+            "Name": "うきは市",
+            "Kana": "うきはし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.75492742,33.34729647"
+            }
+          },
+          {
+            "AreaCode": "40341",
+            "Name": "宇美町（糟屋郡）",
+            "Kana": "うみまち（かすやぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.51115127,33.56776706"
+            }
+          },
+          {
+            "AreaCode": "40212",
+            "Name": "大川市",
+            "Kana": "おおかわし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.38395725,33.20659421"
+            }
+          },
+          {
+            "AreaCode": "40522",
+            "Name": "大木町（三潴郡）",
+            "Kana": "おおきまち（みづまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.43979702,33.21046226"
+            }
+          },
+          {
+            "AreaCode": "40608",
+            "Name": "大任町（田川郡）",
+            "Kana": "おおとうまち（たがわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.85360267,33.61249968"
+            }
+          },
+          {
+            "AreaCode": "40219",
+            "Name": "大野城市",
+            "Kana": "おおのじょうし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.47864317,33.53630668"
+            }
+          },
+          {
+            "AreaCode": "40202",
+            "Name": "大牟田市",
+            "Kana": "おおむたし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.44597636,33.03028665"
+            }
+          },
+          {
+            "AreaCode": "40383",
+            "Name": "岡垣町（遠賀郡）",
+            "Kana": "おかがきまち（おんがぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.61159296,33.85342963"
+            }
+          },
+          {
+            "AreaCode": "40216",
+            "Name": "小郡市",
+            "Kana": "おごおりし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.55554326,33.39644064"
+            }
+          },
+          {
+            "AreaCode": "40384",
+            "Name": "遠賀町（遠賀郡）",
+            "Kana": "おんがちょう（おんがぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.66837627,33.84799216"
+            }
+          },
+          {
+            "AreaCode": "40218",
+            "Name": "春日市",
+            "Kana": "かすがし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.47028274,33.53257356"
+            }
+          },
+          {
+            "AreaCode": "40349",
+            "Name": "粕屋町（糟屋郡）",
+            "Kana": "かすやまち（かすやぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.48052237,33.61074204"
+            }
+          },
+          {
+            "AreaCode": "40227",
+            "Name": "嘉麻市",
+            "Kana": "かまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.71918803,33.59843417"
+            }
+          },
+          {
+            "AreaCode": "40605",
+            "Name": "川崎町（田川郡）",
+            "Kana": "かわさきまち（たがわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.81454756,33.59987802"
+            }
+          },
+          {
+            "AreaCode": "40601",
+            "Name": "香春町（田川郡）",
+            "Kana": "かわらまち（たがわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.84708824,33.66785491"
+            }
+          },
+          {
+            "AreaCode": "40621",
+            "Name": "苅田町（京都郡）",
+            "Kana": "かんだまち（みやこぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.98047660,33.77591805"
+            }
+          },
+          {
+            "AreaCode": "40106",
+            "Name": "北九州市小倉北区",
+            "Kana": "きたきゅうしゅうしこくらきたく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.87342419,33.88087590"
+            }
+          },
+          {
+            "AreaCode": "40107",
+            "Name": "北九州市小倉南区",
+            "Kana": "きたきゅうしゅうしこくらみなみく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.88459098,33.84643274"
+            }
+          },
+          {
+            "AreaCode": "40105",
+            "Name": "北九州市戸畑区",
+            "Kana": "きたきゅうしゅうしとばたく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.82971364,33.89364306"
+            }
+          },
+          {
+            "AreaCode": "40101",
+            "Name": "北九州市門司区",
+            "Kana": "きたきゅうしゅうしもじく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.95966226,33.94113767"
+            }
+          },
+          {
+            "AreaCode": "40109",
+            "Name": "北九州市八幡西区",
+            "Kana": "きたきゅうしゅうしやはたにしく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.76492565,33.86646704"
+            }
+          },
+          {
+            "AreaCode": "40108",
+            "Name": "北九州市八幡東区",
+            "Kana": "きたきゅうしゅうしやはたひがしく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.81186324,33.86344604"
+            }
+          },
+          {
+            "AreaCode": "40103",
+            "Name": "北九州市若松区",
+            "Kana": "きたきゅうしゅうしわかまつく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.81113164,33.90545245"
+            }
+          },
+          {
+            "AreaCode": "40402",
+            "Name": "鞍手町（鞍手郡）",
+            "Kana": "くらてまち（くらてぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.67405229,33.79182920"
+            }
+          },
+          {
+            "AreaCode": "40203",
+            "Name": "久留米市",
+            "Kana": "くるめし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.50833639,33.31926088"
+            }
+          },
+          {
+            "AreaCode": "40421",
+            "Name": "桂川町（嘉穂郡）",
+            "Kana": "けいせんまち（かほぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.67790636,33.57893527"
+            }
+          },
+          {
+            "AreaCode": "40646",
+            "Name": "上毛町（築上郡）",
+            "Kana": "こうげまち（ちくじょうぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.16409310,33.57839348"
+            }
+          },
+          {
+            "AreaCode": "40223",
+            "Name": "古賀市",
+            "Kana": "こがし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.46998681,33.72878890"
+            }
+          },
+          {
+            "AreaCode": "40401",
+            "Name": "小竹町（鞍手郡）",
+            "Kana": "こたけまち（くらてぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.70794902,33.69650709"
+            }
+          },
+          {
+            "AreaCode": "40342",
+            "Name": "篠栗町（糟屋郡）",
+            "Kana": "ささぐりまち（かすやぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.52613982,33.62388884"
+            }
+          },
+          {
+            "AreaCode": "40343",
+            "Name": "志免町（糟屋郡）",
+            "Kana": "しめまち（かすやぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.47974256,33.59147207"
+            }
+          },
+          {
+            "AreaCode": "40345",
+            "Name": "新宮町（糟屋郡）",
+            "Kana": "しんぐうまち（かすやぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.44653805,33.71527812"
+            }
+          },
+          {
+            "AreaCode": "40344",
+            "Name": "須惠町（糟屋郡）",
+            "Kana": "すえまち（かすやぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.50722337,33.58723396"
+            }
+          },
+          {
+            "AreaCode": "40602",
+            "Name": "添田町（田川郡）",
+            "Kana": "そえだまち（たがわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.85395705,33.57185665"
+            }
+          },
+          {
+            "AreaCode": "40206",
+            "Name": "田川市",
+            "Kana": "たがわし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.80621682,33.63885690"
+            }
+          },
+          {
+            "AreaCode": "40221",
+            "Name": "太宰府市",
+            "Kana": "だざいふし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.52390654,33.51279843"
+            }
+          },
+          {
+            "AreaCode": "40503",
+            "Name": "大刀洗町（三井郡）",
+            "Kana": "たちあらいまち（みいぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.62248801,33.37238843"
+            }
+          },
+          {
+            "AreaCode": "40211",
+            "Name": "筑後市",
+            "Kana": "ちくごし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.50199005,33.21221886"
+            }
+          },
+          {
+            "AreaCode": "40217",
+            "Name": "筑紫野市",
+            "Kana": "ちくしのし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.52605668,33.48737313"
+            }
+          },
+          {
+            "AreaCode": "40647",
+            "Name": "築上町（築上郡）",
+            "Kana": "ちくじょうまち（ちくじょうぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.05603177,33.65614274"
+            }
+          },
+          {
+            "AreaCode": "40447",
+            "Name": "筑前町（朝倉郡）",
+            "Kana": "ちくぜんまち（あさくらぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.59515536,33.45705952"
+            }
+          },
+          {
+            "AreaCode": "40448",
+            "Name": "東峰村（朝倉郡）",
+            "Kana": "とうほうむら（あさくらぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.86974778,33.39719714"
+            }
+          },
+          {
+            "AreaCode": "40231",
+            "Name": "那珂川市",
+            "Kana": "なかがわし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.42217686,33.49959988"
+            }
+          },
+          {
+            "AreaCode": "40215",
+            "Name": "中間市",
+            "Kana": "なかまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.70907941,33.81665209"
+            }
+          },
+          {
+            "AreaCode": "40204",
+            "Name": "直方市",
+            "Kana": "のおがたし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.72963496,33.74418316"
+            }
+          },
+          {
+            "AreaCode": "40348",
+            "Name": "久山町（糟屋郡）",
+            "Kana": "ひさやままち（かすやぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.49986342,33.64674748"
+            }
+          },
+          {
+            "AreaCode": "40544",
+            "Name": "広川町（八女郡）",
+            "Kana": "ひろかわまち（やめぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.55127694,33.24144181"
+            }
+          },
+          {
+            "AreaCode": "40137",
+            "Name": "福岡市早良区",
+            "Kana": "ふくおかしさわらく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.34831691,33.58176017"
+            }
+          },
+          {
+            "AreaCode": "40136",
+            "Name": "福岡市城南区",
+            "Kana": "ふくおかしじょうなんく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.36997638,33.57568872"
+            }
+          },
+          {
+            "AreaCode": "40133",
+            "Name": "福岡市中央区",
+            "Kana": "ふくおかしちゅうおうく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.39299359,33.58915450"
+            }
+          },
+          {
+            "AreaCode": "40135",
+            "Name": "福岡市西区",
+            "Kana": "ふくおかしにしく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.32311028,33.58269104"
+            }
+          },
+          {
+            "AreaCode": "40132",
+            "Name": "福岡市博多区",
+            "Kana": "ふくおかしはかたく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.41487821,33.59136012"
+            }
+          },
+          {
+            "AreaCode": "40131",
+            "Name": "福岡市東区",
+            "Kana": "ふくおかしひがしく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.41753011,33.61771279"
+            }
+          },
+          {
+            "AreaCode": "40134",
+            "Name": "福岡市南区",
+            "Kana": "ふくおかしみなみく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.42640805,33.56137642"
+            }
+          },
+          {
+            "AreaCode": "40610",
+            "Name": "福智町（田川郡）",
+            "Kana": "ふくちまち（たがわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.78012732,33.68321816"
+            }
+          },
+          {
+            "AreaCode": "40224",
+            "Name": "福津市",
+            "Kana": "ふくつし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.49109010,33.76682352"
+            }
+          },
+          {
+            "AreaCode": "40214",
+            "Name": "豊前市",
+            "Kana": "ぶぜんし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.13027566,33.61150206"
+            }
+          },
+          {
+            "AreaCode": "40382",
+            "Name": "水巻町（遠賀郡）",
+            "Kana": "みずまきまち（おんがぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.69484545,33.85474750"
+            }
+          },
+          {
+            "AreaCode": "40625",
+            "Name": "みやこ町（京都郡）",
+            "Kana": "みやこまち（みやこぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.92009258,33.69922182"
+            }
+          },
+          {
+            "AreaCode": "40229",
+            "Name": "みやま市",
+            "Kana": "みやまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.47471451,33.15241943"
+            }
+          },
+          {
+            "AreaCode": "40226",
+            "Name": "宮若市",
+            "Kana": "みやわかし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.66744076,33.72362847"
+            }
+          },
+          {
+            "AreaCode": "40220",
+            "Name": "宗像市",
+            "Kana": "むなかたし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.54074831,33.80553135"
+            }
+          },
+          {
+            "AreaCode": "40207",
+            "Name": "柳川市",
+            "Kana": "やながわし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.40576105,33.16306927"
+            }
+          },
+          {
+            "AreaCode": "40210",
+            "Name": "八女市",
+            "Kana": "やめし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.55777441,33.21186977"
+            }
+          },
+          {
+            "AreaCode": "40213",
+            "Name": "行橋市",
+            "Kana": "ゆくはしし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.98296698,33.72877513"
+            }
+          },
+          {
+            "AreaCode": "40642",
+            "Name": "吉富町（築上郡）",
+            "Kana": "よしとみまち（ちくじょうぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.17612254,33.60260658"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

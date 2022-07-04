@@ -1,0 +1,473 @@
+{
+  "ResultInfo": {
+    "Count": 49,
+    "Total": 49,
+    "Start": 1,
+    "Status": 200,
+    "Description": "",
+    "Copyright": "",
+    "Latency": 0.012
+  },
+  "Feature": [
+    {
+      "Name": "兵庫県",
+      "Geometry": {
+        "Type": "point",
+        "Coordinates": "135.18322024,34.69118783",
+        "BoundingBox": "134.2527980,34.1551400 135.4685050,35.6747170"
+      },
+      "Property": {
+        "CassetteId": "b22fee69b0dcaf2c2fe2d6a27906dafc",
+        "Country": {
+          "Code": "JP",
+          "Name": "日本"
+        },
+        "Address": "兵庫県",
+        "GovernmentCode": "28",
+        "AddressDirectory": [
+          {
+            "AreaCode": "28208",
+            "Name": "相生市",
+            "Kana": "あいおいし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.46806617,34.80360013"
+            }
+          },
+          {
+            "AreaCode": "28203",
+            "Name": "明石市",
+            "Kana": "あかしし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.99756187,34.64305696"
+            }
+          },
+          {
+            "AreaCode": "28212",
+            "Name": "赤穂市",
+            "Kana": "あこうし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.39028371,34.75495611"
+            }
+          },
+          {
+            "AreaCode": "28225",
+            "Name": "朝来市",
+            "Kana": "あさごし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.85316133,35.33965664"
+            }
+          },
+          {
+            "AreaCode": "28206",
+            "Name": "芦屋市",
+            "Kana": "あしやし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.30416177,34.72695229"
+            }
+          },
+          {
+            "AreaCode": "28202",
+            "Name": "尼崎市",
+            "Kana": "あまがさきし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.40637571,34.73373367"
+            }
+          },
+          {
+            "AreaCode": "28226",
+            "Name": "淡路市",
+            "Kana": "あわじし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.91505401,34.43975401"
+            }
+          },
+          {
+            "AreaCode": "28207",
+            "Name": "伊丹市",
+            "Kana": "いたみし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.40094701,34.78430835"
+            }
+          },
+          {
+            "AreaCode": "28442",
+            "Name": "市川町（神崎郡）",
+            "Kana": "いちかわちょう（かんざきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.76303010,34.98940059"
+            }
+          },
+          {
+            "AreaCode": "28301",
+            "Name": "猪名川町（川辺郡）",
+            "Kana": "いながわちょう（かわべぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.37615390,34.89503690"
+            }
+          },
+          {
+            "AreaCode": "28381",
+            "Name": "稲美町（加古郡）",
+            "Kana": "いなみちょう（かこぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.91348168,34.74876216"
+            }
+          },
+          {
+            "AreaCode": "28218",
+            "Name": "小野市",
+            "Kana": "おのし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.93976711,34.85790046"
+            }
+          },
+          {
+            "AreaCode": "28210",
+            "Name": "加古川市",
+            "Kana": "かこがわし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.84117721,34.75694993"
+            }
+          },
+          {
+            "AreaCode": "28220",
+            "Name": "加西市",
+            "Kana": "かさいし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.84162447,34.92793585"
+            }
+          },
+          {
+            "AreaCode": "28228",
+            "Name": "加東市",
+            "Kana": "かとうし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.97341433,34.91854793"
+            }
+          },
+          {
+            "AreaCode": "28446",
+            "Name": "神河町（神崎郡）",
+            "Kana": "かみかわちょう（かんざきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.73978891,35.06424859"
+            }
+          },
+          {
+            "AreaCode": "28481",
+            "Name": "上郡町（赤穂郡）",
+            "Kana": "かみごおりちょう（あこうぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.35647243,34.87368526"
+            }
+          },
+          {
+            "AreaCode": "28585",
+            "Name": "香美町（美方郡）",
+            "Kana": "かみちょう（みかたぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.62936974,35.63219353"
+            }
+          },
+          {
+            "AreaCode": "28217",
+            "Name": "川西市",
+            "Kana": "かわにしし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.41712795,34.83006172"
+            }
+          },
+          {
+            "AreaCode": "28109",
+            "Name": "神戸市北区",
+            "Kana": "こうべしきたく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.14618109,34.72406698"
+            }
+          },
+          {
+            "AreaCode": "28107",
+            "Name": "神戸市須磨区",
+            "Kana": "こうべしすまく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.13370275,34.65863534"
+            }
+          },
+          {
+            "AreaCode": "28108",
+            "Name": "神戸市垂水区",
+            "Kana": "こうべしたるみく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.05682401,34.62994292"
+            }
+          },
+          {
+            "AreaCode": "28110",
+            "Name": "神戸市中央区",
+            "Kana": "こうべしちゅうおうく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.19774674,34.69509031"
+            }
+          },
+          {
+            "AreaCode": "28106",
+            "Name": "神戸市長田区",
+            "Kana": "こうべしながたく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.15083168,34.66601250"
+            }
+          },
+          {
+            "AreaCode": "28102",
+            "Name": "神戸市灘区",
+            "Kana": "こうべしなだく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.23966515,34.71233911"
+            }
+          },
+          {
+            "AreaCode": "28111",
+            "Name": "神戸市西区",
+            "Kana": "こうべしにしく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.98164584,34.68297479"
+            }
+          },
+          {
+            "AreaCode": "28101",
+            "Name": "神戸市東灘区",
+            "Kana": "こうべしひがしなだく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.26545438,34.72022750"
+            }
+          },
+          {
+            "AreaCode": "28105",
+            "Name": "神戸市兵庫区",
+            "Kana": "こうべしひょうごく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.16543021,34.68045271"
+            }
+          },
+          {
+            "AreaCode": "28501",
+            "Name": "佐用町（佐用郡）",
+            "Kana": "さようちょう（さようぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.35573421,35.00434556"
+            }
+          },
+          {
+            "AreaCode": "28219",
+            "Name": "三田市",
+            "Kana": "さんだし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.22545366,34.88999849"
+            }
+          },
+          {
+            "AreaCode": "28227",
+            "Name": "宍粟市",
+            "Kana": "しそうし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.54946851,35.00441936"
+            }
+          },
+          {
+            "AreaCode": "28586",
+            "Name": "新温泉町（美方郡）",
+            "Kana": "しんおんせんちょう（みかたぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.44894664,35.62349992"
+            }
+          },
+          {
+            "AreaCode": "28205",
+            "Name": "洲本市",
+            "Kana": "すもとし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.89536627,34.34287305"
+            }
+          },
+          {
+            "AreaCode": "28464",
+            "Name": "太子町（揖保郡）",
+            "Kana": "たいしちょう（いぼぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.57225545,34.83326285"
+            }
+          },
+          {
+            "AreaCode": "28216",
+            "Name": "高砂市",
+            "Kana": "たかさごし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.79044077,34.76620429"
+            }
+          },
+          {
+            "AreaCode": "28365",
+            "Name": "多可町（多可郡）",
+            "Kana": "たかちょう（たかぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.92328064,35.05020958"
+            }
+          },
+          {
+            "AreaCode": "28214",
+            "Name": "宝塚市",
+            "Kana": "たからづかし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.36031690,34.80000034"
+            }
+          },
+          {
+            "AreaCode": "28229",
+            "Name": "たつの市",
+            "Kana": "たつのし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.54537083,34.85789276"
+            }
+          },
+          {
+            "AreaCode": "28221",
+            "Name": "丹波篠山市",
+            "Kana": "たんばささやまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.21919796,35.07569363"
+            }
+          },
+          {
+            "AreaCode": "28223",
+            "Name": "丹波市",
+            "Kana": "たんばし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.03586730,35.17718292"
+            }
+          },
+          {
+            "AreaCode": "28209",
+            "Name": "豊岡市",
+            "Kana": "とよおかし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.82018147,35.54449156"
+            }
+          },
+          {
+            "AreaCode": "28204",
+            "Name": "西宮市",
+            "Kana": "にしのみやし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.34152245,34.73787661"
+            }
+          },
+          {
+            "AreaCode": "28213",
+            "Name": "西脇市",
+            "Kana": "にしわきし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.97971557,34.98339471"
+            }
+          },
+          {
+            "AreaCode": "28382",
+            "Name": "播磨町（加古郡）",
+            "Kana": "はりまちょう（かこぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.86780573,34.71522099"
+            }
+          },
+          {
+            "AreaCode": "28201",
+            "Name": "姫路市",
+            "Kana": "ひめじし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.68535477,34.81514887"
+            }
+          },
+          {
+            "AreaCode": "28443",
+            "Name": "福崎町（神崎郡）",
+            "Kana": "ふくさきちょう（かんざきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.76007531,34.95017647"
+            }
+          },
+          {
+            "AreaCode": "28215",
+            "Name": "三木市",
+            "Kana": "みきし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.99018540,34.79690996"
+            }
+          },
+          {
+            "AreaCode": "28224",
+            "Name": "南あわじ市",
+            "Kana": "みなみあわじし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.77985802,34.29447922"
+            }
+          },
+          {
+            "AreaCode": "28222",
+            "Name": "養父市",
+            "Kana": "やぶし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "134.76767359,35.40465106"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,410 @@
+{
+  "ResultInfo": {
+    "Count": 42,
+    "Total": 42,
+    "Start": 1,
+    "Status": 200,
+    "Description": "",
+    "Copyright": "",
+    "Latency": 0.01
+  },
+  "Feature": [
+    {
+      "Name": "岐阜県",
+      "Geometry": {
+        "Type": "point",
+        "Coordinates": "136.72242359,35.39111544",
+        "BoundingBox": "136.2763270,35.1336990 137.6530570,36.4649970"
+      },
+      "Property": {
+        "CassetteId": "b22fee69b0dcaf2c2fe2d6a27906dafc",
+        "Country": {
+          "Code": "JP",
+          "Name": "日本"
+        },
+        "Address": "岐阜県",
+        "GovernmentCode": "21",
+        "AddressDirectory": [
+          {
+            "AreaCode": "21383",
+            "Name": "安八町（安八郡）",
+            "Kana": "あんぱちちょう（あんぱちぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.66540850,35.33538992"
+            }
+          },
+          {
+            "AreaCode": "21404",
+            "Name": "池田町（揖斐郡）",
+            "Kana": "いけだちょう（いびぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.57336973,35.44201127"
+            }
+          },
+          {
+            "AreaCode": "21401",
+            "Name": "揖斐川町（揖斐郡）",
+            "Kana": "いびがわちょう（いびぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.56849691,35.48732484"
+            }
+          },
+          {
+            "AreaCode": "21210",
+            "Name": "恵那市",
+            "Kana": "えなし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.41281111,35.44931654"
+            }
+          },
+          {
+            "AreaCode": "21202",
+            "Name": "大垣市",
+            "Kana": "おおがきし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.61285021,35.35987783"
+            }
+          },
+          {
+            "AreaCode": "21403",
+            "Name": "大野町（揖斐郡）",
+            "Kana": "おおのちょう（いびぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.62755117,35.47061339"
+            }
+          },
+          {
+            "AreaCode": "21221",
+            "Name": "海津市",
+            "Kana": "かいづし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.63665579,35.22049216"
+            }
+          },
+          {
+            "AreaCode": "21213",
+            "Name": "各務原市",
+            "Kana": "かかみがはらし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.84826392,35.39886870"
+            }
+          },
+          {
+            "AreaCode": "21303",
+            "Name": "笠松町（羽島郡）",
+            "Kana": "かさまつちょう（はしまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.76319426,35.36721810"
+            }
+          },
+          {
+            "AreaCode": "21214",
+            "Name": "可児市",
+            "Kana": "かにし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.06101045,35.42612291"
+            }
+          },
+          {
+            "AreaCode": "21503",
+            "Name": "川辺町（加茂郡）",
+            "Kana": "かわべちょう（かもぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.07047453,35.48694766"
+            }
+          },
+          {
+            "AreaCode": "21421",
+            "Name": "北方町（本巣郡）",
+            "Kana": "きたがたちょう（もとすぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.68443570,35.43569759"
+            }
+          },
+          {
+            "AreaCode": "21302",
+            "Name": "岐南町（羽島郡）",
+            "Kana": "ぎなんちょう（はしまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.78331855,35.38972179"
+            }
+          },
+          {
+            "AreaCode": "21201",
+            "Name": "岐阜市",
+            "Kana": "ぎふし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.75975911,35.42620293"
+            }
+          },
+          {
+            "AreaCode": "21219",
+            "Name": "郡上市",
+            "Kana": "ぐじょうし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.96435404,35.74857698"
+            }
+          },
+          {
+            "AreaCode": "21220",
+            "Name": "下呂市",
+            "Kana": "げろし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.24410253,35.80587838"
+            }
+          },
+          {
+            "AreaCode": "21381",
+            "Name": "神戸町（安八郡）",
+            "Kana": "ごうどちょう（あんぱちぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.60867185,35.41752069"
+            }
+          },
+          {
+            "AreaCode": "21501",
+            "Name": "坂祝町（加茂郡）",
+            "Kana": "さかほぎちょう（かもぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.98545854,35.42666422"
+            }
+          },
+          {
+            "AreaCode": "21506",
+            "Name": "白川町（加茂郡）",
+            "Kana": "しらかわちょう（かもぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.18782304,35.58186180"
+            }
+          },
+          {
+            "AreaCode": "21604",
+            "Name": "白川村（大野郡）",
+            "Kana": "しらかわむら（おおのぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.89847796,36.27080820"
+            }
+          },
+          {
+            "AreaCode": "21362",
+            "Name": "関ケ原町（不破郡）",
+            "Kana": "せきがはらちょう（ふわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.46688167,35.36562790"
+            }
+          },
+          {
+            "AreaCode": "21205",
+            "Name": "関市",
+            "Kana": "せきし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.91784231,35.49574032"
+            }
+          },
+          {
+            "AreaCode": "21203",
+            "Name": "高山市",
+            "Kana": "たかやまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.25217240,36.14612339"
+            }
+          },
+          {
+            "AreaCode": "21204",
+            "Name": "多治見市",
+            "Kana": "たじみし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.13220166,35.33274404"
+            }
+          },
+          {
+            "AreaCode": "21361",
+            "Name": "垂井町（不破郡）",
+            "Kana": "たるいちょう（ふわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.53793399,35.36622848"
+            }
+          },
+          {
+            "AreaCode": "21212",
+            "Name": "土岐市",
+            "Kana": "ときし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.18306305,35.35240777"
+            }
+          },
+          {
+            "AreaCode": "21502",
+            "Name": "富加町（加茂郡）",
+            "Kana": "とみかちょう（かもぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.97957583,35.48482453"
+            }
+          },
+          {
+            "AreaCode": "21206",
+            "Name": "中津川市",
+            "Kana": "なかつがわし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.50051453,35.48754758"
+            }
+          },
+          {
+            "AreaCode": "21209",
+            "Name": "羽島市",
+            "Kana": "はしまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.70269702,35.31947844"
+            }
+          },
+          {
+            "AreaCode": "21507",
+            "Name": "東白川村（加茂郡）",
+            "Kana": "ひがししらかわむら（かもぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.32364541,35.64246906"
+            }
+          },
+          {
+            "AreaCode": "21217",
+            "Name": "飛騨市",
+            "Kana": "ひだし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.18631662,36.23811847"
+            }
+          },
+          {
+            "AreaCode": "21504",
+            "Name": "七宗町（加茂郡）",
+            "Kana": "ひちそうちょう（かもぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.11983265,35.54372322"
+            }
+          },
+          {
+            "AreaCode": "21208",
+            "Name": "瑞浪市",
+            "Kana": "みずなみし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.25458921,35.36171514"
+            }
+          },
+          {
+            "AreaCode": "21216",
+            "Name": "瑞穂市",
+            "Kana": "みずほし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.69084188,35.39192851"
+            }
+          },
+          {
+            "AreaCode": "21521",
+            "Name": "御嵩町（可児郡）",
+            "Kana": "みたけちょう（かにぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.13061496,35.43434206"
+            }
+          },
+          {
+            "AreaCode": "21211",
+            "Name": "美濃加茂市",
+            "Kana": "みのかもし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.01563333,35.44023399"
+            }
+          },
+          {
+            "AreaCode": "21207",
+            "Name": "美濃市",
+            "Kana": "みのし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.90762842,35.54481104"
+            }
+          },
+          {
+            "AreaCode": "21218",
+            "Name": "本巣市",
+            "Kana": "もとすし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.67876550,35.48304040"
+            }
+          },
+          {
+            "AreaCode": "21505",
+            "Name": "八百津町（加茂郡）",
+            "Kana": "やおつちょう（かもぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "137.14151564,35.47618502"
+            }
+          },
+          {
+            "AreaCode": "21215",
+            "Name": "山県市",
+            "Kana": "やまがたし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.78136565,35.50612551"
+            }
+          },
+          {
+            "AreaCode": "21341",
+            "Name": "養老町（養老郡）",
+            "Kana": "ようろうちょう（ようろうぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.56155489,35.30833476"
+            }
+          },
+          {
+            "AreaCode": "21382",
+            "Name": "輪之内町（安八郡）",
+            "Kana": "わのうちちょう（あんぱちぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.63741268,35.28478777"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

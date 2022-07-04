@@ -1,0 +1,293 @@
+{
+  "ResultInfo": {
+    "Count": 29,
+    "Total": 29,
+    "Start": 1,
+    "Status": 200,
+    "Description": "",
+    "Copyright": "",
+    "Latency": 0.009
+  },
+  "Feature": [
+    {
+      "Name": "三重県",
+      "Geometry": {
+        "Type": "point",
+        "Coordinates": "136.50840192,34.73028763",
+        "BoundingBox": "135.8532670,33.7228480 136.9880740,35.2576280"
+      },
+      "Property": {
+        "CassetteId": "b22fee69b0dcaf2c2fe2d6a27906dafc",
+        "Country": {
+          "Code": "JP",
+          "Name": "日本"
+        },
+        "Address": "三重県",
+        "GovernmentCode": "24",
+        "AddressDirectory": [
+          {
+            "AreaCode": "24343",
+            "Name": "朝日町（三重郡）",
+            "Kana": "あさひちょう（みえぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.66437138,35.03439574"
+            }
+          },
+          {
+            "AreaCode": "24216",
+            "Name": "伊賀市",
+            "Kana": "いがし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.14231542,34.74979189"
+            }
+          },
+          {
+            "AreaCode": "24203",
+            "Name": "伊勢市",
+            "Kana": "いせし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.70933618,34.48751672"
+            }
+          },
+          {
+            "AreaCode": "24214",
+            "Name": "いなべ市",
+            "Kana": "いなべし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.51657666,35.15849759"
+            }
+          },
+          {
+            "AreaCode": "24443",
+            "Name": "大台町（多気郡）",
+            "Kana": "おおだいちょう（たきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.40769699,34.39317063"
+            }
+          },
+          {
+            "AreaCode": "24209",
+            "Name": "尾鷲市",
+            "Kana": "おわせし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.19099808,34.07079841"
+            }
+          },
+          {
+            "AreaCode": "24210",
+            "Name": "亀山市",
+            "Kana": "かめやまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.45160045,34.85576340"
+            }
+          },
+          {
+            "AreaCode": "24344",
+            "Name": "川越町（三重郡）",
+            "Kana": "かわごえちょう（みえぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.67377077,35.02296967"
+            }
+          },
+          {
+            "AreaCode": "24303",
+            "Name": "木曽岬町（桑名郡）",
+            "Kana": "きそさきちょう（くわなぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.73095627,35.07582417"
+            }
+          },
+          {
+            "AreaCode": "24562",
+            "Name": "紀宝町（南牟婁郡）",
+            "Kana": "きほうちょう（みなみむろぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.00972504,33.73380881"
+            }
+          },
+          {
+            "AreaCode": "24543",
+            "Name": "紀北町（北牟婁郡）",
+            "Kana": "きほくちょう（きたむろぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.33731292,34.21153352"
+            }
+          },
+          {
+            "AreaCode": "24212",
+            "Name": "熊野市",
+            "Kana": "くまのし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.10023624,33.88860366"
+            }
+          },
+          {
+            "AreaCode": "24205",
+            "Name": "桑名市",
+            "Kana": "くわなし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.68380262,35.06221308"
+            }
+          },
+          {
+            "AreaCode": "24341",
+            "Name": "菰野町（三重郡）",
+            "Kana": "こものちょう（みえぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.50703209,35.01995331"
+            }
+          },
+          {
+            "AreaCode": "24215",
+            "Name": "志摩市",
+            "Kana": "しまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.82967401,34.32813404"
+            }
+          },
+          {
+            "AreaCode": "24207",
+            "Name": "鈴鹿市",
+            "Kana": "すずかし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.58388392,34.88209278"
+            }
+          },
+          {
+            "AreaCode": "24471",
+            "Name": "大紀町（度会郡）",
+            "Kana": "たいきちょう（わたらいぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.41575823,34.35809149"
+            }
+          },
+          {
+            "AreaCode": "24441",
+            "Name": "多気町（多気郡）",
+            "Kana": "たきちょう（たきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.54616267,34.49614994"
+            }
+          },
+          {
+            "AreaCode": "24461",
+            "Name": "玉城町（度会郡）",
+            "Kana": "たまきちょう（わたらいぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.63083485,34.49021385"
+            }
+          },
+          {
+            "AreaCode": "24201",
+            "Name": "津市",
+            "Kana": "つし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.50541911,34.71860920"
+            }
+          },
+          {
+            "AreaCode": "24324",
+            "Name": "東員町（員弁郡）",
+            "Kana": "とういんちょう（いなべぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.58379456,35.07413452"
+            }
+          },
+          {
+            "AreaCode": "24211",
+            "Name": "鳥羽市",
+            "Kana": "とばし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.84340553,34.48138458"
+            }
+          },
+          {
+            "AreaCode": "24208",
+            "Name": "名張市",
+            "Kana": "なばりし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.10829528,34.62765905"
+            }
+          },
+          {
+            "AreaCode": "24204",
+            "Name": "松阪市",
+            "Kana": "まつさかし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.52760643,34.57798155"
+            }
+          },
+          {
+            "AreaCode": "24472",
+            "Name": "南伊勢町（度会郡）",
+            "Kana": "みなみいせちょう（わたらいぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.70371102,34.35208677"
+            }
+          },
+          {
+            "AreaCode": "24561",
+            "Name": "御浜町（南牟婁郡）",
+            "Kana": "みはまちょう（みなみむろぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.04865739,33.81448584"
+            }
+          },
+          {
+            "AreaCode": "24442",
+            "Name": "明和町（多気郡）",
+            "Kana": "めいわちょう（たきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.62317613,34.54755926"
+            }
+          },
+          {
+            "AreaCode": "24202",
+            "Name": "四日市市",
+            "Kana": "よっかいちし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.62440703,34.96511479"
+            }
+          },
+          {
+            "AreaCode": "24470",
+            "Name": "度会町（度会郡）",
+            "Kana": "わたらいちょう（わたらいぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.62245732,34.43882807"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

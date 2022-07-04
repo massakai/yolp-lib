@@ -1,0 +1,275 @@
+{
+  "ResultInfo": {
+    "Count": 27,
+    "Total": 27,
+    "Start": 1,
+    "Status": 200,
+    "Description": "",
+    "Copyright": "",
+    "Latency": 0.008
+  },
+  "Feature": [
+    {
+      "Name": "山梨県",
+      "Geometry": {
+        "Type": "point",
+        "Coordinates": "138.56844825,35.66415684",
+        "BoundingBox": "138.1801400,35.1683200 139.1343550,35.9716970"
+      },
+      "Property": {
+        "CassetteId": "b22fee69b0dcaf2c2fe2d6a27906dafc",
+        "Country": {
+          "Code": "JP",
+          "Name": "日本"
+        },
+        "Address": "山梨県",
+        "GovernmentCode": "19",
+        "AddressDirectory": [
+          {
+            "AreaCode": "19346",
+            "Name": "市川三郷町（西八代郡）",
+            "Kana": "いちかわみさとちょう（にしやつしろぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.50245780,35.56532196"
+            }
+          },
+          {
+            "AreaCode": "19212",
+            "Name": "上野原市",
+            "Kana": "うえのはらし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.10864286,35.63028642"
+            }
+          },
+          {
+            "AreaCode": "19206",
+            "Name": "大月市",
+            "Kana": "おおつきし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.94002738,35.61048474"
+            }
+          },
+          {
+            "AreaCode": "19424",
+            "Name": "忍野村（南都留郡）",
+            "Kana": "おしのむら（みなみつるぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.84795045,35.46035871"
+            }
+          },
+          {
+            "AreaCode": "19210",
+            "Name": "甲斐市",
+            "Kana": "かいし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.51579881,35.66085326"
+            }
+          },
+          {
+            "AreaCode": "19213",
+            "Name": "甲州市",
+            "Kana": "こうしゅうし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.72937690,35.70429900"
+            }
+          },
+          {
+            "AreaCode": "19201",
+            "Name": "甲府市",
+            "Kana": "こうふし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.56821503,35.66227931"
+            }
+          },
+          {
+            "AreaCode": "19442",
+            "Name": "小菅村（北都留郡）",
+            "Kana": "こすげむら（きたつるぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.94016086,35.76012392"
+            }
+          },
+          {
+            "AreaCode": "19384",
+            "Name": "昭和町（中巨摩郡）",
+            "Kana": "しょうわちょう（なかこまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.53500610,35.62799985"
+            }
+          },
+          {
+            "AreaCode": "19443",
+            "Name": "丹波山村（北都留郡）",
+            "Kana": "たばやまむら（きたつるぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.92232843,35.78928738"
+            }
+          },
+          {
+            "AreaCode": "19214",
+            "Name": "中央市",
+            "Kana": "ちゅうおうし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.51679411,35.59999510"
+            }
+          },
+          {
+            "AreaCode": "19204",
+            "Name": "都留市",
+            "Kana": "つるし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.90550854,35.55165492"
+            }
+          },
+          {
+            "AreaCode": "19422",
+            "Name": "道志村（南都留郡）",
+            "Kana": "どうしむら（みなみつるぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.03333678,35.52816146"
+            }
+          },
+          {
+            "AreaCode": "19429",
+            "Name": "鳴沢村（南都留郡）",
+            "Kana": "なるさわむら（みなみつるぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.70669269,35.48147213"
+            }
+          },
+          {
+            "AreaCode": "19366",
+            "Name": "南部町（南巨摩郡）",
+            "Kana": "なんぶちょう（みなみこまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.48611163,35.24235184"
+            }
+          },
+          {
+            "AreaCode": "19423",
+            "Name": "西桂町（南都留郡）",
+            "Kana": "にしかつらちょう（みなみつるぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.84686048,35.52406003"
+            }
+          },
+          {
+            "AreaCode": "19207",
+            "Name": "韮崎市",
+            "Kana": "にらさきし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.44612699,35.70889657"
+            }
+          },
+          {
+            "AreaCode": "19364",
+            "Name": "早川町（南巨摩郡）",
+            "Kana": "はやかわちょう（みなみこまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.36322450,35.41293565"
+            }
+          },
+          {
+            "AreaCode": "19211",
+            "Name": "笛吹市",
+            "Kana": "ふえふきし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.63978291,35.64735903"
+            }
+          },
+          {
+            "AreaCode": "19430",
+            "Name": "富士河口湖町（南都留郡）",
+            "Kana": "ふじかわぐちこまち（みなみつるぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.75507218,35.49733584"
+            }
+          },
+          {
+            "AreaCode": "19368",
+            "Name": "富士川町（南巨摩郡）",
+            "Kana": "ふじかわちょう（みなみこまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.46133897,35.56117488"
+            }
+          },
+          {
+            "AreaCode": "19202",
+            "Name": "富士吉田市",
+            "Kana": "ふじよしだし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.80784551,35.48752384"
+            }
+          },
+          {
+            "AreaCode": "19209",
+            "Name": "北杜市",
+            "Kana": "ほくとし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.42370575,35.77650214"
+            }
+          },
+          {
+            "AreaCode": "19208",
+            "Name": "南アルプス市",
+            "Kana": "みなみあるぷすし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.46493223,35.60831614"
+            }
+          },
+          {
+            "AreaCode": "19365",
+            "Name": "身延町（南巨摩郡）",
+            "Kana": "みのぶちょう（みなみこまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.44248491,35.46755482"
+            }
+          },
+          {
+            "AreaCode": "19425",
+            "Name": "山中湖村（南都留郡）",
+            "Kana": "やまなかこむら（みなみつるぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.86091623,35.41064381"
+            }
+          },
+          {
+            "AreaCode": "19205",
+            "Name": "山梨市",
+            "Kana": "やまなしし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "138.68691383,35.69339645"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "ResultInfo": {
+    "Count": 19,
+    "Total": 19,
+    "Start": 1,
+    "Status": 200,
+    "Description": "",
+    "Copyright": "",
+    "Latency": 0.008
+  },
+  "Feature": [
+    {
+      "Name": "滋賀県",
+      "Geometry": {
+        "Type": "point",
+        "Coordinates": "135.86838375,35.00442194",
+        "BoundingBox": "135.7637270,34.7905950 136.4550760,35.7037520"
+      },
+      "Property": {
+        "CassetteId": "b22fee69b0dcaf2c2fe2d6a27906dafc",
+        "Country": {
+          "Code": "JP",
+          "Name": "日本"
+        },
+        "Address": "滋賀県",
+        "GovernmentCode": "25",
+        "AddressDirectory": [
+          {
+            "AreaCode": "25425",
+            "Name": "愛荘町（愛知郡）",
+            "Kana": "あいしょうちょう（えちぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.21229465,35.16879172"
+            }
+          },
+          {
+            "AreaCode": "25204",
+            "Name": "近江八幡市",
+            "Kana": "おうみはちまんし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.09790889,35.12833812"
+            }
+          },
+          {
+            "AreaCode": "25201",
+            "Name": "大津市",
+            "Kana": "おおつし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.85460994,35.01789526"
+            }
+          },
+          {
+            "AreaCode": "25206",
+            "Name": "草津市",
+            "Kana": "くさつし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.95996617,35.01320026"
+            }
+          },
+          {
+            "AreaCode": "25209",
+            "Name": "甲賀市",
+            "Kana": "こうかし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.16632509,34.96606665"
+            }
+          },
+          {
+            "AreaCode": "25442",
+            "Name": "甲良町（犬上郡）",
+            "Kana": "こうらちょう（いぬかみぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.26120525,35.20412144"
+            }
+          },
+          {
+            "AreaCode": "25211",
+            "Name": "湖南市",
+            "Kana": "こなんし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.08468961,35.00398042"
+            }
+          },
+          {
+            "AreaCode": "25212",
+            "Name": "高島市",
+            "Kana": "たかしまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.03581860,35.35305407"
+            }
+          },
+          {
+            "AreaCode": "25443",
+            "Name": "多賀町（犬上郡）",
+            "Kana": "たがちょう（いぬかみぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.29204870,35.22199768"
+            }
+          },
+          {
+            "AreaCode": "25441",
+            "Name": "豊郷町（犬上郡）",
+            "Kana": "とよさとちょう（いぬかみぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.22989637,35.20034551"
+            }
+          },
+          {
+            "AreaCode": "25203",
+            "Name": "長浜市",
+            "Kana": "ながはまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.27872445,35.38081428"
+            }
+          },
+          {
+            "AreaCode": "25213",
+            "Name": "東近江市",
+            "Kana": "ひがしおうみし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.20760621,35.11261647"
+            }
+          },
+          {
+            "AreaCode": "25202",
+            "Name": "彦根市",
+            "Kana": "ひこねし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.25964160,35.27433250"
+            }
+          },
+          {
+            "AreaCode": "25383",
+            "Name": "日野町（蒲生郡）",
+            "Kana": "ひのちょう（がもうぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.24588686,35.01791810"
+            }
+          },
+          {
+            "AreaCode": "25214",
+            "Name": "米原市",
+            "Kana": "まいばらし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.29124542,35.31507874"
+            }
+          },
+          {
+            "AreaCode": "25207",
+            "Name": "守山市",
+            "Kana": "もりやまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.99440342,35.05893927"
+            }
+          },
+          {
+            "AreaCode": "25210",
+            "Name": "野洲市",
+            "Kana": "やすし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.02582284,35.06743104"
+            }
+          },
+          {
+            "AreaCode": "25208",
+            "Name": "栗東市",
+            "Kana": "りっとうし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.99799549,35.02161629"
+            }
+          },
+          {
+            "AreaCode": "25384",
+            "Name": "竜王町（蒲生郡）",
+            "Kana": "りゅうおうちょう（がもうぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.12444605,35.06083605"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,590 @@
+{
+  "ResultInfo": {
+    "Count": 62,
+    "Total": 62,
+    "Start": 1,
+    "Status": 200,
+    "Description": "",
+    "Copyright": "",
+    "Latency": 0.013
+  },
+  "Feature": [
+    {
+      "Name": "東京都",
+      "Geometry": {
+        "Type": "point",
+        "Coordinates": "139.69181967,35.68955124",
+        "BoundingBox": "138.9429580,35.5011340 139.9189520,35.8984400"
+      },
+      "Property": {
+        "CassetteId": "b22fee69b0dcaf2c2fe2d6a27906dafc",
+        "Country": {
+          "Code": "JP",
+          "Name": "日本"
+        },
+        "Address": "東京都",
+        "GovernmentCode": "13",
+        "AddressDirectory": [
+          {
+            "AreaCode": "13402",
+            "Name": "青ヶ島村",
+            "Kana": "あおがしまむら",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.76331416,32.46645920"
+            }
+          },
+          {
+            "AreaCode": "13207",
+            "Name": "昭島市",
+            "Kana": "あきしまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.35354796,35.70575471"
+            }
+          },
+          {
+            "AreaCode": "13228",
+            "Name": "あきる野市",
+            "Kana": "あきるのし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.29369645,35.72889753"
+            }
+          },
+          {
+            "AreaCode": "13121",
+            "Name": "足立区",
+            "Kana": "あだちく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.80450083,35.77563344"
+            }
+          },
+          {
+            "AreaCode": "13118",
+            "Name": "荒川区",
+            "Kana": "あらかわく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.78333641,35.73614432"
+            }
+          },
+          {
+            "AreaCode": "13119",
+            "Name": "板橋区",
+            "Kana": "いたばしく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.70924619,35.75116420"
+            }
+          },
+          {
+            "AreaCode": "13225",
+            "Name": "稲城市",
+            "Kana": "いなぎし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.50456626,35.63792604"
+            }
+          },
+          {
+            "AreaCode": "13123",
+            "Name": "江戸川区",
+            "Kana": "えどがわく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.86832620,35.70697836"
+            }
+          },
+          {
+            "AreaCode": "13205",
+            "Name": "青梅市",
+            "Kana": "おうめし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.27579057,35.78799021"
+            }
+          },
+          {
+            "AreaCode": "13361",
+            "Name": "大島町",
+            "Kana": "おおしままち",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.35557838,34.75003875"
+            }
+          },
+          {
+            "AreaCode": "13111",
+            "Name": "大田区",
+            "Kana": "おおたく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.71604740,35.56140006"
+            }
+          },
+          {
+            "AreaCode": "13421",
+            "Name": "小笠原村",
+            "Kana": "おがさわらむら",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "142.19190714,27.09435777"
+            }
+          },
+          {
+            "AreaCode": "13308",
+            "Name": "奥多摩町（西多摩郡）",
+            "Kana": "おくたままち（にしたまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.09619943,35.80954564"
+            }
+          },
+          {
+            "AreaCode": "13122",
+            "Name": "葛飾区",
+            "Kana": "かつしかく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.84722071,35.74349358"
+            }
+          },
+          {
+            "AreaCode": "13117",
+            "Name": "北区",
+            "Kana": "きたく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.73341077,35.75292568"
+            }
+          },
+          {
+            "AreaCode": "13221",
+            "Name": "清瀬市",
+            "Kana": "きよせし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.52677749,35.78534142"
+            }
+          },
+          {
+            "AreaCode": "13215",
+            "Name": "国立市",
+            "Kana": "くにたちし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.44138288,35.68388439"
+            }
+          },
+          {
+            "AreaCode": "13364",
+            "Name": "神津島村",
+            "Kana": "こうづしまむら",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.13425768,34.20526867"
+            }
+          },
+          {
+            "AreaCode": "13108",
+            "Name": "江東区",
+            "Kana": "こうとうく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.81696810,35.67307835"
+            }
+          },
+          {
+            "AreaCode": "13210",
+            "Name": "小金井市",
+            "Kana": "こがねいし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.50299645,35.69946475"
+            }
+          },
+          {
+            "AreaCode": "13214",
+            "Name": "国分寺市",
+            "Kana": "こくぶんじし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.46318833,35.71034027"
+            }
+          },
+          {
+            "AreaCode": "13211",
+            "Name": "小平市",
+            "Kana": "こだいらし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.47752245,35.72843299"
+            }
+          },
+          {
+            "AreaCode": "13219",
+            "Name": "狛江市",
+            "Kana": "こまえし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.57871750,35.63497980"
+            }
+          },
+          {
+            "AreaCode": "13109",
+            "Name": "品川区",
+            "Kana": "しながわく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.73030809,35.60890571"
+            }
+          },
+          {
+            "AreaCode": "13113",
+            "Name": "渋谷区",
+            "Kana": "しぶやく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.69770072,35.66368489"
+            }
+          },
+          {
+            "AreaCode": "13104",
+            "Name": "新宿区",
+            "Kana": "しんじゅくく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.70341014,35.69388716"
+            }
+          },
+          {
+            "AreaCode": "13115",
+            "Name": "杉並区",
+            "Kana": "すぎなみく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.63638522,35.69957353"
+            }
+          },
+          {
+            "AreaCode": "13107",
+            "Name": "墨田区",
+            "Kana": "すみだく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.80155995,35.71040718"
+            }
+          },
+          {
+            "AreaCode": "13112",
+            "Name": "世田谷区",
+            "Kana": "せたがやく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.65324952,35.64657462"
+            }
+          },
+          {
+            "AreaCode": "13106",
+            "Name": "台東区",
+            "Kana": "たいとうく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.77999789,35.71260667"
+            }
+          },
+          {
+            "AreaCode": "13202",
+            "Name": "立川市",
+            "Kana": "たちかわし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.40784571,35.71401612"
+            }
+          },
+          {
+            "AreaCode": "13224",
+            "Name": "多摩市",
+            "Kana": "たまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.44628412,35.63703153"
+            }
+          },
+          {
+            "AreaCode": "13102",
+            "Name": "中央区",
+            "Kana": "ちゅうおうく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.77210785,35.67071087"
+            }
+          },
+          {
+            "AreaCode": "13208",
+            "Name": "調布市",
+            "Kana": "ちょうふし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.54099257,35.65071619"
+            }
+          },
+          {
+            "AreaCode": "13101",
+            "Name": "千代田区",
+            "Kana": "ちよだく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.75358633,35.69404118"
+            }
+          },
+          {
+            "AreaCode": "13116",
+            "Name": "豊島区",
+            "Kana": "としまく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.71660773,35.72611722"
+            }
+          },
+          {
+            "AreaCode": "13362",
+            "Name": "利島村",
+            "Kana": "としまむら",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.28194827,34.52913806"
+            }
+          },
+          {
+            "AreaCode": "13114",
+            "Name": "中野区",
+            "Kana": "なかのく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.66383806,35.70739838"
+            }
+          },
+          {
+            "AreaCode": "13363",
+            "Name": "新島村",
+            "Kana": "にいじまむら",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.25657395,34.37713721"
+            }
+          },
+          {
+            "AreaCode": "13229",
+            "Name": "西東京市",
+            "Kana": "にしとうきょうし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.53814504,35.72551542"
+            }
+          },
+          {
+            "AreaCode": "13120",
+            "Name": "練馬区",
+            "Kana": "ねりまく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.65166011,35.73562267"
+            }
+          },
+          {
+            "AreaCode": "13201",
+            "Name": "八王子市",
+            "Kana": "はちおうじし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.31580521,35.66634173"
+            }
+          },
+          {
+            "AreaCode": "13401",
+            "Name": "八丈町",
+            "Kana": "はちじょうまち",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.78906712,33.11274212"
+            }
+          },
+          {
+            "AreaCode": "13227",
+            "Name": "羽村市",
+            "Kana": "はむらし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.31101600,35.76713800"
+            }
+          },
+          {
+            "AreaCode": "13222",
+            "Name": "東久留米市",
+            "Kana": "ひがしくるめし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.52985269,35.75815867"
+            }
+          },
+          {
+            "AreaCode": "13213",
+            "Name": "東村山市",
+            "Kana": "ひがしむらやまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.46829992,35.75456587"
+            }
+          },
+          {
+            "AreaCode": "13220",
+            "Name": "東大和市",
+            "Kana": "ひがしやまとし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.42647329,35.74535742"
+            }
+          },
+          {
+            "AreaCode": "13212",
+            "Name": "日野市",
+            "Kana": "ひのし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.39486221,35.67144843"
+            }
+          },
+          {
+            "AreaCode": "13305",
+            "Name": "日の出町（西多摩郡）",
+            "Kana": "ひのでまち（にしたまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.25744371,35.74214492"
+            }
+          },
+          {
+            "AreaCode": "13307",
+            "Name": "檜原村（西多摩郡）",
+            "Kana": "ひのはらむら（にしたまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.14886605,35.72683878"
+            }
+          },
+          {
+            "AreaCode": "13206",
+            "Name": "府中市",
+            "Kana": "ふちゅうし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.47761085,35.66918424"
+            }
+          },
+          {
+            "AreaCode": "13218",
+            "Name": "福生市",
+            "Kana": "ふっさし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.32668791,35.73874734"
+            }
+          },
+          {
+            "AreaCode": "13105",
+            "Name": "文京区",
+            "Kana": "ぶんきょうく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.75221638,35.70805349"
+            }
+          },
+          {
+            "AreaCode": "13209",
+            "Name": "町田市",
+            "Kana": "まちだし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.43861823,35.54663040"
+            }
+          },
+          {
+            "AreaCode": "13382",
+            "Name": "御蔵島村",
+            "Kana": "みくらじまむら",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.59611904,33.89736534"
+            }
+          },
+          {
+            "AreaCode": "13303",
+            "Name": "瑞穂町（西多摩郡）",
+            "Kana": "みずほまち（にしたまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.35384829,35.77203572"
+            }
+          },
+          {
+            "AreaCode": "13204",
+            "Name": "三鷹市",
+            "Kana": "みたかし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.55972268,35.68327617"
+            }
+          },
+          {
+            "AreaCode": "13103",
+            "Name": "港区",
+            "Kana": "みなとく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.75140452,35.65807282"
+            }
+          },
+          {
+            "AreaCode": "13381",
+            "Name": "三宅村",
+            "Kana": "みやけむら",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.47974690,34.07577621"
+            }
+          },
+          {
+            "AreaCode": "13203",
+            "Name": "武蔵野市",
+            "Kana": "むさしのし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.56625965,35.71778359"
+            }
+          },
+          {
+            "AreaCode": "13223",
+            "Name": "武蔵村山市",
+            "Kana": "むさしむらやまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.38740168,35.75486095"
+            }
+          },
+          {
+            "AreaCode": "13110",
+            "Name": "目黒区",
+            "Kana": "めぐろく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.69818761,35.64141799"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

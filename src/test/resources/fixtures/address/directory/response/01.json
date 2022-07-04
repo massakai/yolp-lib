@@ -1,0 +1,1778 @@
+{
+  "ResultInfo": {
+    "Count": 194,
+    "Total": 194,
+    "Start": 1,
+    "Status": 200,
+    "Description": "",
+    "Copyright": "",
+    "Latency": 0.02
+  },
+  "Feature": [
+    {
+      "Name": "北海道",
+      "Geometry": {
+        "Type": "point",
+        "Coordinates": "141.34685706,43.06451413",
+        "BoundingBox": "139.3338800,41.3516210 148.8950450,45.5577170"
+      },
+      "Property": {
+        "CassetteId": "b22fee69b0dcaf2c2fe2d6a27906dafc",
+        "Country": {
+          "Code": "JP",
+          "Name": "日本"
+        },
+        "Address": "北海道",
+        "GovernmentCode": "01",
+        "AddressDirectory": [
+          {
+            "AreaCode": "01456",
+            "Name": "愛別町（上川郡）",
+            "Kana": "あいべつちょう（かみかわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "142.57797573,43.90650582"
+            }
+          },
+          {
+            "AreaCode": "01409",
+            "Name": "赤井川村（余市郡）",
+            "Kana": "あかいがわむら（よいちぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.81348005,43.08349209"
+            }
+          },
+          {
+            "AreaCode": "01218",
+            "Name": "赤平市",
+            "Kana": "あかびらし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "142.04421064,43.55807326"
+            }
+          },
+          {
+            "AreaCode": "01204",
+            "Name": "旭川市",
+            "Kana": "あさひかわし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "142.36474363,43.77077635"
+            }
+          },
+          {
+            "AreaCode": "01216",
+            "Name": "芦別市",
+            "Kana": "あしべつし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "142.18943531,43.51816608"
+            }
+          },
+          {
+            "AreaCode": "01647",
+            "Name": "足寄町（足寄郡）",
+            "Kana": "あしょろちょう（あしょろぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "143.55389075,43.24472834"
+            }
+          },
+          {
+            "AreaCode": "01662",
+            "Name": "厚岸町（厚岸郡）",
+            "Kana": "あっけしちょう（あっけしぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "144.84736229,43.05187014"
+            }
+          },
+          {
+            "AreaCode": "01363",
+            "Name": "厚沢部町（檜山郡）",
+            "Kana": "あっさぶちょう（ひやまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.22528863,41.92067495"
+            }
+          },
+          {
+            "AreaCode": "01581",
+            "Name": "厚真町（勇払郡）",
+            "Kana": "あつまちょう（ゆうふつぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.87771207,42.72391496"
+            }
+          },
+          {
+            "AreaCode": "01211",
+            "Name": "網走市",
+            "Kana": "あばしりし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "144.27342562,44.02064253"
+            }
+          },
+          {
+            "AreaCode": "01585",
+            "Name": "安平町（勇払郡）",
+            "Kana": "あびらちょう（ゆうふつぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.81801729,42.76281464"
+            }
+          },
+          {
+            "AreaCode": "01644",
+            "Name": "池田町（中川郡）",
+            "Kana": "いけだちょう（なかがわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "143.44835478,42.92895401"
+            }
+          },
+          {
+            "AreaCode": "01235",
+            "Name": "石狩市",
+            "Kana": "いしかりし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.31552239,43.17138391"
+            }
+          },
+          {
+            "AreaCode": "01370",
+            "Name": "今金町（瀬棚郡）",
+            "Kana": "いまかねちょう（せたなぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.00855233,42.42931319"
+            }
+          },
+          {
+            "AreaCode": "01402",
+            "Name": "岩内町（岩内郡）",
+            "Kana": "いわないちょう（いわないぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.51475254,42.97978457"
+            }
+          },
+          {
+            "AreaCode": "01210",
+            "Name": "岩見沢市",
+            "Kana": "いわみざわし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.77533250,43.19604386"
+            }
+          },
+          {
+            "AreaCode": "01227",
+            "Name": "歌志内市",
+            "Kana": "うたしないし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "142.03457077,43.52135464"
+            }
+          },
+          {
+            "AreaCode": "01431",
+            "Name": "浦臼町（樺戸郡）",
+            "Kana": "うらうすちょう（かばとぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.81883889,43.43032438"
+            }
+          },
+          {
+            "AreaCode": "01607",
+            "Name": "浦河町（浦河郡）",
+            "Kana": "うらかわちょう（うらかわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "142.76811998,42.16851858"
+            }
+          },
+          {
+            "AreaCode": "01649",
+            "Name": "浦幌町（十勝郡）",
+            "Kana": "うらほろちょう（とかちぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "143.65869792,42.80900724"
+            }
+          },
+          {
+            "AreaCode": "01436",
+            "Name": "雨竜町（雨竜郡）",
+            "Kana": "うりゅうちょう（うりゅうぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.88963186,43.64387097"
+            }
+          },
+          {
+            "AreaCode": "01361",
+            "Name": "江差町（檜山郡）",
+            "Kana": "えさしちょう（ひやまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.12725760,41.86891133"
+            }
+          },
+          {
+            "AreaCode": "01514",
+            "Name": "枝幸町（枝幸郡）",
+            "Kana": "えさしちょう（えさしぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "142.58141015,44.93871615"
+            }
+          },
+          {
+            "AreaCode": "01231",
+            "Name": "恵庭市",
+            "Kana": "えにわし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.57781777,42.88256135"
+            }
+          },
+          {
+            "AreaCode": "01217",
+            "Name": "江別市",
+            "Kana": "えべつし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.53624637,43.10374646"
+            }
+          },
+          {
+            "AreaCode": "01609",
+            "Name": "えりも町（幌泉郡）",
+            "Kana": "えりもちょう（ほろいずみぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "143.14848173,42.01596603"
+            }
+          },
+          {
+            "AreaCode": "01555",
+            "Name": "遠軽町（紋別郡）",
+            "Kana": "えんがるちょう（もんべつぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "143.52794643,44.06195265"
+            }
+          },
+          {
+            "AreaCode": "01486",
+            "Name": "遠別町（天塩郡）",
+            "Kana": "えんべつちょう（てしおぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.79237120,44.72213881"
+            }
+          },
+          {
+            "AreaCode": "01563",
+            "Name": "雄武町（紋別郡）",
+            "Kana": "おうむちょう（もんべつぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "142.96180955,44.58255298"
+            }
+          },
+          {
+            "AreaCode": "01564",
+            "Name": "大空町（網走郡）",
+            "Kana": "おおぞらちょう（あばしりぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "144.17244221,43.91191374"
+            }
+          },
+          {
+            "AreaCode": "01367",
+            "Name": "奥尻町（奥尻郡）",
+            "Kana": "おくしりちょう（おくしりぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.51400725,42.17228052"
+            }
+          },
+          {
+            "AreaCode": "01550",
+            "Name": "置戸町（常呂郡）",
+            "Kana": "おけとちょう（ところぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "143.58636075,43.67617517"
+            }
+          },
+          {
+            "AreaCode": "01561",
+            "Name": "興部町（紋別郡）",
+            "Kana": "おこっぺちょう（もんべつぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "143.12383752,44.47003584"
+            }
+          },
+          {
+            "AreaCode": "01347",
+            "Name": "長万部町（山越郡）",
+            "Kana": "おしゃまんべちょう（やまこしぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.38063251,42.51368846"
+            }
+          },
+          {
+            "AreaCode": "01203",
+            "Name": "小樽市",
+            "Kana": "おたるし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.99442831,43.19075836"
+            }
+          },
+          {
+            "AreaCode": "01470",
+            "Name": "音威子府村（中川郡）",
+            "Kana": "おといねっぷむら（なかがわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "142.26246328,44.72500656"
+            }
+          },
+          {
+            "AreaCode": "01631",
+            "Name": "音更町（河東郡）",
+            "Kana": "おとふけちょう（かとうぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "143.19795890,42.99376540"
+            }
+          },
+          {
+            "AreaCode": "01364",
+            "Name": "乙部町（爾志郡）",
+            "Kana": "おとべちょう（にしぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.13532481,41.96847762"
+            }
+          },
+          {
+            "AreaCode": "01207",
+            "Name": "帯広市",
+            "Kana": "おびひろし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "143.19610239,42.92389889"
+            }
+          },
+          {
+            "AreaCode": "01482",
+            "Name": "小平町（留萌郡）",
+            "Kana": "おびらちょう（るもいぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.66257477,44.01510992"
+            }
+          },
+          {
+            "AreaCode": "01457",
+            "Name": "上川町（上川郡）",
+            "Kana": "かみかわちょう（かみかわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "142.77043072,43.84717982"
+            }
+          },
+          {
+            "AreaCode": "01633",
+            "Name": "上士幌町（河東郡）",
+            "Kana": "かみしほろちょう（かとうぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "143.29618872,43.23255042"
+            }
+          },
+          {
+            "AreaCode": "01425",
+            "Name": "上砂川町（空知郡）",
+            "Kana": "かみすながわちょう（そらちぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.98438656,43.48272660"
+            }
+          },
+          {
+            "AreaCode": "01362",
+            "Name": "上ノ国町（檜山郡）",
+            "Kana": "かみのくにちょう（ひやまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.12131932,41.80111119"
+            }
+          },
+          {
+            "AreaCode": "01460",
+            "Name": "上富良野町（空知郡）",
+            "Kana": "かみふらのちょう（そらちぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "142.46705575,43.45523039"
+            }
+          },
+          {
+            "AreaCode": "01404",
+            "Name": "神恵内村（古宇郡）",
+            "Kana": "かもえないむら（ふるうぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.43078420,43.14340460"
+            }
+          },
+          {
+            "AreaCode": "01334",
+            "Name": "木古内町（上磯郡）",
+            "Kana": "きこないちょう（かみいそぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.43756779,41.67826565"
+            }
+          },
+          {
+            "AreaCode": "01234",
+            "Name": "北広島市",
+            "Kana": "きたひろしまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.56354205,42.98563199"
+            }
+          },
+          {
+            "AreaCode": "01208",
+            "Name": "北見市",
+            "Kana": "きたみし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "143.89475632,43.80291197"
+            }
+          },
+          {
+            "AreaCode": "01398",
+            "Name": "喜茂別町（虻田郡）",
+            "Kana": "きもべつちょう（あぶたぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.93440784,42.79533277"
+            }
+          },
+          {
+            "AreaCode": "01399",
+            "Name": "京極町（虻田郡）",
+            "Kana": "きょうごくちょう（あぶたぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.88412930,42.85788257"
+            }
+          },
+          {
+            "AreaCode": "01401",
+            "Name": "共和町（岩内郡）",
+            "Kana": "きょうわちょう（いわないぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.61130870,42.98043351"
+            }
+          },
+          {
+            "AreaCode": "01546",
+            "Name": "清里町（斜里郡）",
+            "Kana": "きよさとちょう（しゃりぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "144.59451702,43.83535752"
+            }
+          },
+          {
+            "AreaCode": "01206",
+            "Name": "釧路市",
+            "Kana": "くしろし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "144.38170486,42.98489283"
+            }
+          },
+          {
+            "AreaCode": "01661",
+            "Name": "釧路町（釧路郡）",
+            "Kana": "くしろちょう（くしろぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "144.46598164,42.99604485"
+            }
+          },
+          {
+            "AreaCode": "01400",
+            "Name": "倶知安町（虻田郡）",
+            "Kana": "くっちゃんちょう（あぶたぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.75870046,42.90183213"
+            }
+          },
+          {
+            "AreaCode": "01429",
+            "Name": "栗山町（夕張郡）",
+            "Kana": "くりやまちょう（ゆうばりぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.78375762,43.05624498"
+            }
+          },
+          {
+            "AreaCode": "01393",
+            "Name": "黒松内町（寿都郡）",
+            "Kana": "くろまつないちょう（すっつぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.30753899,42.66786652"
+            }
+          },
+          {
+            "AreaCode": "01549",
+            "Name": "訓子府町（常呂郡）",
+            "Kana": "くんねっぷちょう（ところぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "143.74165226,43.72546563"
+            }
+          },
+          {
+            "AreaCode": "01465",
+            "Name": "剣淵町（上川郡）",
+            "Kana": "けんぶちちょう（かみかわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "142.36122311,44.09567957"
+            }
+          },
+          {
+            "AreaCode": "01547",
+            "Name": "小清水町（斜里郡）",
+            "Kana": "こしみずちょう（しゃりぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "144.46202796,43.85685415"
+            }
+          },
+          {
+            "AreaCode": "01108",
+            "Name": "札幌市厚別区",
+            "Kana": "さっぽろしあつべつく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.47480853,43.03634884"
+            }
+          },
+          {
+            "AreaCode": "01102",
+            "Name": "札幌市北区",
+            "Kana": "さっぽろしきたく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.34059480,43.09064413"
+            }
+          },
+          {
+            "AreaCode": "01110",
+            "Name": "札幌市清田区",
+            "Kana": "さっぽろしきよたく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.44361611,42.99981585"
+            }
+          },
+          {
+            "AreaCode": "01104",
+            "Name": "札幌市白石区",
+            "Kana": "さっぽろししろいしく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.39636493,43.04545946"
+            }
+          },
+          {
+            "AreaCode": "01101",
+            "Name": "札幌市中央区",
+            "Kana": "さっぽろしちゅうおうく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.35373725,43.06144807"
+            }
+          },
+          {
+            "AreaCode": "01109",
+            "Name": "札幌市手稲区",
+            "Kana": "さっぽろしていねく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.24588738,43.12191265"
+            }
+          },
+          {
+            "AreaCode": "01105",
+            "Name": "札幌市豊平区",
+            "Kana": "さっぽろしとよひらく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.38010600,43.03129385"
+            }
+          },
+          {
+            "AreaCode": "01107",
+            "Name": "札幌市西区",
+            "Kana": "さっぽろしにしく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.30064636,43.07438898"
+            }
+          },
+          {
+            "AreaCode": "01103",
+            "Name": "札幌市東区",
+            "Kana": "さっぽろしひがしく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.36353280,43.07597455"
+            }
+          },
+          {
+            "AreaCode": "01106",
+            "Name": "札幌市南区",
+            "Kana": "さっぽろしみなみく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.35337454,42.98959475"
+            }
+          },
+          {
+            "AreaCode": "01608",
+            "Name": "様似町（様似郡）",
+            "Kana": "さまにちょう（さまにぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "142.93354958,42.12785227"
+            }
+          },
+          {
+            "AreaCode": "01639",
+            "Name": "更別村（河西郡）",
+            "Kana": "さらべつむら（かさいぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "143.18785965,42.65035049"
+            }
+          },
+          {
+            "AreaCode": "01511",
+            "Name": "猿払村（宗谷郡）",
+            "Kana": "さるふつむら（そうやぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "142.10903588,45.33084098"
+            }
+          },
+          {
+            "AreaCode": "01552",
+            "Name": "佐呂間町（常呂郡）",
+            "Kana": "さろまちょう（ところぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "143.77450765,44.01775852"
+            }
+          },
+          {
+            "AreaCode": "01634",
+            "Name": "鹿追町（河東郡）",
+            "Kana": "しかおいちょう（かとうぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "142.98873709,43.09897912"
+            }
+          },
+          {
+            "AreaCode": "01343",
+            "Name": "鹿部町（茅部郡）",
+            "Kana": "しかべちょう（かやべぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.83168099,42.02669587"
+            }
+          },
+          {
+            "AreaCode": "01695",
+            "Name": "色丹村（色丹郡）",
+            "Kana": "しこたんむら（しこたんぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "146.817091,43.865592"
+            }
+          },
+          {
+            "AreaCode": "01664",
+            "Name": "標茶町（川上郡）",
+            "Kana": "しべちゃちょう（かわかみぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "144.60077788,43.30344021"
+            }
+          },
+          {
+            "AreaCode": "01220",
+            "Name": "士別市",
+            "Kana": "しべつし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "142.40069460,44.17814466"
+            }
+          },
+          {
+            "AreaCode": "01693",
+            "Name": "標津町（標津郡）",
+            "Kana": "しべつちょう（しべつぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "145.13131838,43.66138665"
+            }
+          },
+          {
+            "AreaCode": "01700",
+            "Name": "蘂取村（蘂取郡）",
+            "Kana": "しべとろむら（しべとろぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "148.611981,45.486171"
+            }
+          },
+          {
+            "AreaCode": "01632",
+            "Name": "士幌町（河東郡）",
+            "Kana": "しほろちょう（かとうぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "143.24141871,43.16836026"
+            }
+          },
+          {
+            "AreaCode": "01391",
+            "Name": "島牧村（島牧郡）",
+            "Kana": "しままきむら（しままきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.06138464,42.70076161"
+            }
+          },
+          {
+            "AreaCode": "01636",
+            "Name": "清水町（上川郡）",
+            "Kana": "しみずちょう（かみかわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "142.88442514,43.01114486"
+            }
+          },
+          {
+            "AreaCode": "01463",
+            "Name": "占冠村（勇払郡）",
+            "Kana": "しむかっぷむら（ゆうふつぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "142.39835956,42.97977818"
+            }
+          },
+          {
+            "AreaCode": "01468",
+            "Name": "下川町（上川郡）",
+            "Kana": "しもかわちょう（かみかわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "142.63531048,44.30250260"
+            }
+          },
+          {
+            "AreaCode": "01405",
+            "Name": "積丹町（積丹郡）",
+            "Kana": "しゃこたんちょう（しゃこたんぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.59826992,43.29880523"
+            }
+          },
+          {
+            "AreaCode": "01699",
+            "Name": "紗那村（紗那郡）",
+            "Kana": "しゃなむら（しゃなぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "147.882397,45.226242"
+            }
+          },
+          {
+            "AreaCode": "01545",
+            "Name": "斜里町（斜里郡）",
+            "Kana": "しゃりちょう（しゃりぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "144.67044620,43.91144793"
+            }
+          },
+          {
+            "AreaCode": "01485",
+            "Name": "初山別村（苫前郡）",
+            "Kana": "しょさんべつむら（とままえぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.76670621,44.53196468"
+            }
+          },
+          {
+            "AreaCode": "01578",
+            "Name": "白老町（白老郡）",
+            "Kana": "しらおいちょう（しらおいぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.35595435,42.55125941"
+            }
+          },
+          {
+            "AreaCode": "01668",
+            "Name": "白糠町（白糠郡）",
+            "Kana": "しらぬかちょう（しらぬかぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "144.07179350,42.95582973"
+            }
+          },
+          {
+            "AreaCode": "01333",
+            "Name": "知内町（上磯郡）",
+            "Kana": "しりうちちょう（かみいそぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.41894545,41.59815334"
+            }
+          },
+          {
+            "AreaCode": "01304",
+            "Name": "新篠津村（石狩郡）",
+            "Kana": "しんしのつむら（いしかりぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.64925476,43.22539277"
+            }
+          },
+          {
+            "AreaCode": "01635",
+            "Name": "新得町（上川郡）",
+            "Kana": "しんとくちょう（かみかわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "142.83873910,43.07979886"
+            }
+          },
+          {
+            "AreaCode": "01432",
+            "Name": "新十津川町（樺戸郡）",
+            "Kana": "しんとつかわちょう（かばとぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.87697326,43.54835265"
+            }
+          },
+          {
+            "AreaCode": "01610",
+            "Name": "新ひだか町（日高郡）",
+            "Kana": "しんひだかちょう（ひだかぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "142.36858197,42.34128396"
+            }
+          },
+          {
+            "AreaCode": "01392",
+            "Name": "寿都町（寿都郡）",
+            "Kana": "すっつちょう（すっつぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.22883520,42.79078629"
+            }
+          },
+          {
+            "AreaCode": "01226",
+            "Name": "砂川市",
+            "Kana": "すながわし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.90251709,43.49433945"
+            }
+          },
+          {
+            "AreaCode": "01371",
+            "Name": "せたな町（久遠郡）",
+            "Kana": "せたなちょう（くどうぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.88297618,42.41717484"
+            }
+          },
+          {
+            "AreaCode": "01575",
+            "Name": "壮瞥町（有珠郡）",
+            "Kana": "そうべつちょう（うすぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.88605265,42.55222497"
+            }
+          },
+          {
+            "AreaCode": "01641",
+            "Name": "大樹町（広尾郡）",
+            "Kana": "たいきちょう（ひろおぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "143.27849076,42.49748104"
+            }
+          },
+          {
+            "AreaCode": "01452",
+            "Name": "鷹栖町（上川郡）",
+            "Kana": "たかすちょう（かみかわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "142.35477538,43.84350466"
+            }
+          },
+          {
+            "AreaCode": "01225",
+            "Name": "滝川市",
+            "Kana": "たきかわし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.91018596,43.55779703"
+            }
+          },
+          {
+            "AreaCode": "01560",
+            "Name": "滝上町（紋別郡）",
+            "Kana": "たきのうえちょう（もんべつぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "143.07757674,44.19222506"
+            }
+          },
+          {
+            "AreaCode": "01233",
+            "Name": "伊達市",
+            "Kana": "だてし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.86467835,42.47185366"
+            }
+          },
+          {
+            "AreaCode": "01434",
+            "Name": "秩父別町（雨竜郡）",
+            "Kana": "ちっぷべつちょう（うりゅうぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.95769345,43.76720469"
+            }
+          },
+          {
+            "AreaCode": "01224",
+            "Name": "千歳市",
+            "Kana": "ちとせし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.65089187,42.82097651"
+            }
+          },
+          {
+            "AreaCode": "01430",
+            "Name": "月形町（樺戸郡）",
+            "Kana": "つきがたちょう（かばとぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.66925376,43.33864678"
+            }
+          },
+          {
+            "AreaCode": "01544",
+            "Name": "津別町（網走郡）",
+            "Kana": "つべつちょう（あばしりぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "144.02503188,43.70645331"
+            }
+          },
+          {
+            "AreaCode": "01667",
+            "Name": "鶴居村（阿寒郡）",
+            "Kana": "つるいむら（あかんぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "144.32121510,43.22988627"
+            }
+          },
+          {
+            "AreaCode": "01487",
+            "Name": "天塩町（天塩郡）",
+            "Kana": "てしおちょう（てしおぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.74539934,44.88834068"
+            }
+          },
+          {
+            "AreaCode": "01665",
+            "Name": "弟子屈町（川上郡）",
+            "Kana": "てしかがちょう（かわかみぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "144.45944018,43.48525876"
+            }
+          },
+          {
+            "AreaCode": "01303",
+            "Name": "当別町（石狩郡）",
+            "Kana": "とうべつちょう（いしかりぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.51698025,43.22372655"
+            }
+          },
+          {
+            "AreaCode": "01454",
+            "Name": "当麻町（上川郡）",
+            "Kana": "とうまちょう（かみかわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "142.50812884,43.82817349"
+            }
+          },
+          {
+            "AreaCode": "01584",
+            "Name": "洞爺湖町（虻田郡）",
+            "Kana": "とうやこちょう（あぶたぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.76411450,42.55120252"
+            }
+          },
+          {
+            "AreaCode": "01213",
+            "Name": "苫小牧市",
+            "Kana": "とまこまいし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.60550981,42.63408232"
+            }
+          },
+          {
+            "AreaCode": "01483",
+            "Name": "苫前町（苫前郡）",
+            "Kana": "とままえちょう（とままえぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.65302443,44.30603899"
+            }
+          },
+          {
+            "AreaCode": "01403",
+            "Name": "泊村（古宇郡）",
+            "Kana": "とまりむら（ふるうぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.49886191,43.06335445"
+            }
+          },
+          {
+            "AreaCode": "01696",
+            "Name": "泊村（国後郡）",
+            "Kana": "とまりむら（くなしりぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "145.513133,43.733017"
+            }
+          },
+          {
+            "AreaCode": "01571",
+            "Name": "豊浦町（虻田郡）",
+            "Kana": "とようらちょう（あぶたぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.71177396,42.58315986"
+            }
+          },
+          {
+            "AreaCode": "01645",
+            "Name": "豊頃町（中川郡）",
+            "Kana": "とよころちょう（なかがわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "143.50591804,42.80105120"
+            }
+          },
+          {
+            "AreaCode": "01516",
+            "Name": "豊富町（天塩郡）",
+            "Kana": "とよとみちょう（てしおぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.77740454,45.10284650"
+            }
+          },
+          {
+            "AreaCode": "01424",
+            "Name": "奈井江町（空知郡）",
+            "Kana": "ないえちょう（そらちぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.88278832,43.42510598"
+            }
+          },
+          {
+            "AreaCode": "01471",
+            "Name": "中川町（中川郡）",
+            "Kana": "なかがわちょう（なかがわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "142.07149290,44.81133441"
+            }
+          },
+          {
+            "AreaCode": "01638",
+            "Name": "中札内村（河西郡）",
+            "Kana": "なかさつないむら（かさいぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "143.13438961,42.69786595"
+            }
+          },
+          {
+            "AreaCode": "01692",
+            "Name": "中標津町（標津郡）",
+            "Kana": "なかしべつちょう（しべつぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "144.97171608,43.55532522"
+            }
+          },
+          {
+            "AreaCode": "01513",
+            "Name": "中頓別町（枝幸郡）",
+            "Kana": "なかとんべつちょう（えさしぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "142.28674333,44.96977676"
+            }
+          },
+          {
+            "AreaCode": "01428",
+            "Name": "長沼町（夕張郡）",
+            "Kana": "ながぬまちょう（ゆうばりぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.69516255,43.01014768"
+            }
+          },
+          {
+            "AreaCode": "01461",
+            "Name": "中富良野町（空知郡）",
+            "Kana": "なかふらのちょう（そらちぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "142.42510546,43.40577584"
+            }
+          },
+          {
+            "AreaCode": "01337",
+            "Name": "七飯町（亀田郡）",
+            "Kana": "ななえちょう（かめだぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.69428229,41.89571953"
+            }
+          },
+          {
+            "AreaCode": "01221",
+            "Name": "名寄市",
+            "Kana": "なよろし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "142.46316684,44.35593765"
+            }
+          },
+          {
+            "AreaCode": "01423",
+            "Name": "南幌町（空知郡）",
+            "Kana": "なんぽろちょう（そらちぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.65006849,43.06372654"
+            }
+          },
+          {
+            "AreaCode": "01604",
+            "Name": "新冠町（新冠郡）",
+            "Kana": "にいかっぷちょう（にいかっぷぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "142.31792349,42.36257470"
+            }
+          },
+          {
+            "AreaCode": "01407",
+            "Name": "仁木町（余市郡）",
+            "Kana": "にきちょう（よいちぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.76606526,43.15198580"
+            }
+          },
+          {
+            "AreaCode": "01562",
+            "Name": "西興部村（紋別郡）",
+            "Kana": "にしおこっぺむら（もんべつぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "142.94452241,44.32871428"
+            }
+          },
+          {
+            "AreaCode": "01395",
+            "Name": "ニセコ町（虻田郡）",
+            "Kana": "にせこちょう（あぶたぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.68802593,42.80503227"
+            }
+          },
+          {
+            "AreaCode": "01438",
+            "Name": "沼田町（雨竜郡）",
+            "Kana": "ぬまたちょう（うりゅうぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.93374589,43.80674638"
+            }
+          },
+          {
+            "AreaCode": "01223",
+            "Name": "根室市",
+            "Kana": "ねむろし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "145.58278959,43.33007583"
+            }
+          },
+          {
+            "AreaCode": "01230",
+            "Name": "登別市",
+            "Kana": "のぼりべつし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.10663124,42.41275947"
+            }
+          },
+          {
+            "AreaCode": "01202",
+            "Name": "函館市",
+            "Kana": "はこだてし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.72892396,41.76867373"
+            }
+          },
+          {
+            "AreaCode": "01484",
+            "Name": "羽幌町（苫前郡）",
+            "Kana": "はぼろちょう（とままえぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.69721081,44.36084258"
+            }
+          },
+          {
+            "AreaCode": "01512",
+            "Name": "浜頓別町（枝幸郡）",
+            "Kana": "はまとんべつちょう（えさしぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "142.35994204,45.12369026"
+            }
+          },
+          {
+            "AreaCode": "01663",
+            "Name": "浜中町（厚岸郡）",
+            "Kana": "はまなかちょう（あっけしぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "145.13109920,43.07593619"
+            }
+          },
+          {
+            "AreaCode": "01459",
+            "Name": "美瑛町（上川郡）",
+            "Kana": "びえいちょう（かみかわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "142.46698218,43.58819519"
+            }
+          },
+          {
+            "AreaCode": "01453",
+            "Name": "東神楽町（上川郡）",
+            "Kana": "ひがしかぐらちょう（かみかわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "142.45143961,43.69662575"
+            }
+          },
+          {
+            "AreaCode": "01458",
+            "Name": "東川町（上川郡）",
+            "Kana": "ひがしかわちょう（かみかわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "142.51031920,43.69897399"
+            }
+          },
+          {
+            "AreaCode": "01601",
+            "Name": "日高町（沙流郡）",
+            "Kana": "ひだかちょう（さるぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "142.07437788,42.48030740"
+            }
+          },
+          {
+            "AreaCode": "01455",
+            "Name": "比布町（上川郡）",
+            "Kana": "ぴっぷちょう（かみかわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "142.47755106,43.87507564"
+            }
+          },
+          {
+            "AreaCode": "01215",
+            "Name": "美唄市",
+            "Kana": "びばいし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.85378381,43.33288088"
+            }
+          },
+          {
+            "AreaCode": "01469",
+            "Name": "美深町（中川郡）",
+            "Kana": "びふかちょう（なかがわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "142.34309700,44.48095369"
+            }
+          },
+          {
+            "AreaCode": "01543",
+            "Name": "美幌町（網走郡）",
+            "Kana": "びほろちょう（あばしりぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "144.10753256,43.82426753"
+            }
+          },
+          {
+            "AreaCode": "01602",
+            "Name": "平取町（沙流郡）",
+            "Kana": "びらとりちょう（さるぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "142.12871133,42.58497789"
+            }
+          },
+          {
+            "AreaCode": "01642",
+            "Name": "広尾町（広尾郡）",
+            "Kana": "ひろおちょう（ひろおぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "143.31153388,42.28555703"
+            }
+          },
+          {
+            "AreaCode": "01228",
+            "Name": "深川市",
+            "Kana": "ふかがわし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "142.05353730,43.72325976"
+            }
+          },
+          {
+            "AreaCode": "01332",
+            "Name": "福島町（松前郡）",
+            "Kana": "ふくしまちょう（まつまえぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.25146743,41.48376608"
+            }
+          },
+          {
+            "AreaCode": "01229",
+            "Name": "富良野市",
+            "Kana": "ふらのし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "142.38322485,43.34213897"
+            }
+          },
+          {
+            "AreaCode": "01406",
+            "Name": "古平町（古平郡）",
+            "Kana": "ふるびらちょう（ふるびらぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.63881934,43.26535944"
+            }
+          },
+          {
+            "AreaCode": "01691",
+            "Name": "別海町（野付郡）",
+            "Kana": "べつかいちょう（のつけぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "145.11727082,43.39388102"
+            }
+          },
+          {
+            "AreaCode": "01236",
+            "Name": "北斗市",
+            "Kana": "ほくとし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.65304975,41.82417918"
+            }
+          },
+          {
+            "AreaCode": "01437",
+            "Name": "北竜町（雨竜郡）",
+            "Kana": "ほくりゅうちょう（うりゅうぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.87925534,43.73146407"
+            }
+          },
+          {
+            "AreaCode": "01472",
+            "Name": "幌加内町（雨竜郡）",
+            "Kana": "ほろかないちょう（うりゅうぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "142.15393043,44.00992017"
+            }
+          },
+          {
+            "AreaCode": "01520",
+            "Name": "幌延町（天塩郡）",
+            "Kana": "ほろのべちょう（てしおぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.84938380,45.01771084"
+            }
+          },
+          {
+            "AreaCode": "01646",
+            "Name": "本別町（中川郡）",
+            "Kana": "ほんべつちょう（なかがわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "143.61057225,43.12439774"
+            }
+          },
+          {
+            "AreaCode": "01643",
+            "Name": "幕別町（中川郡）",
+            "Kana": "まくべつちょう（なかがわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "143.35586280,42.90846732"
+            }
+          },
+          {
+            "AreaCode": "01481",
+            "Name": "増毛町（増毛郡）",
+            "Kana": "ましけちょう（ましけぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.52519715,43.85603487"
+            }
+          },
+          {
+            "AreaCode": "01396",
+            "Name": "真狩村（虻田郡）",
+            "Kana": "まっかりむら（あぶたぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.80344893,42.76270992"
+            }
+          },
+          {
+            "AreaCode": "01331",
+            "Name": "松前町（松前郡）",
+            "Kana": "まつまえちょう（まつまえぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.11000679,41.43002461"
+            }
+          },
+          {
+            "AreaCode": "01222",
+            "Name": "三笠市",
+            "Kana": "みかさし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.87532742,43.24543546"
+            }
+          },
+          {
+            "AreaCode": "01462",
+            "Name": "南富良野町（空知郡）",
+            "Kana": "みなみふらのちょう（そらちぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "142.56858727,43.16415972"
+            }
+          },
+          {
+            "AreaCode": "01586",
+            "Name": "むかわ町（勇払郡）",
+            "Kana": "むかわちょう（ゆうふつぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.92674759,42.57479226"
+            }
+          },
+          {
+            "AreaCode": "01205",
+            "Name": "室蘭市",
+            "Kana": "むろらんし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.97379895,42.31523021"
+            }
+          },
+          {
+            "AreaCode": "01637",
+            "Name": "芽室町（河西郡）",
+            "Kana": "めむろちょう（かさいぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "143.05086501,42.91186196"
+            }
+          },
+          {
+            "AreaCode": "01433",
+            "Name": "妹背牛町（雨竜郡）",
+            "Kana": "もせうしちょう（うりゅうぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.96166600,43.70024252"
+            }
+          },
+          {
+            "AreaCode": "01345",
+            "Name": "森町（茅部郡）",
+            "Kana": "もりまち（かやべぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.57642026,42.10497780"
+            }
+          },
+          {
+            "AreaCode": "01219",
+            "Name": "紋別市",
+            "Kana": "もんべつし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "143.35409458,44.35658365"
+            }
+          },
+          {
+            "AreaCode": "01346",
+            "Name": "八雲町（二海郡）",
+            "Kana": "やくもちょう（ふたみぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.26527555,42.25599568"
+            }
+          },
+          {
+            "AreaCode": "01209",
+            "Name": "夕張市",
+            "Kana": "ゆうばりし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.97389610,43.05673375"
+            }
+          },
+          {
+            "AreaCode": "01559",
+            "Name": "湧別町（紋別郡）",
+            "Kana": "ゆうべつちょう（もんべつぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "143.57289089,44.15160357"
+            }
+          },
+          {
+            "AreaCode": "01427",
+            "Name": "由仁町（夕張郡）",
+            "Kana": "ゆにちょう（ゆうばりぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.79033705,42.99960718"
+            }
+          },
+          {
+            "AreaCode": "01408",
+            "Name": "余市町（余市郡）",
+            "Kana": "よいちちょう（よいちぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.78346944,43.19523178"
+            }
+          },
+          {
+            "AreaCode": "01694",
+            "Name": "羅臼町（目梨郡）",
+            "Kana": "らうすちょう（めなしぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "145.18962204,44.02187780"
+            }
+          },
+          {
+            "AreaCode": "01394",
+            "Name": "蘭越町（磯谷郡）",
+            "Kana": "らんこしちょう（いそやぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.52831170,42.80907511"
+            }
+          },
+          {
+            "AreaCode": "01648",
+            "Name": "陸別町（足寄郡）",
+            "Kana": "りくべつちょう（あしょろぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "143.74724562,43.46898002"
+            }
+          },
+          {
+            "AreaCode": "01518",
+            "Name": "利尻町（利尻郡）",
+            "Kana": "りしりちょう（りしりぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.13948803,45.18692900"
+            }
+          },
+          {
+            "AreaCode": "01519",
+            "Name": "利尻富士町（利尻郡）",
+            "Kana": "りしりふじちょう（りしりぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.21434291,45.24773368"
+            }
+          },
+          {
+            "AreaCode": "01397",
+            "Name": "留寿都村（虻田郡）",
+            "Kana": "るすつむら（あぶたぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.87524947,42.73730700"
+            }
+          },
+          {
+            "AreaCode": "01698",
+            "Name": "留別村（択捉郡）",
+            "Kana": "るべつむら（えとろふぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "147.702093,45.093862"
+            }
+          },
+          {
+            "AreaCode": "01212",
+            "Name": "留萌市",
+            "Kana": "るもいし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.63721163,43.94107756"
+            }
+          },
+          {
+            "AreaCode": "01697",
+            "Name": "留夜別村（国後郡）",
+            "Kana": "るやべつむら（くなしりぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "146.176966,44.269943"
+            }
+          },
+          {
+            "AreaCode": "01517",
+            "Name": "礼文町（礼文郡）",
+            "Kana": "れぶんちょう（れぶんぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.04779958,45.30320219"
+            }
+          },
+          {
+            "AreaCode": "01214",
+            "Name": "稚内市",
+            "Kana": "わっかないし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.67309556,45.41568041"
+            }
+          },
+          {
+            "AreaCode": "01464",
+            "Name": "和寒町（上川郡）",
+            "Kana": "わっさむちょう（かみかわぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "142.41309468,44.02322358"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

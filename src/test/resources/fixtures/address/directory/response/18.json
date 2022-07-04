@@ -1,0 +1,185 @@
+{
+  "ResultInfo": {
+    "Count": 17,
+    "Total": 17,
+    "Start": 1,
+    "Status": 200,
+    "Description": "",
+    "Copyright": "",
+    "Latency": 0.007
+  },
+  "Feature": [
+    {
+      "Name": "福井県",
+      "Geometry": {
+        "Type": "point",
+        "Coordinates": "136.22175743,36.06523592",
+        "BoundingBox": "135.4493130,35.3437040 136.8324610,36.2956860"
+      },
+      "Property": {
+        "CassetteId": "b22fee69b0dcaf2c2fe2d6a27906dafc",
+        "Country": {
+          "Code": "JP",
+          "Name": "日本"
+        },
+        "Address": "福井県",
+        "GovernmentCode": "18",
+        "AddressDirectory": [
+          {
+            "AreaCode": "18208",
+            "Name": "あわら市",
+            "Kana": "あわらし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.22902777,36.21134401"
+            }
+          },
+          {
+            "AreaCode": "18382",
+            "Name": "池田町（今立郡）",
+            "Kana": "いけだちょう（いまだてぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.34400118,35.89054958"
+            }
+          },
+          {
+            "AreaCode": "18322",
+            "Name": "永平寺町（吉田郡）",
+            "Kana": "えいへいじちょう（よしだぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.29876692,36.09222813"
+            }
+          },
+          {
+            "AreaCode": "18209",
+            "Name": "越前市",
+            "Kana": "えちぜんし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.16880473,35.90349560"
+            }
+          },
+          {
+            "AreaCode": "18423",
+            "Name": "越前町（丹生郡）",
+            "Kana": "えちぜんちょう（にゅうぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.12974518,35.97420185"
+            }
+          },
+          {
+            "AreaCode": "18483",
+            "Name": "おおい町（大飯郡）",
+            "Kana": "おおいちょう（おおいぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.61776222,35.48115123"
+            }
+          },
+          {
+            "AreaCode": "18205",
+            "Name": "大野市",
+            "Kana": "おおのし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.48756566,35.97981568"
+            }
+          },
+          {
+            "AreaCode": "18204",
+            "Name": "小浜市",
+            "Kana": "おばまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.74661916,35.49558158"
+            }
+          },
+          {
+            "AreaCode": "18206",
+            "Name": "勝山市",
+            "Kana": "かつやまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.50058403,36.06094459"
+            }
+          },
+          {
+            "AreaCode": "18210",
+            "Name": "坂井市",
+            "Kana": "さかいし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.23146549,36.16692702"
+            }
+          },
+          {
+            "AreaCode": "18207",
+            "Name": "鯖江市",
+            "Kana": "さばえし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.18447332,35.95655244"
+            }
+          },
+          {
+            "AreaCode": "18481",
+            "Name": "高浜町（大飯郡）",
+            "Kana": "たかはまちょう（おおいぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.54585713,35.48797763"
+            }
+          },
+          {
+            "AreaCode": "18202",
+            "Name": "敦賀市",
+            "Kana": "つるがし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.05544345,35.64524683"
+            }
+          },
+          {
+            "AreaCode": "18201",
+            "Name": "福井市",
+            "Kana": "ふくいし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.21959654,36.06436652"
+            }
+          },
+          {
+            "AreaCode": "18404",
+            "Name": "南越前町（南条郡）",
+            "Kana": "みなみえちぜんちょう（なんじょうぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "136.19447075,35.83517720"
+            }
+          },
+          {
+            "AreaCode": "18442",
+            "Name": "美浜町（三方郡）",
+            "Kana": "みはまちょう（みかたぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.94052874,35.60054029"
+            }
+          },
+          {
+            "AreaCode": "18501",
+            "Name": "若狭町（三方上中郡）",
+            "Kana": "わかさちょう（みかたかみなかぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.90810621,35.54898246"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

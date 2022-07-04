@@ -1,0 +1,680 @@
+{
+  "ResultInfo": {
+    "Count": 72,
+    "Total": 72,
+    "Start": 1,
+    "Status": 200,
+    "Description": "",
+    "Copyright": "",
+    "Latency": 0.015
+  },
+  "Feature": [
+    {
+      "Name": "埼玉県",
+      "Geometry": {
+        "Type": "point",
+        "Coordinates": "139.64888434,35.85695417",
+        "BoundingBox": "138.7113060,35.7535350 139.9001660,36.2834160"
+      },
+      "Property": {
+        "CassetteId": "b22fee69b0dcaf2c2fe2d6a27906dafc",
+        "Country": {
+          "Code": "JP",
+          "Name": "日本"
+        },
+        "Address": "埼玉県",
+        "GovernmentCode": "11",
+        "AddressDirectory": [
+          {
+            "AreaCode": "11219",
+            "Name": "上尾市",
+            "Kana": "あげおし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.59319138,35.97738465"
+            }
+          },
+          {
+            "AreaCode": "11227",
+            "Name": "朝霞市",
+            "Kana": "あさかし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.59360227,35.79752438"
+            }
+          },
+          {
+            "AreaCode": "11301",
+            "Name": "伊奈町（北足立郡）",
+            "Kana": "いなまち（きたあだちぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.62418829,36.00011158"
+            }
+          },
+          {
+            "AreaCode": "11225",
+            "Name": "入間市",
+            "Kana": "いるまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.39112356,35.83594302"
+            }
+          },
+          {
+            "AreaCode": "11365",
+            "Name": "小鹿野町（秩父郡）",
+            "Kana": "おがのまち（ちちぶぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.00858716,36.01714538"
+            }
+          },
+          {
+            "AreaCode": "11343",
+            "Name": "小川町（比企郡）",
+            "Kana": "おがわまち（ひきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.26183655,36.05665023"
+            }
+          },
+          {
+            "AreaCode": "11231",
+            "Name": "桶川市",
+            "Kana": "おけがわし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.55840991,36.00281032"
+            }
+          },
+          {
+            "AreaCode": "11327",
+            "Name": "越生町（入間郡）",
+            "Kana": "おごせまち（いるまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.29407370,35.96457984"
+            }
+          },
+          {
+            "AreaCode": "11214",
+            "Name": "春日部市",
+            "Kana": "かすかべし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.75230348,35.97520095"
+            }
+          },
+          {
+            "AreaCode": "11210",
+            "Name": "加須市",
+            "Kana": "かぞし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.60172208,36.13143746"
+            }
+          },
+          {
+            "AreaCode": "11383",
+            "Name": "神川町（児玉郡）",
+            "Kana": "かみかわまち（こだまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.10176694,36.21389804"
+            }
+          },
+          {
+            "AreaCode": "11385",
+            "Name": "上里町（児玉郡）",
+            "Kana": "かみさとまち（こだまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.14482589,36.25148731"
+            }
+          },
+          {
+            "AreaCode": "11203",
+            "Name": "川口市",
+            "Kana": "かわぐちし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.72337408,35.80672850"
+            }
+          },
+          {
+            "AreaCode": "11201",
+            "Name": "川越市",
+            "Kana": "かわごえし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.48579257,35.92510329"
+            }
+          },
+          {
+            "AreaCode": "11346",
+            "Name": "川島町（比企郡）",
+            "Kana": "かわじままち（ひきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.48434730,35.99249261"
+            }
+          },
+          {
+            "AreaCode": "11233",
+            "Name": "北本市",
+            "Kana": "きたもとし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.53026378,36.02695057"
+            }
+          },
+          {
+            "AreaCode": "11206",
+            "Name": "行田市",
+            "Kana": "ぎょうだし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.45573435,36.13889564"
+            }
+          },
+          {
+            "AreaCode": "11232",
+            "Name": "久喜市",
+            "Kana": "くきし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.66660706,36.06211679"
+            }
+          },
+          {
+            "AreaCode": "11202",
+            "Name": "熊谷市",
+            "Kana": "くまがやし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.38864328,36.14731193"
+            }
+          },
+          {
+            "AreaCode": "11217",
+            "Name": "鴻巣市",
+            "Kana": "こうのすし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.52223009,36.06607196"
+            }
+          },
+          {
+            "AreaCode": "11222",
+            "Name": "越谷市",
+            "Kana": "こしがやし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.79099002,35.89071683"
+            }
+          },
+          {
+            "AreaCode": "11110",
+            "Name": "さいたま市岩槻区",
+            "Kana": "さいたましいわつきく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.69419358,35.94986058"
+            }
+          },
+          {
+            "AreaCode": "11107",
+            "Name": "さいたま市浦和区",
+            "Kana": "さいたましうらわく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.64550114,35.86165072"
+            }
+          },
+          {
+            "AreaCode": "11103",
+            "Name": "さいたま市大宮区",
+            "Kana": "さいたましおおみやく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.63057903,35.90184281"
+            }
+          },
+          {
+            "AreaCode": "11102",
+            "Name": "さいたま市北区",
+            "Kana": "さいたましきたく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.62039314,35.93154049"
+            }
+          },
+          {
+            "AreaCode": "11106",
+            "Name": "さいたま市桜区",
+            "Kana": "さいたましさくらく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.61034330,35.85617559"
+            }
+          },
+          {
+            "AreaCode": "11105",
+            "Name": "さいたま市中央区",
+            "Kana": "さいたましちゅうおうく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.62619925,35.88395601"
+            }
+          },
+          {
+            "AreaCode": "11101",
+            "Name": "さいたま市西区",
+            "Kana": "さいたましにしく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.57956328,35.92519901"
+            }
+          },
+          {
+            "AreaCode": "11109",
+            "Name": "さいたま市緑区",
+            "Kana": "さいたましみどりく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.68402239,35.87103355"
+            }
+          },
+          {
+            "AreaCode": "11108",
+            "Name": "さいたま市南区",
+            "Kana": "さいたましみなみく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.64535180,35.84525544"
+            }
+          },
+          {
+            "AreaCode": "11104",
+            "Name": "さいたま市見沼区",
+            "Kana": "さいたましみぬまく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.65436802,35.93522773"
+            }
+          },
+          {
+            "AreaCode": "11239",
+            "Name": "坂戸市",
+            "Kana": "さかどし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.40290594,35.95716894"
+            }
+          },
+          {
+            "AreaCode": "11240",
+            "Name": "幸手市",
+            "Kana": "さってし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.72586034,36.07807454"
+            }
+          },
+          {
+            "AreaCode": "11215",
+            "Name": "狭山市",
+            "Kana": "さやまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.41221293,35.85294128"
+            }
+          },
+          {
+            "AreaCode": "11228",
+            "Name": "志木市",
+            "Kana": "しきし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.57411146,35.82332093"
+            }
+          },
+          {
+            "AreaCode": "11246",
+            "Name": "白岡市",
+            "Kana": "しらおかし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.67692476,36.01902794"
+            }
+          },
+          {
+            "AreaCode": "11464",
+            "Name": "杉戸町（北葛飾郡）",
+            "Kana": "すぎとまち（きたかつしかぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.73670861,36.02576697"
+            }
+          },
+          {
+            "AreaCode": "11221",
+            "Name": "草加市",
+            "Kana": "そうかし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.80512124,35.82557410"
+            }
+          },
+          {
+            "AreaCode": "11207",
+            "Name": "秩父市",
+            "Kana": "ちちぶし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.08544369,35.99168796"
+            }
+          },
+          {
+            "AreaCode": "11241",
+            "Name": "鶴ヶ島市",
+            "Kana": "つるがしまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.39309752,35.93451741"
+            }
+          },
+          {
+            "AreaCode": "11349",
+            "Name": "ときがわ町（比企郡）",
+            "Kana": "ときがわまち（ひきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.29682964,36.00861411"
+            }
+          },
+          {
+            "AreaCode": "11208",
+            "Name": "所沢市",
+            "Kana": "ところざわし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.46872084,35.79947700"
+            }
+          },
+          {
+            "AreaCode": "11224",
+            "Name": "戸田市",
+            "Kana": "とだし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.67789158,35.81761494"
+            }
+          },
+          {
+            "AreaCode": "11363",
+            "Name": "長瀞町（秩父郡）",
+            "Kana": "ながとろまち（ちちぶぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.10991388,36.11477201"
+            }
+          },
+          {
+            "AreaCode": "11341",
+            "Name": "滑川町（比企郡）",
+            "Kana": "なめがわまち（ひきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.36091613,36.06602229"
+            }
+          },
+          {
+            "AreaCode": "11230",
+            "Name": "新座市",
+            "Kana": "にいざし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.56537174,35.79311046"
+            }
+          },
+          {
+            "AreaCode": "11238",
+            "Name": "蓮田市",
+            "Kana": "はすだし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.66210508,35.99430658"
+            }
+          },
+          {
+            "AreaCode": "11348",
+            "Name": "鳩山町（比企郡）",
+            "Kana": "はとやままち（ひきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.33408917,35.98146786"
+            }
+          },
+          {
+            "AreaCode": "11216",
+            "Name": "羽生市",
+            "Kana": "はにゅうし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.54846422,36.17262856"
+            }
+          },
+          {
+            "AreaCode": "11209",
+            "Name": "飯能市",
+            "Kana": "はんのうし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.32777537,35.85568328"
+            }
+          },
+          {
+            "AreaCode": "11369",
+            "Name": "東秩父村（秩父郡）",
+            "Kana": "ひがしちちぶむら（ちちぶぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.19457007,36.05807258"
+            }
+          },
+          {
+            "AreaCode": "11212",
+            "Name": "東松山市",
+            "Kana": "ひがしまつやまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.39995836,36.04212908"
+            }
+          },
+          {
+            "AreaCode": "11242",
+            "Name": "日高市",
+            "Kana": "ひだかし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.33904343,35.90777033"
+            }
+          },
+          {
+            "AreaCode": "11218",
+            "Name": "深谷市",
+            "Kana": "ふかやし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.28182430,36.19703504"
+            }
+          },
+          {
+            "AreaCode": "11235",
+            "Name": "富士見市",
+            "Kana": "ふじみし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.54923999,35.85664400"
+            }
+          },
+          {
+            "AreaCode": "11245",
+            "Name": "ふじみ野市",
+            "Kana": "ふじみのし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.51976889,35.87955711"
+            }
+          },
+          {
+            "AreaCode": "11211",
+            "Name": "本庄市",
+            "Kana": "ほんじょうし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.19039253,36.24356785"
+            }
+          },
+          {
+            "AreaCode": "11465",
+            "Name": "松伏町（北葛飾郡）",
+            "Kana": "まつぶしまち（きたかつしかぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.81528051,35.92570339"
+            }
+          },
+          {
+            "AreaCode": "11237",
+            "Name": "三郷市",
+            "Kana": "みさとし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.87227732,35.83014856"
+            }
+          },
+          {
+            "AreaCode": "11381",
+            "Name": "美里町（児玉郡）",
+            "Kana": "みさとまち（こだまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.18145643,36.17718173"
+            }
+          },
+          {
+            "AreaCode": "11362",
+            "Name": "皆野町（秩父郡）",
+            "Kana": "みなのまち（ちちぶぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.09874253,36.07084775"
+            }
+          },
+          {
+            "AreaCode": "11442",
+            "Name": "宮代町（南埼玉郡）",
+            "Kana": "みやしろまち（みなみさいたまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.72298175,36.02265043"
+            }
+          },
+          {
+            "AreaCode": "11324",
+            "Name": "三芳町（入間郡）",
+            "Kana": "みよしまち（いるまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.52643199,35.82836915"
+            }
+          },
+          {
+            "AreaCode": "11326",
+            "Name": "毛呂山町（入間郡）",
+            "Kana": "もろやままち（いるまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.31599520,35.94155238"
+            }
+          },
+          {
+            "AreaCode": "11234",
+            "Name": "八潮市",
+            "Kana": "やしおし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.83912716,35.82259685"
+            }
+          },
+          {
+            "AreaCode": "11361",
+            "Name": "横瀬町（秩父郡）",
+            "Kana": "よこぜまち（ちちぶぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.10005616,35.98730796"
+            }
+          },
+          {
+            "AreaCode": "11243",
+            "Name": "吉川市",
+            "Kana": "よしかわし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.85551774,35.89579564"
+            }
+          },
+          {
+            "AreaCode": "11347",
+            "Name": "吉見町（比企郡）",
+            "Kana": "よしみまち（ひきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.45375248,36.03985557"
+            }
+          },
+          {
+            "AreaCode": "11408",
+            "Name": "寄居町（大里郡）",
+            "Kana": "よりいまち（おおさとぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.19302203,36.11840369"
+            }
+          },
+          {
+            "AreaCode": "11342",
+            "Name": "嵐山町（比企郡）",
+            "Kana": "らんざんまち（ひきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.32052290,36.05664016"
+            }
+          },
+          {
+            "AreaCode": "11229",
+            "Name": "和光市",
+            "Kana": "わこうし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.60582363,35.78118530"
+            }
+          },
+          {
+            "AreaCode": "11223",
+            "Name": "蕨市",
+            "Kana": "わらびし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.68179932,35.82576115"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,302 @@
+{
+  "ResultInfo": {
+    "Count": 30,
+    "Total": 30,
+    "Start": 1,
+    "Status": 200,
+    "Description": "",
+    "Copyright": "",
+    "Latency": 0.01
+  },
+  "Feature": [
+    {
+      "Name": "広島県",
+      "Geometry": {
+        "Type": "point",
+        "Coordinates": "132.45941921,34.39617641",
+        "BoundingBox": "132.0365050,34.0276460 133.4706590,35.1056620"
+      },
+      "Property": {
+        "CassetteId": "b22fee69b0dcaf2c2fe2d6a27906dafc",
+        "Country": {
+          "Code": "JP",
+          "Name": "日本"
+        },
+        "Address": "広島県",
+        "GovernmentCode": "34",
+        "AddressDirectory": [
+          {
+            "AreaCode": "34368",
+            "Name": "安芸太田町（山県郡）",
+            "Kana": "あきおおたちょう（やまがたぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.22691842,34.57662510"
+            }
+          },
+          {
+            "AreaCode": "34214",
+            "Name": "安芸高田市",
+            "Kana": "あきたかたし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.70399319,34.66607918"
+            }
+          },
+          {
+            "AreaCode": "34215",
+            "Name": "江田島市",
+            "Kana": "えたじまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.46219299,34.17493280"
+            }
+          },
+          {
+            "AreaCode": "34431",
+            "Name": "大崎上島町（豊田郡）",
+            "Kana": "おおさきかみじまちょう（とよたぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.91499679,34.26969016"
+            }
+          },
+          {
+            "AreaCode": "34211",
+            "Name": "大竹市",
+            "Kana": "おおたけし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.22234475,34.23794315"
+            }
+          },
+          {
+            "AreaCode": "34205",
+            "Name": "尾道市",
+            "Kana": "おのみちし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.20563820,34.40917846"
+            }
+          },
+          {
+            "AreaCode": "34304",
+            "Name": "海田町（安芸郡）",
+            "Kana": "かいたちょう（あきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.53607989,34.37216372"
+            }
+          },
+          {
+            "AreaCode": "34369",
+            "Name": "北広島町（山県郡）",
+            "Kana": "きたひろしまちょう（やまがたぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.53843003,34.67454390"
+            }
+          },
+          {
+            "AreaCode": "34307",
+            "Name": "熊野町（安芸郡）",
+            "Kana": "くまのちょう（あきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.58475634,34.33600290"
+            }
+          },
+          {
+            "AreaCode": "34202",
+            "Name": "呉市",
+            "Kana": "くれし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.56544001,34.24864833"
+            }
+          },
+          {
+            "AreaCode": "34309",
+            "Name": "坂町（安芸郡）",
+            "Kana": "さかちょう（あきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.51369180,34.34124242"
+            }
+          },
+          {
+            "AreaCode": "34210",
+            "Name": "庄原市",
+            "Kana": "しょうばらし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.01729663,34.85772009"
+            }
+          },
+          {
+            "AreaCode": "34545",
+            "Name": "神石高原町（神石郡）",
+            "Kana": "じんせきこうげんちょう（じんせきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.25144643,34.70363860"
+            }
+          },
+          {
+            "AreaCode": "34462",
+            "Name": "世羅町（世羅郡）",
+            "Kana": "せらちょう（せらぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.05660417,34.58672774"
+            }
+          },
+          {
+            "AreaCode": "34203",
+            "Name": "竹原市",
+            "Kana": "たけはらし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.90708856,34.34179378"
+            }
+          },
+          {
+            "AreaCode": "34213",
+            "Name": "廿日市市",
+            "Kana": "はつかいちし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.33162165,34.34826024"
+            }
+          },
+          {
+            "AreaCode": "34212",
+            "Name": "東広島市",
+            "Kana": "ひがしひろしまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.74330915,34.42638018"
+            }
+          },
+          {
+            "AreaCode": "34107",
+            "Name": "広島市安芸区",
+            "Kana": "ひろしましあきく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.52553370,34.37158594"
+            }
+          },
+          {
+            "AreaCode": "34106",
+            "Name": "広島市安佐北区",
+            "Kana": "ひろしましあさきたく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.50778028,34.51847586"
+            }
+          },
+          {
+            "AreaCode": "34105",
+            "Name": "広島市安佐南区",
+            "Kana": "ひろしましあさみなみく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.47162951,34.45184373"
+            }
+          },
+          {
+            "AreaCode": "34108",
+            "Name": "広島市佐伯区",
+            "Kana": "ひろしましさえきく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.36083877,34.36444530"
+            }
+          },
+          {
+            "AreaCode": "34101",
+            "Name": "広島市中区",
+            "Kana": "ひろしましなかく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.45501978,34.38624681"
+            }
+          },
+          {
+            "AreaCode": "34104",
+            "Name": "広島市西区",
+            "Kana": "ひろしましにしく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.43442060,34.39397374"
+            }
+          },
+          {
+            "AreaCode": "34102",
+            "Name": "広島市東区",
+            "Kana": "ひろしましひがしく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.48263132,34.39520494"
+            }
+          },
+          {
+            "AreaCode": "34103",
+            "Name": "広島市南区",
+            "Kana": "ひろしましみなみく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.46901067,34.38000344"
+            }
+          },
+          {
+            "AreaCode": "34207",
+            "Name": "福山市",
+            "Kana": "ふくやまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.36231533,34.48590165"
+            }
+          },
+          {
+            "AreaCode": "34208",
+            "Name": "府中市",
+            "Kana": "ふちゅうし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.23647048,34.56830955"
+            }
+          },
+          {
+            "AreaCode": "34302",
+            "Name": "府中町（安芸郡）",
+            "Kana": "ふちゅうちょう（あきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.50456562,34.39247242"
+            }
+          },
+          {
+            "AreaCode": "34204",
+            "Name": "三原市",
+            "Kana": "みはらし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "133.07795705,34.39775210"
+            }
+          },
+          {
+            "AreaCode": "34209",
+            "Name": "三次市",
+            "Kana": "みよしし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.85184031,34.80565071"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

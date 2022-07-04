@@ -1,0 +1,203 @@
+{
+  "ResultInfo": {
+    "Count": 19,
+    "Total": 19,
+    "Start": 1,
+    "Status": 200,
+    "Description": "",
+    "Copyright": "",
+    "Latency": 0.01
+  },
+  "Feature": [
+    {
+      "Name": "山口県",
+      "Geometry": {
+        "Type": "point",
+        "Coordinates": "131.47065706,34.18598918",
+        "BoundingBox": "130.7747860,33.7126290 132.4921660,34.7994350"
+      },
+      "Property": {
+        "CassetteId": "b22fee69b0dcaf2c2fe2d6a27906dafc",
+        "Country": {
+          "Code": "JP",
+          "Name": "日本"
+        },
+        "Address": "山口県",
+        "GovernmentCode": "35",
+        "AddressDirectory": [
+          {
+            "AreaCode": "35502",
+            "Name": "阿武町（阿武郡）",
+            "Kana": "あぶちょう（あぶぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.47113776,34.50356767"
+            }
+          },
+          {
+            "AreaCode": "35208",
+            "Name": "岩国市",
+            "Kana": "いわくにし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.21883361,34.16656954"
+            }
+          },
+          {
+            "AreaCode": "35202",
+            "Name": "宇部市",
+            "Kana": "うべし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.24678805,33.95151125"
+            }
+          },
+          {
+            "AreaCode": "35341",
+            "Name": "上関町（熊毛郡）",
+            "Kana": "かみのせきちょう（くまげぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.11063098,33.83104233"
+            }
+          },
+          {
+            "AreaCode": "35207",
+            "Name": "下松市",
+            "Kana": "くだまつし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.87035846,34.01500168"
+            }
+          },
+          {
+            "AreaCode": "35216",
+            "Name": "山陽小野田市",
+            "Kana": "さんようおのだし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.18195268,34.00308540"
+            }
+          },
+          {
+            "AreaCode": "35201",
+            "Name": "下関市",
+            "Kana": "しものせきし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.94098991,33.95733843"
+            }
+          },
+          {
+            "AreaCode": "35215",
+            "Name": "周南市",
+            "Kana": "しゅうなんし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.80655751,34.05571006"
+            }
+          },
+          {
+            "AreaCode": "35305",
+            "Name": "周防大島町（大島郡）",
+            "Kana": "すおうおおしまちょう（おおしまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.19528952,33.92757219"
+            }
+          },
+          {
+            "AreaCode": "35343",
+            "Name": "田布施町（熊毛郡）",
+            "Kana": "たぶせちょう（くまげぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.04135374,33.95446345"
+            }
+          },
+          {
+            "AreaCode": "35211",
+            "Name": "長門市",
+            "Kana": "ながとし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.18252445,34.37052854"
+            }
+          },
+          {
+            "AreaCode": "35204",
+            "Name": "萩市",
+            "Kana": "はぎし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.39905153,34.40807925"
+            }
+          },
+          {
+            "AreaCode": "35210",
+            "Name": "光市",
+            "Kana": "ひかりし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.94218477,33.96195179"
+            }
+          },
+          {
+            "AreaCode": "35344",
+            "Name": "平生町（熊毛郡）",
+            "Kana": "ひらおちょう（くまげぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.07305460,33.93780730"
+            }
+          },
+          {
+            "AreaCode": "35206",
+            "Name": "防府市",
+            "Kana": "ほうふし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.56268418,34.05173949"
+            }
+          },
+          {
+            "AreaCode": "35213",
+            "Name": "美祢市",
+            "Kana": "みねし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.20567812,34.16663774"
+            }
+          },
+          {
+            "AreaCode": "35212",
+            "Name": "柳井市",
+            "Kana": "やないし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.10161060,33.96383059"
+            }
+          },
+          {
+            "AreaCode": "35203",
+            "Name": "山口市",
+            "Kana": "やまぐちし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.47375696,34.17830663"
+            }
+          },
+          {
+            "AreaCode": "35321",
+            "Name": "和木町（玖珂郡）",
+            "Kana": "わきちょう（くがぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "132.22041033,34.20240200"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

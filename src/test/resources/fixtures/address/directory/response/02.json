@@ -1,0 +1,392 @@
+{
+  "ResultInfo": {
+    "Count": 40,
+    "Total": 40,
+    "Start": 1,
+    "Status": 200,
+    "Description": "",
+    "Copyright": "",
+    "Latency": 0.009
+  },
+  "Feature": [
+    {
+      "Name": "青森県",
+      "Geometry": {
+        "Type": "point",
+        "Coordinates": "140.74007895,40.82429306",
+        "BoundingBox": "139.4969470,40.2176690 141.6832220,41.5561870"
+      },
+      "Property": {
+        "CassetteId": "b22fee69b0dcaf2c2fe2d6a27906dafc",
+        "Country": {
+          "Code": "JP",
+          "Name": "日本"
+        },
+        "Address": "青森県",
+        "GovernmentCode": "02",
+        "AddressDirectory": [
+          {
+            "AreaCode": "02201",
+            "Name": "青森市",
+            "Kana": "あおもりし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.74727308,40.82253782"
+            }
+          },
+          {
+            "AreaCode": "02321",
+            "Name": "鰺ヶ沢町（西津軽郡）",
+            "Kana": "あじがさわまち（にしつがるぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.23385986,40.78301000"
+            }
+          },
+          {
+            "AreaCode": "02381",
+            "Name": "板柳町（北津軽郡）",
+            "Kana": "いたやなぎまち（きたつがるぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.45732379,40.69589619"
+            }
+          },
+          {
+            "AreaCode": "02367",
+            "Name": "田舎館村（南津軽郡）",
+            "Kana": "いなかだてむら（みなみつがるぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.55011583,40.63120698"
+            }
+          },
+          {
+            "AreaCode": "02303",
+            "Name": "今別町（東津軽郡）",
+            "Kana": "いまべつまち（ひがしつがるぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.48165407,41.18175701"
+            }
+          },
+          {
+            "AreaCode": "02412",
+            "Name": "おいらせ町（上北郡）",
+            "Kana": "おいらせちょう（かみきたぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.39777400,40.59912313"
+            }
+          },
+          {
+            "AreaCode": "02423",
+            "Name": "大間町（下北郡）",
+            "Kana": "おおままち（しもきたぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.90484448,41.52239560"
+            }
+          },
+          {
+            "AreaCode": "02362",
+            "Name": "大鰐町（南津軽郡）",
+            "Kana": "おおわにまち（みなみつがるぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.56797698,40.51823703"
+            }
+          },
+          {
+            "AreaCode": "02425",
+            "Name": "風間浦村（下北郡）",
+            "Kana": "かざまうらむら（しもきたぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.99533755,41.48755203"
+            }
+          },
+          {
+            "AreaCode": "02204",
+            "Name": "黒石市",
+            "Kana": "くろいしし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.59464788,40.64263448"
+            }
+          },
+          {
+            "AreaCode": "02205",
+            "Name": "五所川原市",
+            "Kana": "ごしょがわらし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.44606962,40.80775724"
+            }
+          },
+          {
+            "AreaCode": "02442",
+            "Name": "五戸町（三戸郡）",
+            "Kana": "ごのへまち（さんのへぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.30792306,40.53149361"
+            }
+          },
+          {
+            "AreaCode": "02426",
+            "Name": "佐井村（下北郡）",
+            "Kana": "さいむら（しもきたぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.85929803,41.42959709"
+            }
+          },
+          {
+            "AreaCode": "02441",
+            "Name": "三戸町（三戸郡）",
+            "Kana": "さんのへまち（さんのへぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.25872242,40.37813378"
+            }
+          },
+          {
+            "AreaCode": "02402",
+            "Name": "七戸町（上北郡）",
+            "Kana": "しちのへまち（かみきたぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.15754871,40.74472722"
+            }
+          },
+          {
+            "AreaCode": "02450",
+            "Name": "新郷村（三戸郡）",
+            "Kana": "しんごうむら（さんのへぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.17368820,40.46590634"
+            }
+          },
+          {
+            "AreaCode": "02307",
+            "Name": "外ヶ浜町（東津軽郡）",
+            "Kana": "そとがはままち（ひがしつがるぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.63178716,41.04316727"
+            }
+          },
+          {
+            "AreaCode": "02443",
+            "Name": "田子町（三戸郡）",
+            "Kana": "たっこまち（さんのへぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.15205271,40.33996064"
+            }
+          },
+          {
+            "AreaCode": "02209",
+            "Name": "つがる市",
+            "Kana": "つがるし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.37995890,40.80863055"
+            }
+          },
+          {
+            "AreaCode": "02384",
+            "Name": "鶴田町（北津軽郡）",
+            "Kana": "つるたまち（きたつがるぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.42838459,40.75860369"
+            }
+          },
+          {
+            "AreaCode": "02408",
+            "Name": "東北町（上北郡）",
+            "Kana": "とうほくまち（かみきたぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.25763211,40.72805906"
+            }
+          },
+          {
+            "AreaCode": "02206",
+            "Name": "十和田市",
+            "Kana": "とわだし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.20533827,40.61242192"
+            }
+          },
+          {
+            "AreaCode": "02387",
+            "Name": "中泊町（北津軽郡）",
+            "Kana": "なかどまりまち（きたつがるぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.43430093,40.96043962"
+            }
+          },
+          {
+            "AreaCode": "02445",
+            "Name": "南部町（三戸郡）",
+            "Kana": "なんぶちょう（さんのへぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.33045150,40.42043033"
+            }
+          },
+          {
+            "AreaCode": "02343",
+            "Name": "西目屋村（中津軽郡）",
+            "Kana": "にしめやむら（なかつがるぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.29721265,40.57760786"
+            }
+          },
+          {
+            "AreaCode": "02401",
+            "Name": "野辺地町（上北郡）",
+            "Kana": "のへじまち（かみきたぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.12827447,40.86422192"
+            }
+          },
+          {
+            "AreaCode": "02446",
+            "Name": "階上町（三戸郡）",
+            "Kana": "はしかみちょう（さんのへぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.62085175,40.45248826"
+            }
+          },
+          {
+            "AreaCode": "02203",
+            "Name": "八戸市",
+            "Kana": "はちのへし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.48839832,40.51228347"
+            }
+          },
+          {
+            "AreaCode": "02424",
+            "Name": "東通村（下北郡）",
+            "Kana": "ひがしどおりむら（しもきたぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.32893308,41.27766729"
+            }
+          },
+          {
+            "AreaCode": "02210",
+            "Name": "平川市",
+            "Kana": "ひらかわし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.56648356,40.58410488"
+            }
+          },
+          {
+            "AreaCode": "02301",
+            "Name": "平内町（東津軽郡）",
+            "Kana": "ひらないまち（ひがしつがるぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.95591963,40.92603051"
+            }
+          },
+          {
+            "AreaCode": "02202",
+            "Name": "弘前市",
+            "Kana": "ひろさきし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.46392166,40.60312377"
+            }
+          },
+          {
+            "AreaCode": "02323",
+            "Name": "深浦町（西津軽郡）",
+            "Kana": "ふかうらまち（にしつがるぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.92737761,40.64789446"
+            }
+          },
+          {
+            "AreaCode": "02361",
+            "Name": "藤崎町（南津軽郡）",
+            "Kana": "ふじさきまち（みなみつがるぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.50280780,40.65605141"
+            }
+          },
+          {
+            "AreaCode": "02207",
+            "Name": "三沢市",
+            "Kana": "みさわし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.36897858,40.68313648"
+            }
+          },
+          {
+            "AreaCode": "02208",
+            "Name": "むつ市",
+            "Kana": "むつし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.18347811,41.29274811"
+            }
+          },
+          {
+            "AreaCode": "02406",
+            "Name": "横浜町（上北郡）",
+            "Kana": "よこはままち（かみきたぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.24795661,41.08327136"
+            }
+          },
+          {
+            "AreaCode": "02304",
+            "Name": "蓬田村（東津軽郡）",
+            "Kana": "よもぎたむら（ひがしつがるぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.65596565,40.97171647"
+            }
+          },
+          {
+            "AreaCode": "02405",
+            "Name": "六戸町（上北郡）",
+            "Kana": "ろくのへまち（かみきたぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.32490183,40.60962299"
+            }
+          },
+          {
+            "AreaCode": "02411",
+            "Name": "六ヶ所村（上北郡）",
+            "Kana": "ろっかしょむら（かみきたぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "141.37416889,40.96752685"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

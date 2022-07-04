@@ -1,0 +1,680 @@
+{
+  "ResultInfo": {
+    "Count": 72,
+    "Total": 72,
+    "Start": 1,
+    "Status": 200,
+    "Description": "",
+    "Copyright": "",
+    "Latency": 0.014
+  },
+  "Feature": [
+    {
+      "Name": "大阪府",
+      "Geometry": {
+        "Type": "point",
+        "Coordinates": "135.51964459,34.68620245",
+        "BoundingBox": "135.0920260,34.2718450 135.7466050,35.0513120"
+      },
+      "Property": {
+        "CassetteId": "b22fee69b0dcaf2c2fe2d6a27906dafc",
+        "Country": {
+          "Code": "JP",
+          "Name": "日本"
+        },
+        "Address": "大阪府",
+        "GovernmentCode": "27",
+        "AddressDirectory": [
+          {
+            "AreaCode": "27204",
+            "Name": "池田市",
+            "Kana": "いけだし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.42844386,34.82170450"
+            }
+          },
+          {
+            "AreaCode": "27206",
+            "Name": "泉大津市",
+            "Kana": "いずみおおつし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.41046375,34.50427926"
+            }
+          },
+          {
+            "AreaCode": "27213",
+            "Name": "泉佐野市",
+            "Kana": "いずみさのし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.32733795,34.40684720"
+            }
+          },
+          {
+            "AreaCode": "27219",
+            "Name": "和泉市",
+            "Kana": "いずみし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.42332675,34.48310141"
+            }
+          },
+          {
+            "AreaCode": "27211",
+            "Name": "茨木市",
+            "Kana": "いばらきし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.56850416,34.81633839"
+            }
+          },
+          {
+            "AreaCode": "27231",
+            "Name": "大阪狭山市",
+            "Kana": "おおさかさやまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.55569219,34.50379525"
+            }
+          },
+          {
+            "AreaCode": "27117",
+            "Name": "大阪市旭区",
+            "Kana": "おおさかしあさひく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.54421932,34.72117663"
+            }
+          },
+          {
+            "AreaCode": "27119",
+            "Name": "大阪市阿倍野区",
+            "Kana": "おおさかしあべのく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.51849821,34.63890204"
+            }
+          },
+          {
+            "AreaCode": "27116",
+            "Name": "大阪市生野区",
+            "Kana": "おおさかしいくのく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.53438530,34.65373662"
+            }
+          },
+          {
+            "AreaCode": "27127",
+            "Name": "大阪市北区",
+            "Kana": "おおさかしきたく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.51002813,34.70536386"
+            }
+          },
+          {
+            "AreaCode": "27104",
+            "Name": "大阪市此花区",
+            "Kana": "おおさかしこのはなく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.45232795,34.68305136"
+            }
+          },
+          {
+            "AreaCode": "27118",
+            "Name": "大阪市城東区",
+            "Kana": "おおさかしじょうとうく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.54480598,34.70320910"
+            }
+          },
+          {
+            "AreaCode": "27125",
+            "Name": "大阪市住之江区",
+            "Kana": "おおさかしすみのえく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.48274124,34.60949123"
+            }
+          },
+          {
+            "AreaCode": "27120",
+            "Name": "大阪市住吉区",
+            "Kana": "おおさかしすみよしく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.50060073,34.60367522"
+            }
+          },
+          {
+            "AreaCode": "27108",
+            "Name": "大阪市大正区",
+            "Kana": "おおさかしたいしょうく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.47269674,34.65035026"
+            }
+          },
+          {
+            "AreaCode": "27128",
+            "Name": "大阪市中央区",
+            "Kana": "おおさかしちゅうおうく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.50978711,34.68107502"
+            }
+          },
+          {
+            "AreaCode": "27124",
+            "Name": "大阪市鶴見区",
+            "Kana": "おおさかしつるみく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.57420039,34.70432895"
+            }
+          },
+          {
+            "AreaCode": "27109",
+            "Name": "大阪市天王寺区",
+            "Kana": "おおさかしてんのうじく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.51941722,34.65789437"
+            }
+          },
+          {
+            "AreaCode": "27111",
+            "Name": "大阪市浪速区",
+            "Kana": "おおさかしなにわく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.49961900,34.65936345"
+            }
+          },
+          {
+            "AreaCode": "27106",
+            "Name": "大阪市西区",
+            "Kana": "おおさかしにしく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.48596975,34.67610290"
+            }
+          },
+          {
+            "AreaCode": "27122",
+            "Name": "大阪市西成区",
+            "Kana": "おおさかしにしなりく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.49437288,34.63487178"
+            }
+          },
+          {
+            "AreaCode": "27113",
+            "Name": "大阪市西淀川区",
+            "Kana": "おおさかしにしよどがわく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.45621872,34.71135083"
+            }
+          },
+          {
+            "AreaCode": "27121",
+            "Name": "大阪市東住吉区",
+            "Kana": "おおさかしひがしすみよしく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.52656724,34.62204280"
+            }
+          },
+          {
+            "AreaCode": "27115",
+            "Name": "大阪市東成区",
+            "Kana": "おおさかしひがしなりく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.54128162,34.66993501"
+            }
+          },
+          {
+            "AreaCode": "27114",
+            "Name": "大阪市東淀川区",
+            "Kana": "おおさかしひがしよどがわく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.52942281,34.74121555"
+            }
+          },
+          {
+            "AreaCode": "27126",
+            "Name": "大阪市平野区",
+            "Kana": "おおさかしひらのく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.54605440,34.62118488"
+            }
+          },
+          {
+            "AreaCode": "27103",
+            "Name": "大阪市福島区",
+            "Kana": "おおさかしふくしまく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.47220092,34.69233676"
+            }
+          },
+          {
+            "AreaCode": "27107",
+            "Name": "大阪市港区",
+            "Kana": "おおさかしみなとく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.46068064,34.66382050"
+            }
+          },
+          {
+            "AreaCode": "27102",
+            "Name": "大阪市都島区",
+            "Kana": "おおさかしみやこじまく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.52780751,34.70132853"
+            }
+          },
+          {
+            "AreaCode": "27123",
+            "Name": "大阪市淀川区",
+            "Kana": "おおさかしよどがわく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.48668251,34.72102786"
+            }
+          },
+          {
+            "AreaCode": "27208",
+            "Name": "貝塚市",
+            "Kana": "かいづかし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.35851930,34.43758349"
+            }
+          },
+          {
+            "AreaCode": "27221",
+            "Name": "柏原市",
+            "Kana": "かしわらし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.62928694,34.57830765"
+            }
+          },
+          {
+            "AreaCode": "27230",
+            "Name": "交野市",
+            "Kana": "かたのし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.67995561,34.78794352"
+            }
+          },
+          {
+            "AreaCode": "27223",
+            "Name": "門真市",
+            "Kana": "かどまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.58689573,34.73915039"
+            }
+          },
+          {
+            "AreaCode": "27382",
+            "Name": "河南町（南河内郡）",
+            "Kana": "かなんちょう（みなみかわちぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.62974101,34.49162261"
+            }
+          },
+          {
+            "AreaCode": "27216",
+            "Name": "河内長野市",
+            "Kana": "かわちながのし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.56422539,34.45808676"
+            }
+          },
+          {
+            "AreaCode": "27202",
+            "Name": "岸和田市",
+            "Kana": "きしわだし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.37082882,34.46063367"
+            }
+          },
+          {
+            "AreaCode": "27361",
+            "Name": "熊取町（泉南郡）",
+            "Kana": "くまとりちょう（せんなんぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.35578704,34.40128491"
+            }
+          },
+          {
+            "AreaCode": "27146",
+            "Name": "堺市北区",
+            "Kana": "さかいしきたく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.51717511,34.56527411"
+            }
+          },
+          {
+            "AreaCode": "27141",
+            "Name": "堺市堺区",
+            "Kana": "さかいしさかいく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.48300856,34.57333380"
+            }
+          },
+          {
+            "AreaCode": "27142",
+            "Name": "堺市中区",
+            "Kana": "さかいしなかく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.49863038,34.52834440"
+            }
+          },
+          {
+            "AreaCode": "27144",
+            "Name": "堺市西区",
+            "Kana": "さかいしにしく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.46396116,34.53499886"
+            }
+          },
+          {
+            "AreaCode": "27143",
+            "Name": "堺市東区",
+            "Kana": "さかいしひがしく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.53648513,34.53819675"
+            }
+          },
+          {
+            "AreaCode": "27145",
+            "Name": "堺市南区",
+            "Kana": "さかいしみなみく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.49058716,34.48643808"
+            }
+          },
+          {
+            "AreaCode": "27147",
+            "Name": "堺市美原区",
+            "Kana": "さかいしみはらく",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.55985522,34.53853591"
+            }
+          },
+          {
+            "AreaCode": "27229",
+            "Name": "四條畷市",
+            "Kana": "しじょうなわてし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.63956578,34.74002331"
+            }
+          },
+          {
+            "AreaCode": "27301",
+            "Name": "島本町（三島郡）",
+            "Kana": "しまもとちょう（みしまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.66299161,34.88382980"
+            }
+          },
+          {
+            "AreaCode": "27205",
+            "Name": "吹田市",
+            "Kana": "すいたし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.51677094,34.75925182"
+            }
+          },
+          {
+            "AreaCode": "27224",
+            "Name": "摂津市",
+            "Kana": "せっつし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.56196081,34.77738439"
+            }
+          },
+          {
+            "AreaCode": "27228",
+            "Name": "泉南市",
+            "Kana": "せんなんし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.27334163,34.36600417"
+            }
+          },
+          {
+            "AreaCode": "27381",
+            "Name": "太子町（南河内郡）",
+            "Kana": "たいしちょう（みなみかわちぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.64779736,34.51871713"
+            }
+          },
+          {
+            "AreaCode": "27218",
+            "Name": "大東市",
+            "Kana": "だいとうし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.62365952,34.71201793"
+            }
+          },
+          {
+            "AreaCode": "27225",
+            "Name": "高石市",
+            "Kana": "たかいしし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.44245495,34.52071951"
+            }
+          },
+          {
+            "AreaCode": "27207",
+            "Name": "高槻市",
+            "Kana": "たかつきし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.61727382,34.84616115"
+            }
+          },
+          {
+            "AreaCode": "27362",
+            "Name": "田尻町（泉南郡）",
+            "Kana": "たじりちょう（せんなんぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.29117574,34.39377644"
+            }
+          },
+          {
+            "AreaCode": "27341",
+            "Name": "忠岡町（泉北郡）",
+            "Kana": "ただおかちょう（せんぼくぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.40132593,34.48709223"
+            }
+          },
+          {
+            "AreaCode": "27383",
+            "Name": "千早赤阪村（南河内郡）",
+            "Kana": "ちはやあかさかむら（みなみかわちぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.62250883,34.46460896"
+            }
+          },
+          {
+            "AreaCode": "27203",
+            "Name": "豊中市",
+            "Kana": "とよなかし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.46991910,34.78127910"
+            }
+          },
+          {
+            "AreaCode": "27321",
+            "Name": "豊能町（豊能郡）",
+            "Kana": "とよのちょう（とよのぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.49415646,34.91893915"
+            }
+          },
+          {
+            "AreaCode": "27214",
+            "Name": "富田林市",
+            "Kana": "とんだばやしし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.59712739,34.49952693"
+            }
+          },
+          {
+            "AreaCode": "27215",
+            "Name": "寝屋川市",
+            "Kana": "ねやがわし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.62809941,34.76609247"
+            }
+          },
+          {
+            "AreaCode": "27322",
+            "Name": "能勢町（豊能郡）",
+            "Kana": "のせちょう（とよのぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.41388209,34.97342497"
+            }
+          },
+          {
+            "AreaCode": "27222",
+            "Name": "羽曳野市",
+            "Kana": "はびきのし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.60621177,34.55803453"
+            }
+          },
+          {
+            "AreaCode": "27232",
+            "Name": "阪南市",
+            "Kana": "はんなんし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.23966995,34.35958487"
+            }
+          },
+          {
+            "AreaCode": "27227",
+            "Name": "東大阪市",
+            "Kana": "ひがしおおさかし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.60092057,34.67931009"
+            }
+          },
+          {
+            "AreaCode": "27210",
+            "Name": "枚方市",
+            "Kana": "ひらかたし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.65065814,34.81433992"
+            }
+          },
+          {
+            "AreaCode": "27226",
+            "Name": "藤井寺市",
+            "Kana": "ふじいでらし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.59747328,34.57427986"
+            }
+          },
+          {
+            "AreaCode": "27217",
+            "Name": "松原市",
+            "Kana": "まつばらし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.55192730,34.57795362"
+            }
+          },
+          {
+            "AreaCode": "27366",
+            "Name": "岬町（泉南郡）",
+            "Kana": "みさきちょう（せんなんぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.14220019,34.31691041"
+            }
+          },
+          {
+            "AreaCode": "27220",
+            "Name": "箕面市",
+            "Kana": "みのおし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.47038451,34.82712964"
+            }
+          },
+          {
+            "AreaCode": "27209",
+            "Name": "守口市",
+            "Kana": "もりぐちし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.56175066,34.73578644"
+            }
+          },
+          {
+            "AreaCode": "27212",
+            "Name": "八尾市",
+            "Kana": "やおし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.60097712,34.62686598"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

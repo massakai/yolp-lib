@@ -1,0 +1,302 @@
+{
+  "ResultInfo": {
+    "Count": 30,
+    "Total": 30,
+    "Start": 1,
+    "Status": 200,
+    "Description": "",
+    "Copyright": "",
+    "Latency": 0.008
+  },
+  "Feature": [
+    {
+      "Name": "和歌山県",
+      "Geometry": {
+        "Type": "point",
+        "Coordinates": "135.16750245,34.22601109",
+        "BoundingBox": "134.9985580,33.4330880 136.0134670,34.3845280"
+      },
+      "Property": {
+        "CassetteId": "b22fee69b0dcaf2c2fe2d6a27906dafc",
+        "Country": {
+          "Code": "JP",
+          "Name": "日本"
+        },
+        "Address": "和歌山県",
+        "GovernmentCode": "30",
+        "AddressDirectory": [
+          {
+            "AreaCode": "30366",
+            "Name": "有田川町（有田郡）",
+            "Kana": "ありだがわちょう（ありだぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.21613746,34.05751575"
+            }
+          },
+          {
+            "AreaCode": "30204",
+            "Name": "有田市",
+            "Kana": "ありだし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.12763472,34.08309798"
+            }
+          },
+          {
+            "AreaCode": "30390",
+            "Name": "印南町（日高郡）",
+            "Kana": "いなみちょう（ひだかぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.22266975,33.81956409"
+            }
+          },
+          {
+            "AreaCode": "30209",
+            "Name": "岩出市",
+            "Kana": "いわでし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.31135930,34.25621356"
+            }
+          },
+          {
+            "AreaCode": "30202",
+            "Name": "海南市",
+            "Kana": "かいなんし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.23973642,34.15761631"
+            }
+          },
+          {
+            "AreaCode": "30341",
+            "Name": "かつらぎ町（伊都郡）",
+            "Kana": "かつらぎちょう（いとぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.50383591,34.29639507"
+            }
+          },
+          {
+            "AreaCode": "30404",
+            "Name": "上富田町（西牟婁郡）",
+            "Kana": "かみとんだちょう（にしむろぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.42894928,33.69619067"
+            }
+          },
+          {
+            "AreaCode": "30427",
+            "Name": "北山村（東牟婁郡）",
+            "Kana": "きたやまむら（ひがしむろぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.96938730,33.93234571"
+            }
+          },
+          {
+            "AreaCode": "30208",
+            "Name": "紀の川市",
+            "Kana": "きのかわし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.36259012,34.26952401"
+            }
+          },
+          {
+            "AreaCode": "30304",
+            "Name": "紀美野町（海草郡）",
+            "Kana": "きみのちょう（かいそうぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.30748084,34.16722154"
+            }
+          },
+          {
+            "AreaCode": "30428",
+            "Name": "串本町（東牟婁郡）",
+            "Kana": "くしもとちょう（ひがしむろぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.78686921,33.48582398"
+            }
+          },
+          {
+            "AreaCode": "30343",
+            "Name": "九度山町（伊都郡）",
+            "Kana": "くどやまちょう（いとぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.56208668,34.28728818"
+            }
+          },
+          {
+            "AreaCode": "30344",
+            "Name": "高野町（伊都郡）",
+            "Kana": "こうやちょう（いとぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.58656634,34.21622388"
+            }
+          },
+          {
+            "AreaCode": "30424",
+            "Name": "古座川町（東牟婁郡）",
+            "Kana": "こざがわちょう（ひがしむろぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.81463544,33.53165847"
+            }
+          },
+          {
+            "AreaCode": "30205",
+            "Name": "御坊市",
+            "Kana": "ごぼうし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.15234658,33.89149175"
+            }
+          },
+          {
+            "AreaCode": "30401",
+            "Name": "白浜町（西牟婁郡）",
+            "Kana": "しらはまちょう（にしむろぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.34819806,33.67825271"
+            }
+          },
+          {
+            "AreaCode": "30207",
+            "Name": "新宮市",
+            "Kana": "しんぐうし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.99253223,33.72420190"
+            }
+          },
+          {
+            "AreaCode": "30406",
+            "Name": "すさみ町（西牟婁郡）",
+            "Kana": "すさみちょう（にしむろぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.49669499,33.54996211"
+            }
+          },
+          {
+            "AreaCode": "30422",
+            "Name": "太地町（東牟婁郡）",
+            "Kana": "たいじちょう（ひがしむろぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.94416963,33.59409199"
+            }
+          },
+          {
+            "AreaCode": "30206",
+            "Name": "田辺市",
+            "Kana": "たなべし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.37772600,33.72801372"
+            }
+          },
+          {
+            "AreaCode": "30421",
+            "Name": "那智勝浦町（東牟婁郡）",
+            "Kana": "なちかつうらちょう（ひがしむろぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.94106911,33.62594911"
+            }
+          },
+          {
+            "AreaCode": "30203",
+            "Name": "橋本市",
+            "Kana": "はしもとし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.60532362,34.31490518"
+            }
+          },
+          {
+            "AreaCode": "30392",
+            "Name": "日高川町（日高郡）",
+            "Kana": "ひだかがわちょう（ひだかぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.18587127,33.91177100"
+            }
+          },
+          {
+            "AreaCode": "30382",
+            "Name": "日高町（日高郡）",
+            "Kana": "ひだかちょう（ひだかぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.14088598,33.92572935"
+            }
+          },
+          {
+            "AreaCode": "30362",
+            "Name": "広川町（有田郡）",
+            "Kana": "ひろがわちょう（ありだぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.17309490,34.02975115"
+            }
+          },
+          {
+            "AreaCode": "30391",
+            "Name": "みなべ町（日高郡）",
+            "Kana": "みなべちょう（ひだかぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.32093686,33.77229911"
+            }
+          },
+          {
+            "AreaCode": "30381",
+            "Name": "美浜町（日高郡）",
+            "Kana": "みはまちょう（ひだかぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.13310092,33.89375510"
+            }
+          },
+          {
+            "AreaCode": "30361",
+            "Name": "湯浅町（有田郡）",
+            "Kana": "ゆあさちょう（ありだぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.19045133,34.02939359"
+            }
+          },
+          {
+            "AreaCode": "30383",
+            "Name": "由良町（日高郡）",
+            "Kana": "ゆらちょう（ひだかぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.11835138,33.95922563"
+            }
+          },
+          {
+            "AreaCode": "30201",
+            "Name": "和歌山市",
+            "Kana": "わかやまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "135.17072987,34.23033837"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "ResultInfo": {
+    "Count": 20,
+    "Total": 20,
+    "Start": 1,
+    "Status": 200,
+    "Description": "",
+    "Copyright": "",
+    "Latency": 0.007
+  },
+  "Feature": [
+    {
+      "Name": "佐賀県",
+      "Geometry": {
+        "Type": "point",
+        "Coordinates": "130.29931883,33.24935218",
+        "BoundingBox": "129.7360410,32.9504780 130.5422170,33.6190220"
+      },
+      "Property": {
+        "CassetteId": "b22fee69b0dcaf2c2fe2d6a27906dafc",
+        "Country": {
+          "Code": "JP",
+          "Name": "日本"
+        },
+        "Address": "佐賀県",
+        "GovernmentCode": "41",
+        "AddressDirectory": [
+          {
+            "AreaCode": "41401",
+            "Name": "有田町（西松浦郡）",
+            "Kana": "ありたちょう（にしまつうらぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "129.84911425,33.21056031"
+            }
+          },
+          {
+            "AreaCode": "41205",
+            "Name": "伊万里市",
+            "Kana": "いまりし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "129.88026924,33.26458528"
+            }
+          },
+          {
+            "AreaCode": "41209",
+            "Name": "嬉野市",
+            "Kana": "うれしのし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.06012224,33.12806408"
+            }
+          },
+          {
+            "AreaCode": "41423",
+            "Name": "大町町（杵島郡）",
+            "Kana": "おおまちちょう（きしまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.11602227,33.21393922"
+            }
+          },
+          {
+            "AreaCode": "41208",
+            "Name": "小城市",
+            "Kana": "おぎし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.21693288,33.27366713"
+            }
+          },
+          {
+            "AreaCode": "41207",
+            "Name": "鹿島市",
+            "Kana": "かしまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.09876891,33.10372321"
+            }
+          },
+          {
+            "AreaCode": "41345",
+            "Name": "上峰町（三養基郡）",
+            "Kana": "かみみねちょう（みやきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.42610921,33.31948953"
+            }
+          },
+          {
+            "AreaCode": "41202",
+            "Name": "唐津市",
+            "Kana": "からつし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "129.96798944,33.45016262"
+            }
+          },
+          {
+            "AreaCode": "41210",
+            "Name": "神埼市",
+            "Kana": "かんざきし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.37177927,33.31162607"
+            }
+          },
+          {
+            "AreaCode": "41341",
+            "Name": "基山町（三養基郡）",
+            "Kana": "きやまちょう（みやきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.52281268,33.42685191"
+            }
+          },
+          {
+            "AreaCode": "41387",
+            "Name": "玄海町（東松浦郡）",
+            "Kana": "げんかいちょう（ひがしまつうらぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "129.87508629,33.47219703"
+            }
+          },
+          {
+            "AreaCode": "41424",
+            "Name": "江北町（杵島郡）",
+            "Kana": "こうほくまち（きしまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.15753011,33.22059477"
+            }
+          },
+          {
+            "AreaCode": "41201",
+            "Name": "佐賀市",
+            "Kana": "さがし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.30085729,33.26348150"
+            }
+          },
+          {
+            "AreaCode": "41425",
+            "Name": "白石町（杵島郡）",
+            "Kana": "しろいしちょう（きしまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.14349916,33.18103489"
+            }
+          },
+          {
+            "AreaCode": "41204",
+            "Name": "多久市",
+            "Kana": "たくし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.11007121,33.28854318"
+            }
+          },
+          {
+            "AreaCode": "41206",
+            "Name": "武雄市",
+            "Kana": "たけおし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.02151104,33.19472576"
+            }
+          },
+          {
+            "AreaCode": "41441",
+            "Name": "太良町（藤津郡）",
+            "Kana": "たらちょう（ふじつぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.17897332,33.01940999"
+            }
+          },
+          {
+            "AreaCode": "41203",
+            "Name": "鳥栖市",
+            "Kana": "とすし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.50625804,33.37775442"
+            }
+          },
+          {
+            "AreaCode": "41346",
+            "Name": "みやき町（三養基郡）",
+            "Kana": "みやきちょう（みやきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.45438480,33.32467339"
+            }
+          },
+          {
+            "AreaCode": "41327",
+            "Name": "吉野ヶ里町（神埼郡）",
+            "Kana": "よしのがりちょう（かんざきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.39880217,33.32118890"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

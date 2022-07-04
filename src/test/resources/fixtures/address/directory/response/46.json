@@ -1,0 +1,419 @@
+{
+  "ResultInfo": {
+    "Count": 43,
+    "Total": 43,
+    "Start": 1,
+    "Status": 200,
+    "Description": "",
+    "Copyright": "",
+    "Latency": 0.009
+  },
+  "Feature": [
+    {
+      "Name": "鹿児島県",
+      "Geometry": {
+        "Type": "point",
+        "Coordinates": "130.55799118,31.56010440",
+        "BoundingBox": "129.6573610,30.9907640 131.2054790,32.3085520"
+      },
+      "Property": {
+        "CassetteId": "b22fee69b0dcaf2c2fe2d6a27906dafc",
+        "Country": {
+          "Code": "JP",
+          "Name": "日本"
+        },
+        "Address": "鹿児島県",
+        "GovernmentCode": "46",
+        "AddressDirectory": [
+          {
+            "AreaCode": "46225",
+            "Name": "姶良市",
+            "Kana": "あいらし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.62717706,31.72789995"
+            }
+          },
+          {
+            "AreaCode": "46206",
+            "Name": "阿久根市",
+            "Kana": "あくねし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.19277313,32.01447233"
+            }
+          },
+          {
+            "AreaCode": "46531",
+            "Name": "天城町（大島郡）",
+            "Kana": "あまぎちょう（おおしまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "128.89770407,27.81178159"
+            }
+          },
+          {
+            "AreaCode": "46222",
+            "Name": "奄美市",
+            "Kana": "あまみし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "129.49374320,28.37723916"
+            }
+          },
+          {
+            "AreaCode": "46224",
+            "Name": "伊佐市",
+            "Kana": "いさし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.61309900,32.05722445"
+            }
+          },
+          {
+            "AreaCode": "46208",
+            "Name": "出水市",
+            "Kana": "いずみし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.35275546,32.09057183"
+            }
+          },
+          {
+            "AreaCode": "46532",
+            "Name": "伊仙町（大島郡）",
+            "Kana": "いせんちょう（おおしまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "128.93763707,27.67363876"
+            }
+          },
+          {
+            "AreaCode": "46219",
+            "Name": "いちき串木野市",
+            "Kana": "いちきくしきのし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.27193120,31.71455544"
+            }
+          },
+          {
+            "AreaCode": "46210",
+            "Name": "指宿市",
+            "Kana": "いぶすきし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.63303110,31.25276981"
+            }
+          },
+          {
+            "AreaCode": "46524",
+            "Name": "宇検村（大島郡）",
+            "Kana": "うけんそん（おおしまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "129.29709478,28.28073094"
+            }
+          },
+          {
+            "AreaCode": "46468",
+            "Name": "大崎町（曽於郡）",
+            "Kana": "おおさきちょう（そおぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.00542862,31.42907235"
+            }
+          },
+          {
+            "AreaCode": "46201",
+            "Name": "鹿児島市",
+            "Kana": "かごしまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.55711521,31.59655589"
+            }
+          },
+          {
+            "AreaCode": "46203",
+            "Name": "鹿屋市",
+            "Kana": "かのやし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.85207699,31.37829201"
+            }
+          },
+          {
+            "AreaCode": "46529",
+            "Name": "喜界町（大島郡）",
+            "Kana": "きかいちょう（おおしまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "129.94003484,28.31683838"
+            }
+          },
+          {
+            "AreaCode": "46492",
+            "Name": "肝付町（肝属郡）",
+            "Kana": "きもつきちょう（きもつきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.94509790,31.34426397"
+            }
+          },
+          {
+            "AreaCode": "46218",
+            "Name": "霧島市",
+            "Kana": "きりしまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.76313291,31.74097865"
+            }
+          },
+          {
+            "AreaCode": "46490",
+            "Name": "錦江町（肝属郡）",
+            "Kana": "きんこうちょう（きもつきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.78739215,31.24372452"
+            }
+          },
+          {
+            "AreaCode": "46215",
+            "Name": "薩摩川内市",
+            "Kana": "さつませんだいし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.30396599,31.81347778"
+            }
+          },
+          {
+            "AreaCode": "46392",
+            "Name": "さつま町（薩摩郡）",
+            "Kana": "さつまちょう（さつまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.45565959,31.90570332"
+            }
+          },
+          {
+            "AreaCode": "46221",
+            "Name": "志布志市",
+            "Kana": "しぶしし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.09984930,31.47753004"
+            }
+          },
+          {
+            "AreaCode": "46525",
+            "Name": "瀬戸内町（大島郡）",
+            "Kana": "せとうちちょう（おおしまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "129.31490458,28.14640455"
+            }
+          },
+          {
+            "AreaCode": "46217",
+            "Name": "曽於市",
+            "Kana": "そおし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "131.01936783,31.65361776"
+            }
+          },
+          {
+            "AreaCode": "46527",
+            "Name": "龍郷町（大島郡）",
+            "Kana": "たつごうちょう（おおしまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "129.58911734,28.41328555"
+            }
+          },
+          {
+            "AreaCode": "46214",
+            "Name": "垂水市",
+            "Kana": "たるみずし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.70090606,31.49275901"
+            }
+          },
+          {
+            "AreaCode": "46534",
+            "Name": "知名町（大島郡）",
+            "Kana": "ちなちょう（おおしまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "128.57372997,27.33367534"
+            }
+          },
+          {
+            "AreaCode": "46530",
+            "Name": "徳之島町（大島郡）",
+            "Kana": "とくのしまちょう（おおしまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "129.01838270,27.72668425"
+            }
+          },
+          {
+            "AreaCode": "46304",
+            "Name": "十島村（鹿児島郡）",
+            "Kana": "としまむら（かごしまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.56056501,31.59318417"
+            }
+          },
+          {
+            "AreaCode": "46404",
+            "Name": "長島町（出水郡）",
+            "Kana": "ながしまちょう（いずみぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.17703826,32.19934624"
+            }
+          },
+          {
+            "AreaCode": "46501",
+            "Name": "中種子町（熊毛郡）",
+            "Kana": "なかたねちょう（くまげぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.95887983,30.53281888"
+            }
+          },
+          {
+            "AreaCode": "46213",
+            "Name": "西之表市",
+            "Kana": "にしのおもてし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.99687353,30.73244184"
+            }
+          },
+          {
+            "AreaCode": "46216",
+            "Name": "日置市",
+            "Kana": "ひおきし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.40244901,31.63373041"
+            }
+          },
+          {
+            "AreaCode": "46482",
+            "Name": "東串良町（肝属郡）",
+            "Kana": "ひがしくしらちょう（きもつきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.97343046,31.38596355"
+            }
+          },
+          {
+            "AreaCode": "46204",
+            "Name": "枕崎市",
+            "Kana": "まくらざきし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.29690394,31.27289993"
+            }
+          },
+          {
+            "AreaCode": "46303",
+            "Name": "三島村（鹿児島郡）",
+            "Kana": "みしまむら（かごしまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.56068995,31.59457848"
+            }
+          },
+          {
+            "AreaCode": "46491",
+            "Name": "南大隅町（肝属郡）",
+            "Kana": "みなみおおすみちょう（きもつきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.76864148,31.21726810"
+            }
+          },
+          {
+            "AreaCode": "46223",
+            "Name": "南九州市",
+            "Kana": "みなみきゅうしゅうし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.44190601,31.37821452"
+            }
+          },
+          {
+            "AreaCode": "46220",
+            "Name": "南さつま市",
+            "Kana": "みなみさつまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.32340480,31.41661934"
+            }
+          },
+          {
+            "AreaCode": "46502",
+            "Name": "南種子町（熊毛郡）",
+            "Kana": "みなみたねちょう（くまげぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.90044277,30.41408213"
+            }
+          },
+          {
+            "AreaCode": "46505",
+            "Name": "屋久島町（熊毛郡）",
+            "Kana": "やくしまちょう（くまげぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.65120987,30.39027766"
+            }
+          },
+          {
+            "AreaCode": "46523",
+            "Name": "大和村（大島郡）",
+            "Kana": "やまとそん（おおしまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "129.39526313,28.35808837"
+            }
+          },
+          {
+            "AreaCode": "46452",
+            "Name": "湧水町（姶良郡）",
+            "Kana": "ゆうすいちょう（あいらぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "130.72099907,31.95165736"
+            }
+          },
+          {
+            "AreaCode": "46535",
+            "Name": "与論町（大島郡）",
+            "Kana": "よろんちょう（おおしまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "128.42161488,27.04497395"
+            }
+          },
+          {
+            "AreaCode": "46533",
+            "Name": "和泊町（大島郡）",
+            "Kana": "わどまりちょう（おおしまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "128.65550249,27.39200933"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

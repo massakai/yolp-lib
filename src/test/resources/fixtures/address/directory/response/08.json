@@ -1,0 +1,428 @@
+{
+  "ResultInfo": {
+    "Count": 44,
+    "Total": 44,
+    "Start": 1,
+    "Status": 200,
+    "Description": "",
+    "Copyright": "",
+    "Latency": 0.01
+  },
+  "Feature": [
+    {
+      "Name": "茨城県",
+      "Geometry": {
+        "Type": "point",
+        "Coordinates": "140.44682106,36.34183837",
+        "BoundingBox": "139.6877110,35.7390890 140.8521490,36.9452370"
+      },
+      "Property": {
+        "CassetteId": "b22fee69b0dcaf2c2fe2d6a27906dafc",
+        "Country": {
+          "Code": "JP",
+          "Name": "日本"
+        },
+        "Address": "茨城県",
+        "GovernmentCode": "08",
+        "AddressDirectory": [
+          {
+            "AreaCode": "08443",
+            "Name": "阿見町（稲敷郡）",
+            "Kana": "あみまち（いなしきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.21476887,36.03080854"
+            }
+          },
+          {
+            "AreaCode": "08205",
+            "Name": "石岡市",
+            "Kana": "いしおかし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.28711107,36.19039785"
+            }
+          },
+          {
+            "AreaCode": "08223",
+            "Name": "潮来市",
+            "Kana": "いたこし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.55533059,35.94710804"
+            }
+          },
+          {
+            "AreaCode": "08229",
+            "Name": "稲敷市",
+            "Kana": "いなしきし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.30364528,35.97293980"
+            }
+          },
+          {
+            "AreaCode": "08302",
+            "Name": "茨城町（東茨城郡）",
+            "Kana": "いばらきまち（ひがしいばらきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.42449755,36.28679778"
+            }
+          },
+          {
+            "AreaCode": "08219",
+            "Name": "牛久市",
+            "Kana": "うしくし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.14952593,35.97937734"
+            }
+          },
+          {
+            "AreaCode": "08309",
+            "Name": "大洗町（東茨城郡）",
+            "Kana": "おおあらいまち（ひがしいばらきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.57492123,36.31334504"
+            }
+          },
+          {
+            "AreaCode": "08236",
+            "Name": "小美玉市",
+            "Kana": "おみたまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.35255341,36.23929956"
+            }
+          },
+          {
+            "AreaCode": "08216",
+            "Name": "笠間市",
+            "Kana": "かさまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.30427278,36.34523549"
+            }
+          },
+          {
+            "AreaCode": "08222",
+            "Name": "鹿嶋市",
+            "Kana": "かしまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.64481550,35.96575774"
+            }
+          },
+          {
+            "AreaCode": "08230",
+            "Name": "かすみがうら市",
+            "Kana": "かすみがうらし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.23693940,36.15156444"
+            }
+          },
+          {
+            "AreaCode": "08232",
+            "Name": "神栖市",
+            "Kana": "かみすし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.66452962,35.88995474"
+            }
+          },
+          {
+            "AreaCode": "08447",
+            "Name": "河内町（稲敷郡）",
+            "Kana": "かわちまち（いなしきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.24446496,35.88479610"
+            }
+          },
+          {
+            "AreaCode": "08215",
+            "Name": "北茨城市",
+            "Kana": "きたいばらきし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.75098212,36.80191114"
+            }
+          },
+          {
+            "AreaCode": "08204",
+            "Name": "古河市",
+            "Kana": "こがし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.75536220,36.17823583"
+            }
+          },
+          {
+            "AreaCode": "08542",
+            "Name": "五霞町（猿島郡）",
+            "Kana": "ごかまち（さしまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.74593189,36.11410450"
+            }
+          },
+          {
+            "AreaCode": "08546",
+            "Name": "境町（猿島郡）",
+            "Kana": "さかいまち（さしまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.79495526,36.10843445"
+            }
+          },
+          {
+            "AreaCode": "08231",
+            "Name": "桜川市",
+            "Kana": "さくらがわし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.09041060,36.32725835"
+            }
+          },
+          {
+            "AreaCode": "08210",
+            "Name": "下妻市",
+            "Kana": "しもつまし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.96737400,36.18451324"
+            }
+          },
+          {
+            "AreaCode": "08211",
+            "Name": "常総市",
+            "Kana": "じょうそうし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.99361957,36.02349316"
+            }
+          },
+          {
+            "AreaCode": "08310",
+            "Name": "城里町（東茨城郡）",
+            "Kana": "しろさとまち（ひがしいばらきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.37616818,36.47936620"
+            }
+          },
+          {
+            "AreaCode": "08364",
+            "Name": "大子町（久慈郡）",
+            "Kana": "だいごまち（くじぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.35497086,36.76801256"
+            }
+          },
+          {
+            "AreaCode": "08214",
+            "Name": "高萩市",
+            "Kana": "たかはぎし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.70942379,36.71368011"
+            }
+          },
+          {
+            "AreaCode": "08227",
+            "Name": "筑西市",
+            "Kana": "ちくせいし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.97940659,36.30524973"
+            }
+          },
+          {
+            "AreaCode": "08220",
+            "Name": "つくば市",
+            "Kana": "つくばし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.07660814,36.08348244"
+            }
+          },
+          {
+            "AreaCode": "08235",
+            "Name": "つくばみらい市",
+            "Kana": "つくばみらいし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.03705243,35.96298206"
+            }
+          },
+          {
+            "AreaCode": "08203",
+            "Name": "土浦市",
+            "Kana": "つちうらし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.20433341,36.07829932"
+            }
+          },
+          {
+            "AreaCode": "08341",
+            "Name": "東海村（那珂郡）",
+            "Kana": "とうかいむら（なかぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.56654774,36.47277930"
+            }
+          },
+          {
+            "AreaCode": "08564",
+            "Name": "利根町（北相馬郡）",
+            "Kana": "とねまち（きたそうまぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.13918676,35.85774930"
+            }
+          },
+          {
+            "AreaCode": "08217",
+            "Name": "取手市",
+            "Kana": "とりでし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.05045958,35.91146020"
+            }
+          },
+          {
+            "AreaCode": "08226",
+            "Name": "那珂市",
+            "Kana": "なかし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.48683936,36.45746045"
+            }
+          },
+          {
+            "AreaCode": "08233",
+            "Name": "行方市",
+            "Kana": "なめがたし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.48906101,35.99044293"
+            }
+          },
+          {
+            "AreaCode": "08228",
+            "Name": "坂東市",
+            "Kana": "ばんどうし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.88889510,36.04822438"
+            }
+          },
+          {
+            "AreaCode": "08212",
+            "Name": "常陸太田市",
+            "Kana": "ひたちおおたし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.53106315,36.53827698"
+            }
+          },
+          {
+            "AreaCode": "08225",
+            "Name": "常陸大宮市",
+            "Kana": "ひたちおおみやし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.41097317,36.54260939"
+            }
+          },
+          {
+            "AreaCode": "08202",
+            "Name": "日立市",
+            "Kana": "ひたちし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.65046100,36.59913111"
+            }
+          },
+          {
+            "AreaCode": "08221",
+            "Name": "ひたちなか市",
+            "Kana": "ひたちなかし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.53493437,36.39660335"
+            }
+          },
+          {
+            "AreaCode": "08234",
+            "Name": "鉾田市",
+            "Kana": "ほこたし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.51648560,36.15863388"
+            }
+          },
+          {
+            "AreaCode": "08201",
+            "Name": "水戸市",
+            "Kana": "みとし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.47159597,36.36585816"
+            }
+          },
+          {
+            "AreaCode": "08442",
+            "Name": "美浦村（稲敷郡）",
+            "Kana": "みほむら（いなしきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.30178917,36.00435844"
+            }
+          },
+          {
+            "AreaCode": "08224",
+            "Name": "守谷市",
+            "Kana": "もりやし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.97539061,35.95142021"
+            }
+          },
+          {
+            "AreaCode": "08521",
+            "Name": "八千代町（結城郡）",
+            "Kana": "やちよまち（ゆうきぐん）",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.89110308,36.18164348"
+            }
+          },
+          {
+            "AreaCode": "08207",
+            "Name": "結城市",
+            "Kana": "ゆうきし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "139.87147245,36.28960402"
+            }
+          },
+          {
+            "AreaCode": "08208",
+            "Name": "龍ケ崎市",
+            "Kana": "りゅうがさきし",
+            "Geometry": {
+              "Type": "point",
+              "Coordinates": "140.18226629,35.91159340"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
