@@ -7,11 +7,14 @@ import static org.mockserver.model.HttpResponse.response;
 import com.github.massakai.yolp.ResourceReader;
 import com.github.massakai.yolp.address.directory.response.AddressDirectory;
 import com.github.massakai.yolp.address.directory.response.AddressDirectoryResponse;
+import com.github.massakai.yolp.address.directory.response.BoundingBox;
+import com.github.massakai.yolp.address.directory.response.Coordinates;
 import com.github.massakai.yolp.address.directory.response.Country;
 import com.github.massakai.yolp.address.directory.response.Feature;
 import com.github.massakai.yolp.address.directory.response.Geometry;
 import com.github.massakai.yolp.address.directory.response.Property;
 import com.github.massakai.yolp.address.directory.response.ResultInfo;
+import java.math.BigDecimal;
 import java.time.Duration;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
@@ -77,8 +80,18 @@ class AddressDirectoryClientTest {
     assertThat(feature.getGeometry()).isEqualTo(
         Geometry.builder()
                 .type("point")
-                .coordinates("141.34685706,43.06451413")
-                .boundingBox("139.3338800,41.3516210 148.8950450,45.5577170")
+                .coordinates(
+                    Coordinates.builder()
+                               .longitude(new BigDecimal("141.34685706"))
+                               .latitude(new BigDecimal("43.06451413"))
+                               .build())
+                .boundingBox(
+                    BoundingBox.builder()
+                               .left(new BigDecimal("139.3338800"))
+                               .top(new BigDecimal("41.3516210"))
+                               .right(new BigDecimal("148.8950450"))
+                               .bottom(new BigDecimal("45.5577170"))
+                               .build())
                 .build()
     );
 
@@ -104,7 +117,11 @@ class AddressDirectoryClientTest {
                         .geometry(
                             Geometry.builder()
                                     .type("point")
-                                    .coordinates("142.57797573,43.90650582")
+                                    .coordinates(
+                                        Coordinates.builder()
+                                                   .longitude(new BigDecimal("142.57797573"))
+                                                   .latitude(new BigDecimal("43.90650582"))
+                                                   .build())
                                     .build())
                         .build()
     );
