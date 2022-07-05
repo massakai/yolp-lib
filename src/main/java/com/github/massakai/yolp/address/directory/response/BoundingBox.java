@@ -14,4 +14,17 @@ public class BoundingBox {
   BigDecimal top;
   BigDecimal right;
   BigDecimal bottom;
+
+  /**
+   * 座標がバウンディングボックスの内部に含まれているかどうか
+   *
+   * @param coordinates 座標
+   * @return 含まれる場合は{@code true}, 含まれない場合は{@code false}
+   */
+  public boolean contains(final Coordinates coordinates) {
+    return left.compareTo(coordinates.getLongitude()) < 0
+        && right.compareTo(coordinates.getLongitude()) > 0
+        && bottom.compareTo(coordinates.getLatitude()) < 0
+        && top.compareTo(coordinates.getLatitude()) > 0;
+  }
 }
